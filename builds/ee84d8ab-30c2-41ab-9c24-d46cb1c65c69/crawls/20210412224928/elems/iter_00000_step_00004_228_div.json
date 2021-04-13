@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BQFtqp30cp9aAkQl9FUQwg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1359_Y660_W517_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "permission-list-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "permission-list-item", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Alex ChappoAdmin", 
+            "type": "", 
+            "value": "", 
+            "width": 517, 
+            "x": 1359, 
+            "xPercent": 70.79182942708333, 
+            "y": 660, 
+            "yPercent": 74.47799097065463
+        }, 
+        "location": {
+            "x": 1359, 
+            "y": 660
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 517
+        }, 
+        "tag_name": "div", 
+        "text": "Alex ChappoAdmin"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Alex ChappoAdmin", 
+    "transformed": true, 
+    "width": 517, 
+    "x": 1359, 
+    "y": 660
+}

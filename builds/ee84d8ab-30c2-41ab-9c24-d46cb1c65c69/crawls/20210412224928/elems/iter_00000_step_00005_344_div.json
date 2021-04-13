@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Uq3KNr7dzr97PO0S3XNL5w==\n", 
+    "height": 369, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y412_W533_H369", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-sharing"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "ws-sharing", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 369, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SharingVisibilityTeamAll teammates can view and join asAdminThe visibility of your default workspaces can't be changed.MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave", 
+            "type": "", 
+            "value": "", 
+            "width": 533, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 412, 
+            "yPercent": 46.518764108352144
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 412
+        }, 
+        "size": {
+            "height": 369, 
+            "width": 533
+        }, 
+        "tag_name": "div", 
+        "text": "SharingVisibilityTeamAll teammates can view and join asAdminThe visibility of your default workspaces can't be changed.MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SharingVisibilityTeamAll teammates can view and join asAdminThe visibility of your default workspaces can't be changed.MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave", 
+    "transformed": true, 
+    "width": 533, 
+    "x": 1351, 
+    "y": 412
+}

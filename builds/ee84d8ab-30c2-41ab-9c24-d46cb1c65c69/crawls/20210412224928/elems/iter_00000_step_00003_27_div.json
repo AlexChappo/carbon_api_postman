@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "fvXpjmr2YMYq34TWcXtCRA==\n", 
+    "height": 474, 
+    "hier_level": 0, 
+    "human_hash": "div_X764_Y108_W392_H474", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pm-card"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pm-card", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 474, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Sign In\n            \n              Create Account instead?\n            \n          \n\n          \n            \n          \n\n          \n            \n              Email or Username\n              \n              \n            \n            \n              Password\n              \n              \n            \n            \n              \n              Keep me signed in\n              Select to stay signed in for 30 days.\n              Forgot Password?\n              \n                You will be logged out after 30 minutes of inactivity.\n              \n            \n            \n              \n                Sign In\n              \n            \n\n            \n          \n\n          \n            \n          \n\n          \n            \n              \n            \n            \n              Sign in with Google", 
+            "type": "", 
+            "value": "", 
+            "width": 392, 
+            "x": 764, 
+            "xPercent": 39.791666666666664, 
+            "y": 108, 
+            "yPercent": 12.18961625282167
+        }, 
+        "location": {
+            "x": 764, 
+            "y": 108
+        }, 
+        "size": {
+            "height": 474, 
+            "width": 392
+        }, 
+        "tag_name": "div", 
+        "text": "Sign In\n            \n              Create Account instead?\n            \n          \n\n          \n            \n          \n\n          \n            \n              Email or Username\n              \n              \n            \n            \n              Password\n              \n              \n            \n            \n              \n              Keep me signed in\n              Select to stay signed in for 30 days.\n              Forgot Password?\n              \n                You will be logged out after 30 minutes of inactivity.\n              \n            \n            \n              \n                Sign In\n              \n            \n\n            \n          \n\n          \n            \n          \n\n          \n            \n              \n            \n            \n              Sign in with Google"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Sign In\n            \n              Create Account instead?\n            \n          \n\n          \n            \n          \n\n          \n            \n              Email or Username\n              \n              \n            \n            \n              Password\n              \n              \n            \n            \n              \n              Keep me signed in\n              Select to stay signed in for 30 days.\n              Forgot Password?\n              \n                You will be logged out after 30 minutes of inactivity.\n              \n            \n            \n              \n                Sign In\n              \n            \n\n            \n          \n\n          \n            \n          \n\n          \n            \n              \n            \n            \n              Sign in with Google", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 764, 
+    "y": 108
+}

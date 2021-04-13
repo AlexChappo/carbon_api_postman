@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Z5sQLaCBnvIEAW34+RUXyQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "h1_X404_Y235_W872_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-statistics-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "ws-statistics-header", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "In this workspace", 
+            "type": "", 
+            "value": "", 
+            "width": 872, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 235, 
+            "yPercent": 26.49195823927765
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 235
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 872
+        }, 
+        "tag_name": "h1", 
+        "text": "In this workspace"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "In this workspace", 
+    "transformed": true, 
+    "width": 872, 
+    "x": 404, 
+    "y": 235
+}

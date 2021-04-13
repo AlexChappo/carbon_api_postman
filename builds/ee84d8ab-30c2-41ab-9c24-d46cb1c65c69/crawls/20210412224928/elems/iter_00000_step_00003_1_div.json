@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2Lh8tU9sOwZ1bGTYkeFKgw==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "div_X986_Y172_W138_H26", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sign-up-link-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 26, 26)", 
+            "cssClass": "sign-up-link-container", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Create Account instead?", 
+            "type": "", 
+            "value": "", 
+            "width": 138, 
+            "x": 986, 
+            "xPercent": 51.35986328124999, 
+            "y": 172, 
+            "yPercent": 19.41309255079007
+        }, 
+        "location": {
+            "x": 986, 
+            "y": 172
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 138
+        }, 
+        "tag_name": "div", 
+        "text": "Create Account instead?"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Create Account instead?", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 986, 
+    "y": 172
+}

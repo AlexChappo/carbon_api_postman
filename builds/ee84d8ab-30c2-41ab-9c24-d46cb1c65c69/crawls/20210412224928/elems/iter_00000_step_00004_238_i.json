@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "H5Zi3RZVtQAw6c0MfBSkXw==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "i_X1359_Y293_W16_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Icon__IconContainer-sc-577psq-0 ckaLkN pm-icon pm-icon-normal create-new-entity-icon", 
+                "title": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "Icon__IconContainer-sc-577psq-0 ckaLkN pm-icon pm-icon-normal create-new-entity-icon", 
+            "domLevel": 25, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 16, 
+            "x": 1359, 
+            "xPercent": 70.79182942708333, 
+            "y": 293, 
+            "yPercent": 33.11935665914221
+        }, 
+        "location": {
+            "x": 1359, 
+            "y": 293
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 16
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 16, 
+    "x": 1359, 
+    "y": 293
+}

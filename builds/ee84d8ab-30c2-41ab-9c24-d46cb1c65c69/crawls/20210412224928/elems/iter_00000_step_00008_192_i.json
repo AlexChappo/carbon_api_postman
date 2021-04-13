@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SUXfGQ8d2K/K2ApuYD0yog==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "i_X351_Y162_W16_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Icon__IconContainer-sc-577psq-0 ckaLkN entity-actions-dropdown__icon", 
+                "title": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "Icon__IconContainer-sc-577psq-0 ckaLkN entity-actions-dropdown__icon", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 16, 
+            "x": 351, 
+            "xPercent": 18.28125, 
+            "y": 162, 
+            "yPercent": 18.284424379232505
+        }, 
+        "location": {
+            "x": 351, 
+            "y": 162
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 16
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 16, 
+    "x": 351, 
+    "y": 162
+}

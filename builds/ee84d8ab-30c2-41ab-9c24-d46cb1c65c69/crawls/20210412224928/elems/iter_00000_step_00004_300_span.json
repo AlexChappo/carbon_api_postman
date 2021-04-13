@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/vIWLHYzEwUhoq2DWeWvxg==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X460_Y685_W49_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-item-time"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(128, 128, 128)", 
+            "cssClass": "workspace-activity-item-time", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "an hr ago", 
+            "type": "", 
+            "value": "", 
+            "width": 49, 
+            "x": 460, 
+            "xPercent": 23.958333333333336, 
+            "y": 685, 
+            "yPercent": 77.36314898419865
+        }, 
+        "location": {
+            "x": 460, 
+            "y": 685
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 49
+        }, 
+        "tag_name": "span", 
+        "text": "an hr ago"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "an hr ago", 
+    "transformed": true, 
+    "width": 49, 
+    "x": 460, 
+    "y": 685
+}

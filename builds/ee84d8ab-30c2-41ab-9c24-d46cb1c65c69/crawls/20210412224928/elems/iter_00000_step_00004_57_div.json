@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "S5uOPdlT3pq6/Wew4fWkFQ==\n", 
+    "height": 128, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y612_W533_H128", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "domLevel": 26, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 128, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NickSelect RoleAlex ChappoAdminYouSelect Role", 
+            "type": "", 
+            "value": "", 
+            "width": 533, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 612, 
+            "yPercent": 69.06038374717834
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 612
+        }, 
+        "size": {
+            "height": 128, 
+            "width": 533
+        }, 
+        "tag_name": "div", 
+        "text": "NickSelect RoleAlex ChappoAdminYouSelect Role"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NickSelect RoleAlex ChappoAdminYouSelect Role", 
+    "transformed": true, 
+    "width": 533, 
+    "x": 1351, 
+    "y": 612
+}

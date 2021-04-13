@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HmmkKjSh8fykiONFIGkwSA==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "div_X796_Y383_W328_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pm-form-group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pm-form-group", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Keep me signed in\n              Select to stay signed in for 30 days.\n              Forgot Password?\n              \n                You will be logged out after 30 minutes of inactivity.", 
+            "type": "", 
+            "value": "", 
+            "width": 328, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 383, 
+            "yPercent": 43.22799097065463
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 383
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 328
+        }, 
+        "tag_name": "div", 
+        "text": "Keep me signed in\n              Select to stay signed in for 30 days.\n              Forgot Password?\n              \n                You will be logged out after 30 minutes of inactivity."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Keep me signed in\n              Select to stay signed in for 30 days.\n              Forgot Password?\n              \n                You will be logged out after 30 minutes of inactivity.", 
+    "transformed": true, 
+    "width": 328, 
+    "x": 796, 
+    "y": 383
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "C/TKUZ7u88m1My5uH8SbEw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1432_Y96_W32_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown entity-actions-dropdown", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "dropdown entity-actions-dropdown", 
+            "domLevel": 28, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1432, 
+            "xPercent": 74.58333333333333, 
+            "y": 96, 
+            "yPercent": 10.778781038374719
+        }, 
+        "location": {
+            "x": 1432, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 32
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1432, 
+    "y": 96
+}

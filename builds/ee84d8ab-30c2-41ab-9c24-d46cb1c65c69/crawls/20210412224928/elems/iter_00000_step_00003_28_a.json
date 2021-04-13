@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "FwaU1TJl/bXlnhLtP+8tww==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "a_X986_Y176_W89_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/signup?continue=https%3A%2F%2Ftest-ai.postman.co%2Fworkspace%2F088c8c8e-2596-446c-8c5b-a0f0bceed889%2Foverview", 
+                "id": "sign-up-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(239, 91, 37)", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 17, 
+            "identifier": "sign-up-link", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Create Account", 
+            "type": "", 
+            "value": "", 
+            "width": 89, 
+            "x": 986, 
+            "xPercent": 51.35986328124999, 
+            "y": 176, 
+            "yPercent": 19.864559819413092
+        }, 
+        "location": {
+            "x": 986, 
+            "y": 176
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 89
+        }, 
+        "tag_name": "a", 
+        "text": "Create Account"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Create Account", 
+    "transformed": true, 
+    "width": 89, 
+    "x": 986, 
+    "y": 176
+}

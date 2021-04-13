@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dJgZrL6KP+vwCcZEmicxUQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X1399_Y628_W321_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "permission-list-item--name"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "permission-list-item--name", 
+            "domLevel": 34, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Nick", 
+            "type": "", 
+            "value": "", 
+            "width": 321, 
+            "x": 1399, 
+            "xPercent": 72.87516276041667, 
+            "y": 628, 
+            "yPercent": 70.92268623024832
+        }, 
+        "location": {
+            "x": 1399, 
+            "y": 628
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 321
+        }, 
+        "tag_name": "span", 
+        "text": "Nick"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Nick", 
+    "transformed": true, 
+    "width": 321, 
+    "x": 1399, 
+    "y": 628
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IWU8oo1mmEJquvm/J90/hQ==\n", 
+    "height": 193, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y588_W533_H193", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "edit-workspace__input-group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "edit-workspace__input-group", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 193, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave", 
+            "type": "", 
+            "value": "", 
+            "width": 533, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 588, 
+            "yPercent": 66.35158013544017
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 588
+        }, 
+        "size": {
+            "height": 193, 
+            "width": 533
+        }, 
+        "tag_name": "div", 
+        "text": "MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave", 
+    "transformed": true, 
+    "width": 533, 
+    "x": 1351, 
+    "y": 588
+}

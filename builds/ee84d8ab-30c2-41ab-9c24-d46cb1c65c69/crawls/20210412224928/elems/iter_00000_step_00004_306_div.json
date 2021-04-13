@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "df8szQHuqRM0AcK4wrIavw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X404_Y168_W888_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-meta"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "ws-meta", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Add summary to briefly explain what this workspace is all about...This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks.", 
+            "type": "", 
+            "value": "", 
+            "width": 888, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 168, 
+            "yPercent": 18.961625282167045
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 168
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 888
+        }, 
+        "tag_name": "div", 
+        "text": "Add summary to briefly explain what this workspace is all about...This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Add summary to briefly explain what this workspace is all about...This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks.", 
+    "transformed": true, 
+    "width": 888, 
+    "x": 404, 
+    "y": 168
+}

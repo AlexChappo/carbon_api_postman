@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "uoLhGrhpvOl/WFIY98LHig==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "a_X796_Y510_W328_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pm-btn pm-btn-info google-sign-in", 
+                "href": "/google/oauth2"
+            }, 
+            "background-color": "rgb(66, 133, 244)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "pm-btn pm-btn-info google-sign-in", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sign in with Google", 
+            "type": "", 
+            "value": "", 
+            "width": 328, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 510, 
+            "yPercent": 57.53738713318285
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 510
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 328
+        }, 
+        "tag_name": "a", 
+        "text": "Sign in with Google"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sign in with Google", 
+    "transformed": true, 
+    "width": 328, 
+    "x": 796, 
+    "y": 510
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "QlFO4FW9xypkjl7hMh9BiQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1354_Y96_W70_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-tertiary collection-editor-header__action", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "btn btn-tertiary collection-editor-header__action", 
+            "domLevel": 28, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Share", 
+            "type": "", 
+            "value": "", 
+            "width": 70, 
+            "x": 1354, 
+            "xPercent": 70.53955078125, 
+            "y": 96, 
+            "yPercent": 10.778781038374719
+        }, 
+        "location": {
+            "x": 1354, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 70
+        }, 
+        "tag_name": "div", 
+        "text": "Share"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Share", 
+    "transformed": true, 
+    "width": 70, 
+    "x": 1354, 
+    "y": 96
+}

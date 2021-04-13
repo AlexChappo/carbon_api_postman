@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3iGZOhYhwYNnRS5SOqQWgA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X408_Y227_W496_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "auth-type-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "auth-type-wrapper", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "TypeNo Auth", 
+            "type": "", 
+            "value": "", 
+            "width": 496, 
+            "x": 408, 
+            "xPercent": 21.25, 
+            "y": 227, 
+            "yPercent": 25.62076749435666
+        }, 
+        "location": {
+            "x": 408, 
+            "y": 227
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 496
+        }, 
+        "tag_name": "div", 
+        "text": "TypeNo Auth"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "TypeNo Auth", 
+    "transformed": true, 
+    "width": 496, 
+    "x": 408, 
+    "y": 227
+}

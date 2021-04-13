@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "F6rPZwyDOlVUMcvjO/GxYA==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "div_X396_Y184_W1068_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collection-modal-tab-content-description"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "collection-modal-tab-content-description", 
+            "domLevel": 30, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "This authorization method will be used for every request in this collection. You can override this by specifying one in the request.", 
+            "type": "", 
+            "value": "", 
+            "width": 1068, 
+            "x": 396, 
+            "xPercent": 20.625, 
+            "y": 184, 
+            "yPercent": 20.767494356659142
+        }, 
+        "location": {
+            "x": 396, 
+            "y": 184
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 1068
+        }, 
+        "tag_name": "div", 
+        "text": "This authorization method will be used for every request in this collection. You can override this by specifying one in the request."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "This authorization method will be used for every request in this collection. You can override this by specifying one in the request.", 
+    "transformed": true, 
+    "width": 1068, 
+    "x": 396, 
+    "y": 184
+}

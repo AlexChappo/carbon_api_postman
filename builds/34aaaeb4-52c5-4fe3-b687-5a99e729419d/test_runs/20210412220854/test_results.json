@@ -1,0 +1,351 @@
+{
+    "34aaaeb4-52c5-4fe3-b687-5a99e729419d": {
+        "fail": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "test_runs/20210412220854", 
+                "created": "2021-04-12 22:09:34", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 3, 
+                "curr_sub_step": 0, 
+                "custom_data": [
+                    {
+                        "id": "browser_name", 
+                        "label": "Browser", 
+                        "value": "Chrome"
+                    }
+                ], 
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name", 
+                        "label": "Original Test Case Name", 
+                        "value": "Wait"
+                    }
+                ], 
+                "description": "", 
+                "failures": {
+                    "2": {
+                        "label": null, 
+                        "note": "Could not find: btn_my_label."
+                    }, 
+                    "3": {
+                        "label": null, 
+                        "note": "label_not_found"
+                    }
+                }, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:lnk_wait"
+                ], 
+                "note": "Could not find: btn_my_label. | label_not_found", 
+                "original_title": "Wait", 
+                "result": "fail", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "x9qhR6Z6hpFgsKe8ZUkJtg==\n", 
+                                "height": 40, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X822_Y8_W48_H40", 
+                                "human_readable": "a_822_8_48_40_a_000000000000000000003d303ff83ff81ff81ff81aec00000000000000000000_8343e523a5fb810c577d43df09757882", 
+                                "img_hash": "86cf8c1de1b0d181a6d41b69224c0761", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "nav-link", 
+                                            "href": "wait.html"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgba(255, 255, 255, 0.5)", 
+                                        "cssClass": "nav-link", 
+                                        "domLevel": 7, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"", 
+                                        "font-weight": "400", 
+                                        "fontSize": 16, 
+                                        "height": 40, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Wait", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 48, 
+                                        "x": 822, 
+                                        "xPercent": 42.799479166666664, 
+                                        "y": 8, 
+                                        "yPercent": 0.9029345372460496
+                                    }, 
+                                    "location": {
+                                        "x": 822, 
+                                        "y": 8
+                                    }, 
+                                    "size": {
+                                        "height": 40, 
+                                        "width": 48
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Wait"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Wait", 
+                                "text_hash": "8343e523a5fb810c577d43df09757882", 
+                                "transformed": true, 
+                                "width": 48, 
+                                "x": 822, 
+                                "y": 8
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_wait"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Wait - 7a215a1a-8b71-4a9f-9803-2bd6f891592a/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "lnk_wait"
+                        ], 
+                        "timing": 1.8106389045715332
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Wait - 7a215a1a-8b71-4a9f-9803-2bd6f891592a/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [], 
+                        "timing": 1.4948399066925049
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": null, 
+                            "elem_info": {
+                                "behavior": "", 
+                                "content-desc": "", 
+                                "enabled": true, 
+                                "hier_level": 0, 
+                                "human_hash": "", 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": ""
+                            }, 
+                            "gesture": null, 
+                            "text": null
+                        }, 
+                        "cpu": 0, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Wait - 7a215a1a-8b71-4a9f-9803-2bd6f891592a/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "timing": 0
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "fYHvEwmWOR7c95aD49XXMA==\n", 
+                                "height": 886, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H886", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": false, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Wait - 7a215a1a-8b71-4a9f-9803-2bd6f891592a/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "timing": 0.9840359687805176
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_wait"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "wait_for_label.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_my_label"
+                        ], 
+                        "script_name": "wait_for_label.py", 
+                        "tag": "labels: btn_my_label, text:  (count = None)", 
+                        "type": "verification", 
+                        "wait_id": "79f6a59c-05b4-4cf1-80ec-a45c9a734c52", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_label_found"
+                        ], 
+                        "script_name": "wait_for_label.py", 
+                        "tag": "labels: btn_my_label, text:  (count = None)", 
+                        "type": "action", 
+                        "wait_id": "79f6a59c-05b4-4cf1-80ec-a45c9a734c52", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Wait for Template Match", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "wait_for_template_match.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_open_slow_modal"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Wait for Delayed Modal and Close", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "execute_script", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "wait_for_job_to_complete.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "nick", 
+                    "script"
+                ], 
+                "temp_id": "1cb719dc-91a6-11eb-8e01-787b8ade0f4b", 
+                "title": "Wait - 7a215a1a-8b71-4a9f-9803-2bd6f891592a", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

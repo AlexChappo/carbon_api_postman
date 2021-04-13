@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "J8scUeMJZr175mRFunyRQg==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "label_X796_Y221_W328_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pm-form-label", 
+                "for": "username"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(40, 40, 40)", 
+            "cssClass": "pm-form-label", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Email or Username", 
+            "type": "", 
+            "value": "", 
+            "width": 328, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 221, 
+            "yPercent": 24.943566591422123
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 221
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 328
+        }, 
+        "tag_name": "label", 
+        "text": "Email or Username"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Email or Username", 
+    "transformed": true, 
+    "width": 328, 
+    "x": 796, 
+    "y": 221
+}

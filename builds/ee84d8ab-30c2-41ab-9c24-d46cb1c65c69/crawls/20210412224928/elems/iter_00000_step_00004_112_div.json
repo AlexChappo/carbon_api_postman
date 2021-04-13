@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LAneKfEjHJdD578Tq6qRpQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1359_Y620_W517_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "permission-list-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "permission-list-item", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NickSelect Role", 
+            "type": "", 
+            "value": "", 
+            "width": 517, 
+            "x": 1359, 
+            "xPercent": 70.79182942708333, 
+            "y": 620, 
+            "yPercent": 69.96331828442437
+        }, 
+        "location": {
+            "x": 1359, 
+            "y": 620
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 517
+        }, 
+        "tag_name": "div", 
+        "text": "NickSelect Role"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NickSelect Role", 
+    "transformed": true, 
+    "width": 517, 
+    "x": 1359, 
+    "y": 620
+}

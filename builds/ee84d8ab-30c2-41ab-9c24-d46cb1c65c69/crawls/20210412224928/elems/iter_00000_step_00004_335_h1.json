@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZpsvfweP+HxfqVd3yOZaeg==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "h1_X404_Y343_W888_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-activity-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "ws-activity-header", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Activity", 
+            "type": "", 
+            "value": "", 
+            "width": 888, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 343, 
+            "yPercent": 38.68157449209932
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 343
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 888
+        }, 
+        "tag_name": "h1", 
+        "text": "Activity"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Activity", 
+    "transformed": true, 
+    "width": 888, 
+    "x": 404, 
+    "y": 343
+}

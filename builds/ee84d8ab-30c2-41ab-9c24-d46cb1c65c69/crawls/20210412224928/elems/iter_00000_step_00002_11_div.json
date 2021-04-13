@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1YJ+N0vsmjympKaWQTmn3Q==\n", 
+    "height": 65, 
+    "hier_level": 0, 
+    "human_hash": "div_X796_Y302_W328_H65", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pm-form-group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pm-form-group", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 65, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Password", 
+            "type": "", 
+            "value": "", 
+            "width": 328, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 302, 
+            "yPercent": 34.08577878103837
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 302
+        }, 
+        "size": {
+            "height": 65, 
+            "width": 328
+        }, 
+        "tag_name": "div", 
+        "text": "Password"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Password", 
+    "transformed": true, 
+    "width": 328, 
+    "x": 796, 
+    "y": 302
+}

@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Dp2zOedZVzrvVhckzota4w==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X8_Y606_W1904_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "terms-and-privacy-links"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 20, 
+            "identifier": "terms-and-privacy-links", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Terms of use\n          Privacy Policy", 
+            "type": "", 
+            "value": "", 
+            "width": 1904, 
+            "x": 8, 
+            "xPercent": 0.4166666666666667, 
+            "y": 606, 
+            "yPercent": 68.37260158013544
+        }, 
+        "location": {
+            "x": 8, 
+            "y": 606
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 1904
+        }, 
+        "tag_name": "div", 
+        "text": "Terms of use\n          Privacy Policy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Terms of use\n          Privacy Policy", 
+    "transformed": true, 
+    "width": 1904, 
+    "x": 8, 
+    "y": 606
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2eiuFAsAuK063LACqEVINw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "span_X1561_Y546_W343_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "documentation-list__item-name"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "documentation-list__item-name", 
+            "domLevel": 29, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Builds", 
+            "type": "", 
+            "value": "", 
+            "width": 343, 
+            "x": 1561, 
+            "xPercent": 81.31510416666666, 
+            "y": 546, 
+            "yPercent": 61.6252821670429
+        }, 
+        "location": {
+            "x": 1561, 
+            "y": 546
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 343
+        }, 
+        "tag_name": "span", 
+        "text": "Builds"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Builds", 
+    "transformed": true, 
+    "width": 343, 
+    "x": 1561, 
+    "y": 546
+}

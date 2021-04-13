@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "KPe2ZhuafeAy6YQ6S5WDZA==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "a_X874_Y608_W74_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.postman.com/legal/eula", 
+                "target": "_blank", 
+                "title": "Terms of use"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(102, 102, 102)", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Terms of use", 
+            "type": "", 
+            "value": "", 
+            "width": 74, 
+            "x": 874, 
+            "xPercent": 45.5029296875, 
+            "y": 608, 
+            "yPercent": 68.59833521444695
+        }, 
+        "location": {
+            "x": 874, 
+            "y": 608
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 74
+        }, 
+        "tag_name": "a", 
+        "text": "Terms of use"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Terms of use", 
+    "transformed": true, 
+    "width": 74, 
+    "x": 874, 
+    "y": 608
+}

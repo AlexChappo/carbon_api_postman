@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HBDK8Pi/i1QeCIzmhxxPnA==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "i_X1496_Y200_W16_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Icon__IconContainer-sc-577psq-0 ckaLkN", 
+                "title": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "Icon__IconContainer-sc-577psq-0 ckaLkN", 
+            "domLevel": 26, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 16, 
+            "x": 1496, 
+            "xPercent": 77.91666666666667, 
+            "y": 200, 
+            "yPercent": 22.573363431151243
+        }, 
+        "location": {
+            "x": 1496, 
+            "y": 200
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 16
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 16, 
+    "x": 1496, 
+    "y": 200
+}

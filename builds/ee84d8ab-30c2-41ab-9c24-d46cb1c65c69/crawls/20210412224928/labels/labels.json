@@ -1,0 +1,17 @@
+{
+    "elems": {
+        "iter_00000_step_00001_4_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00003_17_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00007_203_div.png": [
+            "div_app_id"
+        ], 
+        "iter_00000_step_00008_143_div.png": [
+            "div_get_requests"
+        ]
+    }, 
+    "screens": {}
+}

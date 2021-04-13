@@ -1,0 +1,32 @@
+[
+    {
+        "file_name": "iter_00000_step_00008_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/screens/iter_00000_step_00008_screenshot.png", 
+        "score": 388
+    }, 
+    {
+        "file_name": "iter_00000_step_00004_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/screens/iter_00000_step_00004_screenshot.png", 
+        "score": 380
+    }, 
+    {
+        "file_name": "iter_00000_step_00006_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/screens/iter_00000_step_00006_screenshot.png", 
+        "score": 378
+    }, 
+    {
+        "file_name": "iter_00000_step_00007_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/screens/iter_00000_step_00007_screenshot.png", 
+        "score": 377
+    }, 
+    {
+        "file_name": "iter_00000_step_00003_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/screens/iter_00000_step_00003_screenshot.png", 
+        "score": 31
+    }, 
+    {
+        "file_name": "iter_00000_step_00000_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/screens/iter_00000_step_00000_screenshot.png", 
+        "score": 31
+    }
+]
