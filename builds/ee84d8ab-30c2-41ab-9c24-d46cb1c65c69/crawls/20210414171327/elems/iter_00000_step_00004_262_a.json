@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "XhfRhv5mjrAtwu8vJJuGVQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "a_X65_Y623_W256_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "external-link", 
+                "href": "https://www.postman.com/support", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "external-link", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Help", 
+            "type": "", 
+            "value": "", 
+            "width": 256, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 623, 
+            "yPercent": 70.31602708803611
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 623
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 256
+        }, 
+        "tag_name": "a", 
+        "text": "Help"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Help", 
+    "transformed": true, 
+    "width": 256, 
+    "x": 65, 
+    "y": 623
+}

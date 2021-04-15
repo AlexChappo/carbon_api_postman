@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "baquzMVmvKJyUhRiTXlWRQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y552_W533_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-visibility-v2--info"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "workspace-visibility-v2--info", 
+            "domLevel": 24, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "The visibility of your default workspaces can't be changed.", 
+            "type": "", 
+            "value": "", 
+            "width": 533, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 552, 
+            "yPercent": 62.28837471783296
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 552
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 533
+        }, 
+        "tag_name": "div", 
+        "text": "The visibility of your default workspaces can't be changed."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "The visibility of your default workspaces can't be changed.", 
+    "transformed": true, 
+    "width": 533, 
+    "x": 1351, 
+    "y": 552
+}

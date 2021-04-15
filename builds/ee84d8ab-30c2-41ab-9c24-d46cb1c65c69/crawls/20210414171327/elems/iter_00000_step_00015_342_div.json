@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7AaRJP6X6SO+vM1gRi/8aQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y290_W1492_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "key-value-form-row__draggable"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "key-value-form-row__draggable", 
+            "domLevel": 41, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "KeyValueDescription", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 290, 
+            "yPercent": 32.731376975169304
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 290
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "KeyValueDescription"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "KeyValueDescription", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 290
+}

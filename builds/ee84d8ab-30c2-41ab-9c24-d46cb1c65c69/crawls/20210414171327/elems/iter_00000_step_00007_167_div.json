@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "oc2ZGbFeGg/XOj7oiklgvw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1282_Y96_W64_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-tertiary is-disabled collection-editor-header__action", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "btn btn-tertiary is-disabled collection-editor-header__action", 
+            "domLevel": 29, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Save", 
+            "type": "", 
+            "value": "", 
+            "width": 64, 
+            "x": 1282, 
+            "xPercent": 66.77652994791666, 
+            "y": 96, 
+            "yPercent": 10.778781038374719
+        }, 
+        "location": {
+            "x": 1282, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 64
+        }, 
+        "tag_name": "div", 
+        "text": "Save"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Save", 
+    "transformed": true, 
+    "width": 64, 
+    "x": 1282, 
+    "y": 96
+}

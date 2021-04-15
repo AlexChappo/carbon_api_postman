@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KFsiFrblg1PYi7r78hnbow==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X65_Y428_W256_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-sidebar-tab-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "homepage-sidebar-tab-title", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Integrations", 
+            "type": "", 
+            "value": "", 
+            "width": 256, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 428, 
+            "yPercent": 48.306997742663654
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 428
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 256
+        }, 
+        "tag_name": "div", 
+        "text": "Integrations"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Integrations", 
+    "transformed": true, 
+    "width": 256, 
+    "x": 65, 
+    "y": 428
+}

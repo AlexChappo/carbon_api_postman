@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ywOpAyB259kyQA94Gpy/kQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X823_Y192_W55_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab tab-primary request-editor-tab-body request-editor-tab--tests tab--tests"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "tab tab-primary request-editor-tab-body request-editor-tab--tests tab--tests", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Tests", 
+            "type": "", 
+            "value": "", 
+            "width": 55, 
+            "x": 823, 
+            "xPercent": 42.860514322916664, 
+            "y": 192, 
+            "yPercent": 21.670428893905193
+        }, 
+        "location": {
+            "x": 823, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 55
+        }, 
+        "tag_name": "div", 
+        "text": "Tests"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Tests", 
+    "transformed": true, 
+    "width": 55, 
+    "x": 823, 
+    "y": 192
+}

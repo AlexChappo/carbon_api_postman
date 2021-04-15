@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "doVc2vHWOka+2gqSWSs8RQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X1097_Y61_W82_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab-title__text-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-tab-title__text-wrapper", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GETTests", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 1097, 
+            "xPercent": 57.15820312499999, 
+            "y": 61, 
+            "yPercent": 6.8284424379232505
+        }, 
+        "location": {
+            "x": 1097, 
+            "y": 61
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 82
+        }, 
+        "tag_name": "div", 
+        "text": "GETTests"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GETTests", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 1097, 
+    "y": 61
+}

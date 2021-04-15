@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "tEECvactkEql5kE1FtZvDw==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "span_X65_Y256_W250_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "team-details-widget-details__domain", 
+                "title": "test-ai.postman.co"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "team-details-widget-details__domain", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "test-ai.postman.co", 
+            "type": "", 
+            "value": "", 
+            "width": 250, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 256, 
+            "yPercent": 28.893905191873586
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 256
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 250
+        }, 
+        "tag_name": "span", 
+        "text": "test-ai.postman.co"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "test-ai.postman.co", 
+    "transformed": true, 
+    "width": 250, 
+    "x": 65, 
+    "y": 256
+}

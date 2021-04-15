@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VCcesFlsMucjImaiMzPt5A==\n", 
+    "height": 770, 
+    "hier_level": 0, 
+    "human_hash": "div_X1340_Y112_W552_H770", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-feed-date-group-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "workspace-activity-feed-date-group-wrapper", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 770, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "April 12, 2021 Public Bot edited the Get Requests collection in Carbon API workspace. View Changelog\n10:25 PMPublic Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PMPublic Bot deleted the New Collection collection in Carbon API workspace\n9:25 PMPublic Bot added the New Collection collection in Carbon API workspace\n9:25 PMPublic Bot edited the Get Requests collection in Carbon API workspace. View Changelog\n9:32 PMPublic Bot renamed the workspace from Team Workspace to Carbon API Get Requests\n9:11 PMPublic Bot added the Get Requests collection in Carbon API workspace\n9:07 PMPublic Bot joined the workspace Testing Download Client API\n6:47 PMPublic Bot joined the workspace Carbon API\n6:47 PMAlex Chappo made Nick workspace Admin for workspace Testing Download Client API\n6:37 PM", 
+            "type": "", 
+            "value": "", 
+            "width": 552, 
+            "x": 1340, 
+            "xPercent": 69.79166666666666, 
+            "y": 112, 
+            "yPercent": 12.641083521444695
+        }, 
+        "location": {
+            "x": 1340, 
+            "y": 112
+        }, 
+        "size": {
+            "height": 770, 
+            "width": 552
+        }, 
+        "tag_name": "div", 
+        "text": "April 12, 2021 Public Bot edited the Get Requests collection in Carbon API workspace. View Changelog\n10:25 PMPublic Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PMPublic Bot deleted the New Collection collection in Carbon API workspace\n9:25 PMPublic Bot added the New Collection collection in Carbon API workspace\n9:25 PMPublic Bot edited the Get Requests collection in Carbon API workspace. View Changelog\n9:32 PMPublic Bot renamed the workspace from Team Workspace to Carbon API Get Requests\n9:11 PMPublic Bot added the Get Requests collection in Carbon API workspace\n9:07 PMPublic Bot joined the workspace Testing Download Client API\n6:47 PMPublic Bot joined the workspace Carbon API\n6:47 PMAlex Chappo made Nick workspace Admin for workspace Testing Download Client API\n6:37 PM"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "April 12, 2021 Public Bot edited the Get Requests collection in Carbon API workspace. View Changelog\n10:25 PMPublic Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PMPublic Bot deleted the New Collection collection in Carbon API workspace\n9:25 PMPublic Bot added the New Collection collection in Carbon API workspace\n9:25 PMPublic Bot edited the Get Requests collection in Carbon API workspace. View Changelog\n9:32 PMPublic Bot renamed the workspace from Team Workspace to Carbon API Get Requests\n9:11 PMPublic Bot added the Get Requests collection in Carbon API workspace\n9:07 PMPublic Bot joined the workspace Testing Download Client API\n6:47 PMPublic Bot joined the workspace Carbon API\n6:47 PMAlex Chappo made Nick workspace Admin for workspace Testing Download Client API\n6:37 PM", 
+    "transformed": true, 
+    "width": 552, 
+    "x": 1340, 
+    "y": 112
+}

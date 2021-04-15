@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lT3UN/9o+JZiZgA/WZ/E3g==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "a_X1702_Y16_W186_H17", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/enterprise/login?continue=https%3A%2F%2Ftest-ai.postman.co%2Fworkspace%2F088c8c8e-2596-446c-8c5b-a0f0bceed889%2Foverview", 
+                "id": "enterprise-sign-in-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(239, 91, 37)", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 17, 
+            "identifier": "enterprise-sign-in-link", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sign in with Single Sign-On (SSO)", 
+            "type": "", 
+            "value": "", 
+            "width": 186, 
+            "x": 1702, 
+            "xPercent": 88.63688151041667, 
+            "y": 16, 
+            "yPercent": 1.805869074492099
+        }, 
+        "location": {
+            "x": 1702, 
+            "y": 16
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 186
+        }, 
+        "tag_name": "a", 
+        "text": "Sign in with Single Sign-On (SSO)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sign in with Single Sign-On (SSO)", 
+    "transformed": true, 
+    "width": 186, 
+    "x": 1702, 
+    "y": 16
+}

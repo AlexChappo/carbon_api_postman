@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yZrRaUwgS+GpyyE1v4zKQg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X402_Y600_W241_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-recent-workspaces-header-info"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "homepage-recent-workspaces-header-info", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Recent workspacesView all \u2192", 
+            "type": "", 
+            "value": "", 
+            "width": 241, 
+            "x": 402, 
+            "xPercent": 20.9375, 
+            "y": 600, 
+            "yPercent": 67.72009029345372
+        }, 
+        "location": {
+            "x": 402, 
+            "y": 600
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 241
+        }, 
+        "tag_name": "div", 
+        "text": "Recent workspacesView all \u2192"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Recent workspacesView all \u2192", 
+    "transformed": true, 
+    "width": 241, 
+    "x": 402, 
+    "y": 600
+}

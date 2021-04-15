@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vDBIV/lyqjN6uzlpuEF2tA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X558_Y192_W71_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab-text-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "tab-text-wrapper", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Headers(7)", 
+            "type": "", 
+            "value": "", 
+            "width": 71, 
+            "x": 558, 
+            "xPercent": 29.06982421875, 
+            "y": 192, 
+            "yPercent": 21.670428893905193
+        }, 
+        "location": {
+            "x": 558, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 71
+        }, 
+        "tag_name": "div", 
+        "text": "Headers(7)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Headers(7)", 
+    "transformed": true, 
+    "width": 71, 
+    "x": 558, 
+    "y": 192
+}

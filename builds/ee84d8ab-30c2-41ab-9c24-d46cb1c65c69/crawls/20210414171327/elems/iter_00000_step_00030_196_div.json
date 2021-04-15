@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UTEpCTKkePCuM6sTcifWog==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X1764_Y263_W36_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown key-value-column-toggle--menu", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(210, 63, 14)", 
+            "cssClass": "dropdown key-value-column-toggle--menu", 
+            "domLevel": 43, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 1764, 
+            "xPercent": 91.89208984375, 
+            "y": 263, 
+            "yPercent": 29.683972911963885
+        }, 
+        "location": {
+            "x": 1764, 
+            "y": 263
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 36
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 36, 
+    "x": 1764, 
+    "y": 263
+}

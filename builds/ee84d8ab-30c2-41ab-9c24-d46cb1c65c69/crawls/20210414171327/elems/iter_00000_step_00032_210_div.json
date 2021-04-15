@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Uxu2zsx1Ytlhwv4Aef2OjQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X900_Y57_W167_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab-title-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "requester-tab-title-wrapper", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GETLabeler Objects", 
+            "type": "", 
+            "value": "", 
+            "width": 167, 
+            "x": 900, 
+            "xPercent": 46.875, 
+            "y": 57, 
+            "yPercent": 6.376975169300225
+        }, 
+        "location": {
+            "x": 900, 
+            "y": 57
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 167
+        }, 
+        "tag_name": "div", 
+        "text": "GETLabeler Objects"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GETLabeler Objects", 
+    "transformed": true, 
+    "width": 167, 
+    "x": 900, 
+    "y": 57
+}

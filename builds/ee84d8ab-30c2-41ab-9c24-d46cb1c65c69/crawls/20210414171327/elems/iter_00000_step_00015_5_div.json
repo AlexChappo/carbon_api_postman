@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "NO6DK4OTcvWUwpx1Dte6xw==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X136_Y162_W17_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collection-sidebar-list-item__request__label request-method--GET"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(12, 187, 82)", 
+            "cssClass": "collection-sidebar-list-item__request__label request-method--GET", 
+            "domLevel": 28, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 9, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GET", 
+            "type": "", 
+            "value": "", 
+            "width": 17, 
+            "x": 136, 
+            "xPercent": 7.070312500000001, 
+            "y": 162, 
+            "yPercent": 18.284424379232505
+        }, 
+        "location": {
+            "x": 136, 
+            "y": 162
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 17
+        }, 
+        "tag_name": "div", 
+        "text": "GET"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GET", 
+    "transformed": true, 
+    "width": 17, 
+    "x": 136, 
+    "y": 162
+}

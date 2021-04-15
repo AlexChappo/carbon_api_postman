@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LMAOdTTKfywon+EDA2U5ww==\n", 
+    "height": 140, 
+    "hier_level": 0, 
+    "human_hash": "div_X65_Y503_W256_H140", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "external-links-widget-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "external-links-widget-container", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 140, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Manage TeamBootcampPostman Learning CenterHelp", 
+            "type": "", 
+            "value": "", 
+            "width": 256, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 503, 
+            "yPercent": 56.77200902934537
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 503
+        }, 
+        "size": {
+            "height": 140, 
+            "width": 256
+        }, 
+        "tag_name": "div", 
+        "text": "Manage TeamBootcampPostman Learning CenterHelp"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Manage TeamBootcampPostman Learning CenterHelp", 
+    "transformed": true, 
+    "width": 256, 
+    "x": 65, 
+    "y": 503
+}

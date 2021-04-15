@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "oBMzIuqUjA1CnqE6/xN/hQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X32_Y862_W1888_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pane-header__section-left"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pane-header__section-left", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Console", 
+            "type": "", 
+            "value": "", 
+            "width": 1888, 
+            "x": 32, 
+            "xPercent": 1.6666666666666667, 
+            "y": 862, 
+            "yPercent": 97.29119638826185
+        }, 
+        "location": {
+            "x": 32, 
+            "y": 862
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 1888
+        }, 
+        "tag_name": "div", 
+        "text": "Console"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Console", 
+    "transformed": true, 
+    "width": 1888, 
+    "x": 32, 
+    "y": 862
+}

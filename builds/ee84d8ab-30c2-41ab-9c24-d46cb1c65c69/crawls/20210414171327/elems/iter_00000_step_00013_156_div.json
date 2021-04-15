@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mrskzP+h5kp5sLog4Dd/vA==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X30_Y180_W21_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-left-sidebar__header-tab-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-left-sidebar__header-tab-title", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "APIs", 
+            "type": "", 
+            "value": "", 
+            "width": 21, 
+            "x": 30, 
+            "xPercent": 1.5364583333333333, 
+            "y": 180, 
+            "yPercent": 20.31602708803612
+        }, 
+        "location": {
+            "x": 30, 
+            "y": 180
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 21
+        }, 
+        "tag_name": "div", 
+        "text": "APIs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "APIs", 
+    "transformed": true, 
+    "width": 21, 
+    "x": 30, 
+    "y": 180
+}

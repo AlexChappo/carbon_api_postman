@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Mva94mjSBWZLE3tRV7pp5A==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X1811_Y866_W45_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "trash-label-button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(128, 128, 128)", 
+            "cssClass": "trash-label-button", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Trash", 
+            "type": "", 
+            "value": "", 
+            "width": 45, 
+            "x": 1811, 
+            "xPercent": 94.32373046875, 
+            "y": 866, 
+            "yPercent": 97.74266365688487
+        }, 
+        "location": {
+            "x": 1811, 
+            "y": 866
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 45
+        }, 
+        "tag_name": "div", 
+        "text": "Trash"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Trash", 
+    "transformed": true, 
+    "width": 45, 
+    "x": 1811, 
+    "y": 866
+}

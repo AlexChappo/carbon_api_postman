@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SpKwqdKdsWZA6jXHodGodg==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X606_Y200_W24_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "request-editor-tabs-count"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 127, 49)", 
+            "cssClass": "request-editor-tabs-count", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "(7)", 
+            "type": "", 
+            "value": "", 
+            "width": 24, 
+            "x": 606, 
+            "xPercent": 31.56005859375, 
+            "y": 200, 
+            "yPercent": 22.573363431151243
+        }, 
+        "location": {
+            "x": 606, 
+            "y": 200
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 24
+        }, 
+        "tag_name": "span", 
+        "text": "(7)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "(7)", 
+    "transformed": true, 
+    "width": 24, 
+    "x": 606, 
+    "y": 200
+}

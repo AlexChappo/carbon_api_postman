@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jmop5+lDrAYjcmeftw0W1A==\n", 
+    "height": 33, 
+    "hier_level": 0, 
+    "human_hash": "div_X73_Y574_W360_H33", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-switcher__footer"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "workspace-switcher__footer", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 33, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "View all workspaces", 
+            "type": "", 
+            "value": "", 
+            "width": 360, 
+            "x": 73, 
+            "xPercent": 3.7915039062500004, 
+            "y": 574, 
+            "yPercent": 64.78555304740406
+        }, 
+        "location": {
+            "x": 73, 
+            "y": 574
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 360
+        }, 
+        "tag_name": "div", 
+        "text": "View all workspaces"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "View all workspaces", 
+    "transformed": true, 
+    "width": 360, 
+    "x": 73, 
+    "y": 574
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HsC+PUvScNYOYU/7oX7+/A==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "h3_X1011_Y253_W210_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-get-started-cards__card-name"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "homepage-get-started-cards__card-name", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Explore our public network", 
+            "type": "", 
+            "value": "", 
+            "width": 210, 
+            "x": 1011, 
+            "xPercent": 52.65625000000001, 
+            "y": 253, 
+            "yPercent": 28.555304740406324
+        }, 
+        "location": {
+            "x": 1011, 
+            "y": 253
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 210
+        }, 
+        "tag_name": "h3", 
+        "text": "Explore our public network"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Explore our public network", 
+    "transformed": true, 
+    "width": 210, 
+    "x": 1011, 
+    "y": 253
+}

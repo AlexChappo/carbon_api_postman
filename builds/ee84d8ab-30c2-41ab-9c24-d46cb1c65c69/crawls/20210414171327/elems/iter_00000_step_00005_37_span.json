@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "quU/gUwN9FTzQSG/0wHZ1A==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X1594_Y509_W37_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Admin", 
+            "type": "", 
+            "value": "", 
+            "width": 37, 
+            "x": 1594, 
+            "xPercent": 83.04280598958333, 
+            "y": 509, 
+            "yPercent": 57.43510158013544
+        }, 
+        "location": {
+            "x": 1594, 
+            "y": 509
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 37
+        }, 
+        "tag_name": "span", 
+        "text": "Admin"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Admin", 
+    "transformed": true, 
+    "width": 37, 
+    "x": 1594, 
+    "y": 509
+}

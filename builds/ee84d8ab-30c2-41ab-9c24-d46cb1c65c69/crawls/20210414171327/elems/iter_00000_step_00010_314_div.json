@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Ps7N4AcbqqMCsQz4sIJ+WQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X603_Y574_W50_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab-text-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "tab-text-wrapper", 
+            "domLevel": 42, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Visualize", 
+            "type": "", 
+            "value": "", 
+            "width": 50, 
+            "x": 603, 
+            "xPercent": 31.427408854166668, 
+            "y": 574, 
+            "yPercent": 64.78555304740406
+        }, 
+        "location": {
+            "x": 603, 
+            "y": 574
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 50
+        }, 
+        "tag_name": "div", 
+        "text": "Visualize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Visualize", 
+    "transformed": true, 
+    "width": 50, 
+    "x": 603, 
+    "y": 574
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "I/dhGxNCgcmnq/mLizfPWg==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "h1_X1351_Y163_W533_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-getstarted-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "ws-getstarted-header", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Get started", 
+            "type": "", 
+            "value": "", 
+            "width": 533, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 163, 
+            "yPercent": 18.365547404063207
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 163
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 533
+        }, 
+        "tag_name": "h1", 
+        "text": "Get started"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Get started", 
+    "transformed": true, 
+    "width": 533, 
+    "x": 1351, 
+    "y": 163
+}

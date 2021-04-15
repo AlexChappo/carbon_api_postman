@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "R6h3z21bidav8xF1YmMZ3g==\n", 
+    "height": 726, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y136_W1100_H726", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collection-editor-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "collection-editor-content", 
+            "domLevel": 26, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 726, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "AuthorizationPre-request ScriptTestsVariablesThis authorization method will be used for every request in this collection. You can override this by specifying one in the request.TypeNo AuthThis collection does not use any authorization. Learn more about authorizationThis script will execute before every request in this collection.\u00a0Learn more about Postman\u2019s execution order.1\u00a0Pre-request scripts are written in JavaScript, and are run before the request is sent.Learn more about pre-request scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestThese tests will execute after every request in this collection.\u00a0Learn more about Postman\u2019s execution order.1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON dataThese variables are specific to this collection and its requests. Learn more about collection variables.VARIABLEINITIAL VALUECURRENT VALUE Persist AllReset AllAdd a new variableUse variables to reuse values in different places. Work with the current value of a variable to prevent sharing sensitive values with your team. Learn more about variable values", 
+            "type": "", 
+            "value": "", 
+            "width": 1100, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 136, 
+            "yPercent": 15.349887133182843
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 136
+        }, 
+        "size": {
+            "height": 726, 
+            "width": 1100
+        }, 
+        "tag_name": "div", 
+        "text": "AuthorizationPre-request ScriptTestsVariablesThis authorization method will be used for every request in this collection. You can override this by specifying one in the request.TypeNo AuthThis collection does not use any authorization. Learn more about authorizationThis script will execute before every request in this collection.\u00a0Learn more about Postman\u2019s execution order.1\u00a0Pre-request scripts are written in JavaScript, and are run before the request is sent.Learn more about pre-request scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestThese tests will execute after every request in this collection.\u00a0Learn more about Postman\u2019s execution order.1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON dataThese variables are specific to this collection and its requests. Learn more about collection variables.VARIABLEINITIAL VALUECURRENT VALUE Persist AllReset AllAdd a new variableUse variables to reuse values in different places. Work with the current value of a variable to prevent sharing sensitive values with your team. Learn more about variable values"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "AuthorizationPre-request ScriptTestsVariablesThis authorization method will be used for every request in this collection. You can override this by specifying one in the request.TypeNo AuthThis collection does not use any authorization. Learn more about authorizationThis script will execute before every request in this collection.\u00a0Learn more about Postman\u2019s execution order.1\u00a0Pre-request scripts are written in JavaScript, and are run before the request is sent.Learn more about pre-request scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestThese tests will execute after every request in this collection.\u00a0Learn more about Postman\u2019s execution order.1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON dataThese variables are specific to this collection and its requests. Learn more about collection variables.VARIABLEINITIAL VALUECURRENT VALUE Persist AllReset AllAdd a new variableUse variables to reuse values in different places. Work with the current value of a variable to prevent sharing sensitive values with your team. Learn more about variable values", 
+    "transformed": true, 
+    "width": 1100, 
+    "x": 380, 
+    "y": 136
+}

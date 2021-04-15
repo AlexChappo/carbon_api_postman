@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "imT137Vx5JA5Yad8EY8PvA==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y627_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:18px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "[{\"platform\":\u00a0\"WEB\",\u00a0\"default_package\":\u00a0null,\u00a0\"id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\",\u00a0\"name\":\u00a0\"TestAI\u00a0Sandbox", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 627, 
+            "yPercent": 70.76749435665914
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 627
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "[{\"platform\":\u00a0\"WEB\",\u00a0\"default_package\":\u00a0null,\u00a0\"id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\",\u00a0\"name\":\u00a0\"TestAI\u00a0Sandbox"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "[{\"platform\":\u00a0\"WEB\",\u00a0\"default_package\":\u00a0null,\u00a0\"id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\",\u00a0\"name\":\u00a0\"TestAI\u00a0Sandbox", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 627
+}

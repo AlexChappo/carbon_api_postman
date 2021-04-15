@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "l4+Jeq2Dfy8R3HIj52xHdg==\n", 
+    "height": 774, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y88_W1492_H774", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pane-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pane-content", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 774, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get RequestsTest Results Case IDSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_results/37694442-679d-4436-a685-a01b415a81e7/SendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescription1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON dataResponseHit Send to get a response", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 88, 
+            "yPercent": 9.932279909706546
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 774, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "Get RequestsTest Results Case IDSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_results/37694442-679d-4436-a685-a01b415a81e7/SendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescription1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON dataResponseHit Send to get a response"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get RequestsTest Results Case IDSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_results/37694442-679d-4436-a685-a01b415a81e7/SendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescription1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON dataResponseHit Send to get a response", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 88
+}

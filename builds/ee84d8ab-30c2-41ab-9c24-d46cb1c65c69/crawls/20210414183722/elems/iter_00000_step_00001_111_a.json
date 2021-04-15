@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "yqJLJ/x87jMZLiePYb2f1A==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "a_X1803_Y862_W61_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sc-ptdsS cwyVMm", 
+                "href": "https://test-ai.postman.co/trash", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sc-ptdsS cwyVMm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Trash", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 1803, 
+            "xPercent": 93.90706380208333, 
+            "y": 862, 
+            "yPercent": 97.29119638826185
+        }, 
+        "location": {
+            "x": 1803, 
+            "y": 862
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 61
+        }, 
+        "tag_name": "a", 
+        "text": "Trash"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Trash", 
+    "transformed": true, 
+    "width": 61, 
+    "x": 1803, 
+    "y": 862
+}

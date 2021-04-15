@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "02x+ljfL284coXCarRPXgA==\n", 
+    "height": 287, 
+    "hier_level": 0, 
+    "human_hash": "div_X388_Y567_W1476_H287", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-viewer-empty__content__editor"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "response-viewer-empty__content__editor", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 287, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Hit Send to get a response", 
+            "type": "", 
+            "value": "", 
+            "width": 1476, 
+            "x": 388, 
+            "xPercent": 20.208333333333332, 
+            "y": 567, 
+            "yPercent": 63.99548532731377
+        }, 
+        "location": {
+            "x": 388, 
+            "y": 567
+        }, 
+        "size": {
+            "height": 287, 
+            "width": 1476
+        }, 
+        "tag_name": "div", 
+        "text": "Hit Send to get a response"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Hit Send to get a response", 
+    "transformed": true, 
+    "width": 1476, 
+    "x": 388, 
+    "y": 567
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7UlOO4EobnMPq9CeDjuwmg==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X1632_Y236_W208_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "snippet-header__help__text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "snippet-header__help__text", 
+            "domLevel": 40, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Test scripts are written in JavaScript, and are run after the response is received.", 
+            "type": "", 
+            "value": "", 
+            "width": 208, 
+            "x": 1632, 
+            "xPercent": 85, 
+            "y": 236, 
+            "yPercent": 26.63656884875846
+        }, 
+        "location": {
+            "x": 1632, 
+            "y": 236
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 208
+        }, 
+        "tag_name": "div", 
+        "text": "Test scripts are written in JavaScript, and are run after the response is received."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Test scripts are written in JavaScript, and are run after the response is received.", 
+    "transformed": true, 
+    "width": 208, 
+    "x": 1632, 
+    "y": 236
+}

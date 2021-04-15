@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6nP228i7bJWzKHy355bs+g==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "a_X589_Y610_W54_H12", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-recent-workspaces-header-info-explore", 
+                "href": "https://test-ai.postman.co/workspaces", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(2, 101, 210)", 
+            "cssClass": "homepage-recent-workspaces-header-info-explore", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "View all \u2192", 
+            "type": "", 
+            "value": "", 
+            "width": 54, 
+            "x": 589, 
+            "xPercent": 30.68359375, 
+            "y": 610, 
+            "yPercent": 68.84875846501129
+        }, 
+        "location": {
+            "x": 589, 
+            "y": 610
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 54
+        }, 
+        "tag_name": "a", 
+        "text": "View all \u2192"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View all \u2192", 
+    "transformed": true, 
+    "width": 54, 
+    "x": 589, 
+    "y": 610
+}

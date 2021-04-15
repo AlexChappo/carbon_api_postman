@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "oyscsc7RyzYvyWemsKOBbQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X286_Y71_W130_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-tertiary workspace-switcher__action workspace-switcher__action--create", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "btn btn-tertiary workspace-switcher__action workspace-switcher__action--create", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "New Workspace", 
+            "type": "", 
+            "value": "", 
+            "width": 130, 
+            "x": 286, 
+            "xPercent": 14.921061197916666, 
+            "y": 71, 
+            "yPercent": 8.01354401805869
+        }, 
+        "location": {
+            "x": 286, 
+            "y": 71
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 130
+        }, 
+        "tag_name": "div", 
+        "text": "New Workspace"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "New Workspace", 
+    "transformed": true, 
+    "width": 130, 
+    "x": 286, 
+    "y": 71
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SwajWDKmVCxTBgEPuHFtiA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X389_Y192_W168_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown-menu-item dropdown-menu-item--GET item is-selected"
+            }, 
+            "background-color": "rgb(230, 230, 230)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "dropdown-menu-item dropdown-menu-item--GET item is-selected", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GET", 
+            "type": "", 
+            "value": "", 
+            "width": 168, 
+            "x": 389, 
+            "xPercent": 20.260416666666668, 
+            "y": 192, 
+            "yPercent": 21.670428893905193
+        }, 
+        "location": {
+            "x": 389, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 168
+        }, 
+        "tag_name": "div", 
+        "text": "GET"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GET", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 389, 
+    "y": 192
+}

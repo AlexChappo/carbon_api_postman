@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vJtFwlD0Mrx/HT6tz0TuJA==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X389_Y233_W36_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "line-numbers", 
+                "style": "left:0px;width:36px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(35, 120, 147)", 
+            "cssClass": "line-numbers", 
+            "domLevel": 43, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "1", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 389, 
+            "xPercent": 20.260416666666668, 
+            "y": 233, 
+            "yPercent": 26.297968397291193
+        }, 
+        "location": {
+            "x": 389, 
+            "y": 233
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 36
+        }, 
+        "tag_name": "div", 
+        "text": "1"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "1", 
+    "transformed": true, 
+    "width": 36, 
+    "x": 389, 
+    "y": 233
+}

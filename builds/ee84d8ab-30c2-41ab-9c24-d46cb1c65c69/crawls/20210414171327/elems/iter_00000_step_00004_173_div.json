@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "t2D2srT+BNuXgn61Xp72Xg==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X402_Y128_W906_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-greeting-body"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "homepage-greeting-body", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Pick up from where you left off, catch-up with your team\u2019s work.", 
+            "type": "", 
+            "value": "", 
+            "width": 906, 
+            "x": 402, 
+            "xPercent": 20.9375, 
+            "y": 128, 
+            "yPercent": 14.446952595936793
+        }, 
+        "location": {
+            "x": 402, 
+            "y": 128
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 906
+        }, 
+        "tag_name": "div", 
+        "text": "Pick up from where you left off, catch-up with your team\u2019s work."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Pick up from where you left off, catch-up with your team\u2019s work.", 
+    "transformed": true, 
+    "width": 906, 
+    "x": 402, 
+    "y": 128
+}

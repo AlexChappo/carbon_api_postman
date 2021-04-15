@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KS1upz5k9jfTHiR0f6926A==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X1630_Y536_W29_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-time response-meta-item-value"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 127, 49)", 
+            "cssClass": "response-time response-meta-item-value", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "8 ms", 
+            "type": "", 
+            "value": "", 
+            "width": 29, 
+            "x": 1630, 
+            "xPercent": 84.88444010416667, 
+            "y": 536, 
+            "yPercent": 60.496613995485326
+        }, 
+        "location": {
+            "x": 1630, 
+            "y": 536
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 29
+        }, 
+        "tag_name": "span", 
+        "text": "8 ms"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "8 ms", 
+    "transformed": true, 
+    "width": 29, 
+    "x": 1630, 
+    "y": 536
+}

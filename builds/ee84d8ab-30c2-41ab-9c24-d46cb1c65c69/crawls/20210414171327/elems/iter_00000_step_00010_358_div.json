@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "4nZ6SZ1W4NhhDCC3YCapqA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X677_Y567_W78_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown-button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "dropdown-button", 
+            "domLevel": 42, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "HTML", 
+            "type": "", 
+            "value": "", 
+            "width": 78, 
+            "x": 677, 
+            "xPercent": 35.279947916666664, 
+            "y": 567, 
+            "yPercent": 63.99548532731377
+        }, 
+        "location": {
+            "x": 677, 
+            "y": 567
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 78
+        }, 
+        "tag_name": "div", 
+        "text": "HTML"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "HTML", 
+    "transformed": true, 
+    "width": 78, 
+    "x": 677, 
+    "y": 567
+}

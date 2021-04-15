@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "82SjlhFd4ZLXBOiZrtC1+w==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X117_Y132_W230_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collection-sidebar-list-item__head__name-icon__wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "collection-sidebar-list-item__head__name-icon__wrapper", 
+            "domLevel": 29, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get Requests", 
+            "type": "", 
+            "value": "", 
+            "width": 230, 
+            "x": 117, 
+            "xPercent": 6.09375, 
+            "y": 132, 
+            "yPercent": 14.89841986455982
+        }, 
+        "location": {
+            "x": 117, 
+            "y": 132
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 230
+        }, 
+        "tag_name": "div", 
+        "text": "Get Requests"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get Requests", 
+    "transformed": true, 
+    "width": 230, 
+    "x": 117, 
+    "y": 132
+}

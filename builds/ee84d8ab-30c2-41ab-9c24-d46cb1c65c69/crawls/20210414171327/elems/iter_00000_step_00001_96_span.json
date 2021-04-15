@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/vFFD26Wi+h+VUfiioyRrQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X427_Y357_W82_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(2, 101, 210)", 
+            "cssClass": "", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Create New \u2192", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 427, 
+            "xPercent": 22.239583333333332, 
+            "y": 357, 
+            "yPercent": 40.293453724604966
+        }, 
+        "location": {
+            "x": 427, 
+            "y": 357
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 82
+        }, 
+        "tag_name": "span", 
+        "text": "Create New \u2192"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Create New \u2192", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 427, 
+    "y": 357
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "aDYMTpID3V0aF2IeQPE26g==\n", 
+    "height": 211, 
+    "hier_level": 0, 
+    "human_hash": "div_X1632_Y308_W240_H211", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "snippet-items"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "snippet-items", 
+            "domLevel": 37, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 211, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON data", 
+            "type": "", 
+            "value": "", 
+            "width": 240, 
+            "x": 1632, 
+            "xPercent": 85, 
+            "y": 308, 
+            "yPercent": 34.76297968397291
+        }, 
+        "location": {
+            "x": 1632, 
+            "y": 308
+        }, 
+        "size": {
+            "height": 211, 
+            "width": 240
+        }, 
+        "tag_name": "div", 
+        "text": "Get an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON data"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON data", 
+    "transformed": true, 
+    "width": 240, 
+    "x": 1632, 
+    "y": 308
+}

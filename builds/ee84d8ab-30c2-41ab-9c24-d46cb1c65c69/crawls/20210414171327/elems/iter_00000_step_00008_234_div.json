@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "tdmC3rxizTO12zcoYBWMVA==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "div_X1528_Y136_W384_H44", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "description-preview description-preview--editable"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "description-preview description-preview--editable", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 44, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Make things easier for your teammates with a complete collection description.", 
+            "type": "", 
+            "value": "", 
+            "width": 384, 
+            "x": 1528, 
+            "xPercent": 79.58333333333333, 
+            "y": 136, 
+            "yPercent": 15.349887133182843
+        }, 
+        "location": {
+            "x": 1528, 
+            "y": 136
+        }, 
+        "size": {
+            "height": 44, 
+            "width": 384
+        }, 
+        "tag_name": "div", 
+        "text": "Make things easier for your teammates with a complete collection description."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Make things easier for your teammates with a complete collection description.", 
+    "transformed": true, 
+    "width": 384, 
+    "x": 1528, 
+    "y": 136
+}

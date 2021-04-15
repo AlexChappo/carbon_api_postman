@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "s0SNfhvht8xsisesIqHxDw==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X707_Y200_W104_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Pre-request Script", 
+            "type": "", 
+            "value": "", 
+            "width": 104, 
+            "x": 707, 
+            "xPercent": 36.80419921875, 
+            "y": 200, 
+            "yPercent": 22.573363431151243
+        }, 
+        "location": {
+            "x": 707, 
+            "y": 200
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 104
+        }, 
+        "tag_name": "span", 
+        "text": "Pre-request Script"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Pre-request Script", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 707, 
+    "y": 200
+}

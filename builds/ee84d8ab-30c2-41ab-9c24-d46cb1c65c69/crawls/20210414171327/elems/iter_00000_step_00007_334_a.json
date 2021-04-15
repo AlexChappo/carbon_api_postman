@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "svHe0HYXQ59cIh02BWlyRw==\n", 
+    "height": 49, 
+    "hier_level": 0, 
+    "human_hash": "a_X1528_Y813_W392_H49", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "documentation-context-bar-footer", 
+                "href": "https://test-ai.postman.co/workspace/Carbon-API~088c8c8e-2596-446c-8c5b-a0f0bceed889/documentation/15353117-179b5b9b-8095-4cec-8db0-497559e084f5", 
+                "target": "_self"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(2, 101, 210)", 
+            "cssClass": "documentation-context-bar-footer", 
+            "domLevel": 24, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 49, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "View complete collection documentation", 
+            "type": "", 
+            "value": "", 
+            "width": 392, 
+            "x": 1528, 
+            "xPercent": 79.58333333333333, 
+            "y": 813, 
+            "yPercent": 91.7607223476298
+        }, 
+        "location": {
+            "x": 1528, 
+            "y": 813
+        }, 
+        "size": {
+            "height": 49, 
+            "width": 392
+        }, 
+        "tag_name": "a", 
+        "text": "View complete collection documentation"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View complete collection documentation", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 1528, 
+    "y": 813
+}

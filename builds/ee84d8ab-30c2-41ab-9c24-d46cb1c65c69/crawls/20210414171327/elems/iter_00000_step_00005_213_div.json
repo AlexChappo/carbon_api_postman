@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dc4OTdLgezupYET3agvB5w==\n", 
+    "height": 84, 
+    "hier_level": 0, 
+    "human_hash": "div_X404_Y235_W888_H84", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-statistics"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "ws-statistics", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 84, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "In this workspace1Collection0APIs0Environments0Mock Servers0Monitors", 
+            "type": "", 
+            "value": "", 
+            "width": 888, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 235, 
+            "yPercent": 26.49195823927765
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 235
+        }, 
+        "size": {
+            "height": 84, 
+            "width": 888
+        }, 
+        "tag_name": "div", 
+        "text": "In this workspace1Collection0APIs0Environments0Mock Servers0Monitors"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "In this workspace1Collection0APIs0Environments0Mock Servers0Monitors", 
+    "transformed": true, 
+    "width": 888, 
+    "x": 404, 
+    "y": 235
+}

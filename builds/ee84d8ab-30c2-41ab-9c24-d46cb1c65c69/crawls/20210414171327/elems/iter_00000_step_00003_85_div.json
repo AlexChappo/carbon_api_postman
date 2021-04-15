@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "OxvdBC0SRPlpv2UxnzI7DQ==\n", 
+    "height": 525, 
+    "hier_level": 0, 
+    "human_hash": "div_X32_Y151_W322_H525", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-sidebar-container__inner"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "homepage-sidebar-container__inner", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 525, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "test.aitest-ai.postman.coInviteWorkspacesPrivate API NetworkIntegrationsManage TeamBootcampPostman Learning CenterHelp", 
+            "type": "", 
+            "value": "", 
+            "width": 322, 
+            "x": 32, 
+            "xPercent": 1.6666666666666667, 
+            "y": 151, 
+            "yPercent": 17.042889390519186
+        }, 
+        "location": {
+            "x": 32, 
+            "y": 151
+        }, 
+        "size": {
+            "height": 525, 
+            "width": 322
+        }, 
+        "tag_name": "div", 
+        "text": "test.aitest-ai.postman.coInviteWorkspacesPrivate API NetworkIntegrationsManage TeamBootcampPostman Learning CenterHelp"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "test.aitest-ai.postman.coInviteWorkspacesPrivate API NetworkIntegrationsManage TeamBootcampPostman Learning CenterHelp", 
+    "transformed": true, 
+    "width": 322, 
+    "x": 32, 
+    "y": 151
+}

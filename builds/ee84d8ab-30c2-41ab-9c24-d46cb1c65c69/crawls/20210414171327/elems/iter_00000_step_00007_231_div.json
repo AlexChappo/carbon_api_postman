@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "zQ5EvcsPUCPYnGinwlp3Ow==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X492_Y136_W104_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab-text-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "tab-text-wrapper", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Pre-request Script", 
+            "type": "", 
+            "value": "", 
+            "width": 104, 
+            "x": 492, 
+            "xPercent": 25.615234375, 
+            "y": 136, 
+            "yPercent": 15.349887133182843
+        }, 
+        "location": {
+            "x": 492, 
+            "y": 136
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 104
+        }, 
+        "tag_name": "div", 
+        "text": "Pre-request Script"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Pre-request Script", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 492, 
+    "y": 136
+}

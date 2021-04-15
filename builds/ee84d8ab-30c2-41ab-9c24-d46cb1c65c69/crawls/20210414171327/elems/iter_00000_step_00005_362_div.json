@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "sOcQD0/n3P0Q/2HRcvv+Qg==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X404_Y204_W856_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-meta-description-md"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "ws-meta-description-md", 
+            "domLevel": 25, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks.", 
+            "type": "", 
+            "value": "", 
+            "width": 856, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 204, 
+            "yPercent": 23.024830699774267
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 204
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 856
+        }, 
+        "tag_name": "div", 
+        "text": "This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks.", 
+    "transformed": true, 
+    "width": 856, 
+    "x": 404, 
+    "y": 204
+}

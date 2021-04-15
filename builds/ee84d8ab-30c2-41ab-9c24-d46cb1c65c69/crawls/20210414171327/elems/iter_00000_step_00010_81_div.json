@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "XNtQDqJR4l6yT+82RLv84g==\n", 
+    "height": 39, 
+    "hier_level": 0, 
+    "human_hash": "div_X1092_Y48_W119_H39", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab", 
+                "data-tab-id": "4cae4b3b-e763-48d5-aef0-bd008fb4ecc2", 
+                "draggable": "true"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-tab", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 39, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GETTests", 
+            "type": "", 
+            "value": "", 
+            "width": 119, 
+            "x": 1092, 
+            "xPercent": 56.897786458333336, 
+            "y": 48, 
+            "yPercent": 5.417607223476298
+        }, 
+        "location": {
+            "x": 1092, 
+            "y": 48
+        }, 
+        "size": {
+            "height": 39, 
+            "width": 119
+        }, 
+        "tag_name": "div", 
+        "text": "GETTests"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GETTests", 
+    "transformed": true, 
+    "width": 119, 
+    "x": 1092, 
+    "y": 48
+}

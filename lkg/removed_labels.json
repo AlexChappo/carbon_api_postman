@@ -17,6 +17,11 @@
         "MWE2OWExMTRkMzgyZDU1YjBjN2VjOTI1NDYyY2I0MDI=\n": [
             "inp_radio_no"
         ], 
+        "MWE3ODA5YmViNzUxYzZkYzc5NGI3ZGI2MGFjY2I5ZTQ=\n": [
+            "inp_email", 
+            "inp_password", 
+            "inp_betty_email"
+        ], 
         "MjJiZDdiNTAwMGVhNGJiMDk1NDMyZTI1ZDBmZTc1MmY=\n": [
             "inp_search_categories"
         ], 

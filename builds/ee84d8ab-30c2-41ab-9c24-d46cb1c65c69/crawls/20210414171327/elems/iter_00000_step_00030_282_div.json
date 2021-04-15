@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mTZdo6lc1iZtTuPMULLHjg==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X948_Y198_W924_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "request-editor-actions"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "request-editor-actions", 
+            "domLevel": 29, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Cookies", 
+            "type": "", 
+            "value": "", 
+            "width": 924, 
+            "x": 948, 
+            "xPercent": 49.3896484375, 
+            "y": 198, 
+            "yPercent": 22.34762979683973
+        }, 
+        "location": {
+            "x": 948, 
+            "y": 198
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 924
+        }, 
+        "tag_name": "div", 
+        "text": "Cookies"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Cookies", 
+    "transformed": true, 
+    "width": 924, 
+    "x": 948, 
+    "y": 198
+}

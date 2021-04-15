@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "pC2A2nCkAkP8m0Cx5Io4Xg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X159_Y284_W100_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-secondary team-details-widget-invite-button", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(242, 242, 242)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "btn btn-secondary team-details-widget-invite-button", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Invite", 
+            "type": "", 
+            "value": "", 
+            "width": 100, 
+            "x": 159, 
+            "xPercent": 8.28125, 
+            "y": 284, 
+            "yPercent": 32.05417607223476
+        }, 
+        "location": {
+            "x": 159, 
+            "y": 284
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 100
+        }, 
+        "tag_name": "div", 
+        "text": "Invite"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Invite", 
+    "transformed": true, 
+    "width": 100, 
+    "x": 159, 
+    "y": 284
+}

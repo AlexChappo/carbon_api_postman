@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7jtXxrDtEm2aekz6RZzxog==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "div_X73_Y119_W360_H44", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-switcher__list__group__header", 
+                "style": "position: absolute; left: 0px; top: 0px; height: 32px; width: 100%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "workspace-switcher__list__group__header", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 44, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Recently Visited", 
+            "type": "", 
+            "value": "", 
+            "width": 360, 
+            "x": 73, 
+            "xPercent": 3.7915039062500004, 
+            "y": 119, 
+            "yPercent": 13.43115124153499
+        }, 
+        "location": {
+            "x": 73, 
+            "y": 119
+        }, 
+        "size": {
+            "height": 44, 
+            "width": 360
+        }, 
+        "tag_name": "div", 
+        "text": "Recently Visited"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Recently Visited", 
+    "transformed": true, 
+    "width": 360, 
+    "x": 73, 
+    "y": 119
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "f8ik1HAi9lG2BCm3x6hBPg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "input_X399_Y148_W74_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "input input-search", 
+                "placeholder": "METHOD", 
+                "spellcheck": "false", 
+                "title": "GET", 
+                "type": "search", 
+                "value": "GET"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "input input-search", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "search", 
+            "value": "GET", 
+            "width": 74, 
+            "x": 399, 
+            "xPercent": 20.78125, 
+            "y": 148, 
+            "yPercent": 16.70428893905192
+        }, 
+        "location": {
+            "x": 399, 
+            "y": 148
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 74
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "GET", 
+    "transformed": true, 
+    "width": 74, 
+    "x": 399, 
+    "y": 148
+}

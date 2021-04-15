@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2FWln0o8qXIDul5mN7lqnA==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X1780_Y156_W35_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Send", 
+            "type": "", 
+            "value": "", 
+            "width": 35, 
+            "x": 1780, 
+            "xPercent": 92.71484375, 
+            "y": 156, 
+            "yPercent": 17.607223476297968
+        }, 
+        "location": {
+            "x": 1780, 
+            "y": 156
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 35
+        }, 
+        "tag_name": "span", 
+        "text": "Send"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Send", 
+    "transformed": true, 
+    "width": 35, 
+    "x": 1780, 
+    "y": 156
+}

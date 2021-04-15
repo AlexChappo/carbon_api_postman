@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "thDXjdRxzyXCoC9uGLvrmw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "span_X89_Y221_W105_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-switcher__list__group__title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "workspace-switcher__list__group__title", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "More Workspaces", 
+            "type": "", 
+            "value": "", 
+            "width": 105, 
+            "x": 89, 
+            "xPercent": 4.624837239583333, 
+            "y": 221, 
+            "yPercent": 24.943566591422123
+        }, 
+        "location": {
+            "x": 89, 
+            "y": 221
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 105
+        }, 
+        "tag_name": "span", 
+        "text": "More Workspaces"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "More Workspaces", 
+    "transformed": true, 
+    "width": 105, 
+    "x": 89, 
+    "y": 221
+}

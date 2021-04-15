@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dsviyGO1Ok+YrUlMMHBN2Q==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X859_Y656_W449_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "recent-workspaces-list-header-viewed"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "recent-workspaces-list-header-viewed", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "LAST VIEWED", 
+            "type": "", 
+            "value": "", 
+            "width": 449, 
+            "x": 859, 
+            "xPercent": 44.739583333333336, 
+            "y": 656, 
+            "yPercent": 74.04063205417607
+        }, 
+        "location": {
+            "x": 859, 
+            "y": 656
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 449
+        }, 
+        "tag_name": "span", 
+        "text": "LAST VIEWED"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "LAST VIEWED", 
+    "transformed": true, 
+    "width": 449, 
+    "x": 859, 
+    "y": 656
+}

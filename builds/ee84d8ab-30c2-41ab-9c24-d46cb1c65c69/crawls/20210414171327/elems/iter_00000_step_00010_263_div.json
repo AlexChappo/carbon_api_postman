@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BA/BXzvJxdk9QFzy/q15Fg==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X503_Y144_W1253_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "request-url-editor"
+            }, 
+            "background-color": "rgb(242, 242, 242)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "request-url-editor", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "http://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210406180438", 
+            "type": "", 
+            "value": "", 
+            "width": 1253, 
+            "x": 503, 
+            "xPercent": 26.197916666666664, 
+            "y": 144, 
+            "yPercent": 16.252821670428894
+        }, 
+        "location": {
+            "x": 503, 
+            "y": 144
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 1253
+        }, 
+        "tag_name": "div", 
+        "text": "http://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210406180438"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "http://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210406180438", 
+    "transformed": true, 
+    "width": 1253, 
+    "x": 503, 
+    "y": 144
+}

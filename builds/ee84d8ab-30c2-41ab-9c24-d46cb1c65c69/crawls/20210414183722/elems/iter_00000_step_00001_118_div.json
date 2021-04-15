@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CGYUBI05a7uq+Zkp0FLuWw==\n", 
+    "height": 247, 
+    "hier_level": 0, 
+    "human_hash": "div_X404_Y413_W888_H247", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-feed-date-group-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "workspace-activity-feed-date-group-wrapper", 
+            "domLevel": 26, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 247, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Today Public Bot edited the Get Requests collection. View Changelog\n7 mins agoAlex Chappo edited the Get Requests collection. View Changelog\nan hr agoPublic Bot edited the Get Requests collection. View Changelog\nan hr ago", 
+            "type": "", 
+            "value": "", 
+            "width": 888, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 413, 
+            "yPercent": 46.66337471783296
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 413
+        }, 
+        "size": {
+            "height": 247, 
+            "width": 888
+        }, 
+        "tag_name": "div", 
+        "text": "Today Public Bot edited the Get Requests collection. View Changelog\n7 mins agoAlex Chappo edited the Get Requests collection. View Changelog\nan hr agoPublic Bot edited the Get Requests collection. View Changelog\nan hr ago"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Today Public Bot edited the Get Requests collection. View Changelog\n7 mins agoAlex Chappo edited the Get Requests collection. View Changelog\nan hr agoPublic Bot edited the Get Requests collection. View Changelog\nan hr ago", 
+    "transformed": true, 
+    "width": 888, 
+    "x": 404, 
+    "y": 413
+}

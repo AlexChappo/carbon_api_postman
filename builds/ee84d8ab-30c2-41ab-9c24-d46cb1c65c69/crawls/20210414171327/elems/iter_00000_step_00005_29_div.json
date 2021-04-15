@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PSDPbDUQclTpwXzyQeUkuQ==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y281_W142_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "create-new-collection-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "create-new-collection-wrapper", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Create an API", 
+            "type": "", 
+            "value": "", 
+            "width": 142, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 281, 
+            "yPercent": 31.764954853273135
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 281
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 142
+        }, 
+        "tag_name": "div", 
+        "text": "Create an API"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Create an API", 
+    "transformed": true, 
+    "width": 142, 
+    "x": 1351, 
+    "y": 281
+}

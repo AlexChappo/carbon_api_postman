@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RObLYSX+5YGMjZdvLd3iFw==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "div_X1340_Y122_W552_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-feed-date-group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(128, 128, 128)", 
+            "cssClass": "workspace-activity-feed-date-group", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "April 12, 2021", 
+            "type": "", 
+            "value": "", 
+            "width": 552, 
+            "x": 1340, 
+            "xPercent": 69.79166666666666, 
+            "y": 122, 
+            "yPercent": 13.769751693002258
+        }, 
+        "location": {
+            "x": 1340, 
+            "y": 122
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 552
+        }, 
+        "tag_name": "div", 
+        "text": "April 12, 2021"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "April 12, 2021", 
+    "transformed": true, 
+    "width": 552, 
+    "x": 1340, 
+    "y": 122
+}

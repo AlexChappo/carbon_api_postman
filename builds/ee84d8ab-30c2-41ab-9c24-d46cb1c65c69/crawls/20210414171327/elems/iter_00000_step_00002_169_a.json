@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "A/ozKan+DaKnD5Sg8bUJSg==\n", 
+    "height": 102, 
+    "hier_level": 0, 
+    "human_hash": "a_X65_Y101_W102_H102", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "team-details-widget-team-logo-container", 
+                "href": "https://god.postman.co/dpxy/dashboard/teams", 
+                "target": "_self"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "team-details-widget-team-logo-container", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 102, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 102, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 101, 
+            "yPercent": 11.399548532731377
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 101
+        }, 
+        "size": {
+            "height": 102, 
+            "width": 102
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 102, 
+    "x": 65, 
+    "y": 101
+}

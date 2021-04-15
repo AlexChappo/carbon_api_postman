@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Sx3+hHxT4K2c4PGeZFAX0Q==\n", 
+    "height": 184, 
+    "hier_level": 0, 
+    "human_hash": "div_X402_Y600_W906_H184", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-recent-workspaces"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "homepage-recent-workspaces", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 184, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Recent workspacesView all \u2192NAMELAST VIEWEDMEMBERSTesting Download Client API2 days agoMy Workspace21 days ago", 
+            "type": "", 
+            "value": "", 
+            "width": 906, 
+            "x": 402, 
+            "xPercent": 20.9375, 
+            "y": 600, 
+            "yPercent": 67.72009029345372
+        }, 
+        "location": {
+            "x": 402, 
+            "y": 600
+        }, 
+        "size": {
+            "height": 184, 
+            "width": 906
+        }, 
+        "tag_name": "div", 
+        "text": "Recent workspacesView all \u2192NAMELAST VIEWEDMEMBERSTesting Download Client API2 days agoMy Workspace21 days ago"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Recent workspacesView all \u2192NAMELAST VIEWEDMEMBERSTesting Download Client API2 days agoMy Workspace21 days ago", 
+    "transformed": true, 
+    "width": 906, 
+    "x": 402, 
+    "y": 600
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "S8is+YY8cb/4r2S5Rmi91g==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y241_W171_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "create-new-collection-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "create-new-collection-wrapper", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Create a collection", 
+            "type": "", 
+            "value": "", 
+            "width": 171, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 241, 
+            "yPercent": 27.25028216704289
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 241
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 171
+        }, 
+        "tag_name": "div", 
+        "text": "Create a collection"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Create a collection", 
+    "transformed": true, 
+    "width": 171, 
+    "x": 1351, 
+    "y": 241
+}

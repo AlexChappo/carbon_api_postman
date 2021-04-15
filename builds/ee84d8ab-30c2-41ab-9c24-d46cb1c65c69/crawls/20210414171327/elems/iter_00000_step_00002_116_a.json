@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "jwA6AEITTKm81i/7hUG47Q==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X410_Y717_W898_H35", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "recent-workspaces-list-item-details", 
+                "href": "https://test-ai.postman.co/workspace/4fa23eb4-45e0-4cb2-821f-bc67df12d499", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "recent-workspaces-list-item-details", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "My Workspace21 days ago", 
+            "type": "", 
+            "value": "", 
+            "width": 898, 
+            "x": 410, 
+            "xPercent": 21.354166666666664, 
+            "y": 717, 
+            "yPercent": 80.92550790067719
+        }, 
+        "location": {
+            "x": 410, 
+            "y": 717
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 898
+        }, 
+        "tag_name": "a", 
+        "text": "My Workspace21 days ago"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "My Workspace21 days ago", 
+    "transformed": true, 
+    "width": 898, 
+    "x": 410, 
+    "y": 717
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "64l2YNPtbfS6PNkbLj/7Tg==\n", 
+    "height": 285, 
+    "hier_level": 0, 
+    "human_hash": "div_X445_Y233_W1176_H285", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "true", 
+                "class": "view-lines", 
+                "data-mprt": "7", 
+                "role": "presentation", 
+                "style": "position: absolute; font-family: IBMPlexMono, \"Courier New\", monospace; font-weight: normal; font-size: 12px; font-feature-settings: \"liga\" 0, \"calt\" 0; line-height: 18px; letter-spacing: 0px; width: 1176px; height: 285px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-lines", 
+            "domLevel": 42, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 285, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 1176, 
+            "x": 445, 
+            "xPercent": 23.177083333333336, 
+            "y": 233, 
+            "yPercent": 26.297968397291193
+        }, 
+        "location": {
+            "x": 445, 
+            "y": 233
+        }, 
+        "size": {
+            "height": 285, 
+            "width": 1176
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1176, 
+    "x": 445, 
+    "y": 233
+}

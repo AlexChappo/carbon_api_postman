@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "+foUINkFNXV7QXvypa9CSg==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X514_Y155_W103_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "public-DraftEditorPlaceholder-root"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(169, 169, 169)", 
+            "cssClass": "public-DraftEditorPlaceholder-root", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Enter request URL", 
+            "type": "", 
+            "value": "", 
+            "width": 103, 
+            "x": 514, 
+            "xPercent": 26.770833333333332, 
+            "y": 155, 
+            "yPercent": 17.494356659142213
+        }, 
+        "location": {
+            "x": 514, 
+            "y": 155
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 103
+        }, 
+        "tag_name": "div", 
+        "text": "Enter request URL"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Enter request URL", 
+    "transformed": true, 
+    "width": 103, 
+    "x": 514, 
+    "y": 155
+}

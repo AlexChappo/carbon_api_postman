@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lH4HCMxzFSz3G1Sl/ks2vQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X1773_Y664_W79_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "dropdown", 
+            "domLevel": 35, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Admin", 
+            "type": "", 
+            "value": "", 
+            "width": 79, 
+            "x": 1773, 
+            "xPercent": 92.35026041666666, 
+            "y": 664, 
+            "yPercent": 74.92945823927766
+        }, 
+        "location": {
+            "x": 1773, 
+            "y": 664
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 79
+        }, 
+        "tag_name": "div", 
+        "text": "Admin"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Admin", 
+    "transformed": true, 
+    "width": 79, 
+    "x": 1773, 
+    "y": 664
+}

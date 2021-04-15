@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xbrVCahWuuwbf4Gj/pYGtQ==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "div_X1340_Y238_W552_H64", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-item-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "workspace-activity-item-content", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 64, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Public Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PM", 
+            "type": "", 
+            "value": "", 
+            "width": 552, 
+            "x": 1340, 
+            "xPercent": 69.79166666666666, 
+            "y": 238, 
+            "yPercent": 26.86230248306998
+        }, 
+        "location": {
+            "x": 1340, 
+            "y": 238
+        }, 
+        "size": {
+            "height": 64, 
+            "width": 552
+        }, 
+        "tag_name": "div", 
+        "text": "Public Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PM"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Public Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PM", 
+    "transformed": true, 
+    "width": 552, 
+    "x": 1340, 
+    "y": 238
+}

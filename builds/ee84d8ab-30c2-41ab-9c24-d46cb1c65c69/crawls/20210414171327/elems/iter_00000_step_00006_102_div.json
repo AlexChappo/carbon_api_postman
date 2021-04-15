@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SnJavInlkxNBLZUULrJ/1A==\n", 
+    "height": 200, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y201_W171_H200", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "create-new-entity-section"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "create-new-entity-section", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 200, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Create a requestCreate a collectionCreate an APICreate an environmentView More", 
+            "type": "", 
+            "value": "", 
+            "width": 171, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 201, 
+            "yPercent": 22.73560948081264
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 201
+        }, 
+        "size": {
+            "height": 200, 
+            "width": 171
+        }, 
+        "tag_name": "div", 
+        "text": "Create a requestCreate a collectionCreate an APICreate an environmentView More"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Create a requestCreate a collectionCreate an APICreate an environmentView More", 
+    "transformed": true, 
+    "width": 171, 
+    "x": 1351, 
+    "y": 201
+}

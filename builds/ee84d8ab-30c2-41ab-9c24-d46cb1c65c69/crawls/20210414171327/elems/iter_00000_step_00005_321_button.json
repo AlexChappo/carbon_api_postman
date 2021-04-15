@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "4jCzoPbN90ZEbynaGhBmDQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "button_X1829_Y588_W55_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Button__StyledButtonContainer-sc-1lbqkyz-0 jumoVR ws-sharing-invite__invite-btn", 
+                "type": "secondary"
+            }, 
+            "background-color": "rgb(242, 242, 242)", 
+            "class": "button", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "Button__StyledButtonContainer-sc-1lbqkyz-0 jumoVR ws-sharing-invite__invite-btn", 
+            "domLevel": 25, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, system-ui, -apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Invite", 
+            "type": "secondary", 
+            "value": "", 
+            "width": 55, 
+            "x": 1829, 
+            "xPercent": 95.27180989583334, 
+            "y": 588, 
+            "yPercent": 66.35158013544017
+        }, 
+        "location": {
+            "x": 1829, 
+            "y": 588
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 55
+        }, 
+        "tag_name": "button", 
+        "text": "Invite"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Invite", 
+    "transformed": true, 
+    "width": 55, 
+    "x": 1829, 
+    "y": 588
+}

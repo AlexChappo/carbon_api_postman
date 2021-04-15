@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vX7RQvwFVYSeacJL1ezF2Q==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X396_Y215_W520_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "auth-selector-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "auth-selector-wrapper", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "TypeNo Auth", 
+            "type": "", 
+            "value": "", 
+            "width": 520, 
+            "x": 396, 
+            "xPercent": 20.625, 
+            "y": 215, 
+            "yPercent": 24.266365688487586
+        }, 
+        "location": {
+            "x": 396, 
+            "y": 215
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 520
+        }, 
+        "tag_name": "div", 
+        "text": "TypeNo Auth"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "TypeNo Auth", 
+    "transformed": true, 
+    "width": 520, 
+    "x": 396, 
+    "y": 215
+}

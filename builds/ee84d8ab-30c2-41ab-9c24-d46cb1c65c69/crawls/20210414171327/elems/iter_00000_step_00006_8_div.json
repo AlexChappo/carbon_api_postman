@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "+ujDvCIB5wlfMJI4Y9Ze8Q==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X404_Y381_W96_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "select-dropdown-container workspace-members"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "select-dropdown-container workspace-members", 
+            "domLevel": 26, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "User", 
+            "type": "", 
+            "value": "", 
+            "width": 96, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 381, 
+            "yPercent": 43.051636568848764
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 381
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 96
+        }, 
+        "tag_name": "div", 
+        "text": "User"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "User", 
+    "transformed": true, 
+    "width": 96, 
+    "x": 404, 
+    "y": 381
+}

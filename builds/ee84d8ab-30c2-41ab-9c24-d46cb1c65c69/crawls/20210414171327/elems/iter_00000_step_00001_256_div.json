@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "nX7QAErb4RR03CX+4/CLyg==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "div_X1396_Y374_W476_H19", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-item-heading"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "workspace-activity-item-heading", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Public Bot added the New Collection collection in Carbon API workspace", 
+            "type": "", 
+            "value": "", 
+            "width": 476, 
+            "x": 1396, 
+            "xPercent": 72.70833333333333, 
+            "y": 374, 
+            "yPercent": 42.21218961625282
+        }, 
+        "location": {
+            "x": 1396, 
+            "y": 374
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 476
+        }, 
+        "tag_name": "div", 
+        "text": "Public Bot added the New Collection collection in Carbon API workspace"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Public Bot added the New Collection collection in Carbon API workspace", 
+    "transformed": true, 
+    "width": 476, 
+    "x": 1396, 
+    "y": 374
+}

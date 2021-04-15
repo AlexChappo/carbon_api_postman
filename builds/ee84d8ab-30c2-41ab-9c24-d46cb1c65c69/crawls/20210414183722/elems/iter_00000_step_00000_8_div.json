@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZhgbkHX5w29fceFiuXvkNw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X836_Y510_W288_H40", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "google-text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "google-text", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Sign in with Google", 
+            "type": "", 
+            "value": "", 
+            "width": 288, 
+            "x": 836, 
+            "xPercent": 43.541666666666664, 
+            "y": 510, 
+            "yPercent": 57.53738713318285
+        }, 
+        "location": {
+            "x": 836, 
+            "y": 510
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 288
+        }, 
+        "tag_name": "div", 
+        "text": "Sign in with Google"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Sign in with Google", 
+    "transformed": true, 
+    "width": 288, 
+    "x": 836, 
+    "y": 510
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "88HFRgNesKYmQ2erBUk/CQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X410_Y656_W898_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "recent-workspaces-list-header-column"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "recent-workspaces-list-header-column", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NAMELAST VIEWED", 
+            "type": "", 
+            "value": "", 
+            "width": 898, 
+            "x": 410, 
+            "xPercent": 21.354166666666664, 
+            "y": 656, 
+            "yPercent": 74.04063205417607
+        }, 
+        "location": {
+            "x": 410, 
+            "y": 656
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 898
+        }, 
+        "tag_name": "div", 
+        "text": "NAMELAST VIEWED"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NAMELAST VIEWED", 
+    "transformed": true, 
+    "width": 898, 
+    "x": 410, 
+    "y": 656
+}

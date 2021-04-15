@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vwFC0An9xX475VevMO001g==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1628_Y96_W93_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn-group btn-group-separated"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "btn-group btn-group-separated", 
+            "domLevel": 30, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Save", 
+            "type": "", 
+            "value": "", 
+            "width": 93, 
+            "x": 1628, 
+            "xPercent": 84.77864583333333, 
+            "y": 96, 
+            "yPercent": 10.778781038374719
+        }, 
+        "location": {
+            "x": 1628, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 93
+        }, 
+        "tag_name": "div", 
+        "text": "Save"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Save", 
+    "transformed": true, 
+    "width": 93, 
+    "x": 1628, 
+    "y": 96
+}
