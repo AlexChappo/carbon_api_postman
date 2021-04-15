@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UBJVJ04vj5CIDojouzjslA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X664_Y235_W240_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown full-width", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "dropdown full-width", 
+            "domLevel": 35, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "No Auth", 
+            "type": "", 
+            "value": "", 
+            "width": 240, 
+            "x": 664, 
+            "xPercent": 34.583333333333336, 
+            "y": 235, 
+            "yPercent": 26.52370203160271
+        }, 
+        "location": {
+            "x": 664, 
+            "y": 235
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 240
+        }, 
+        "tag_name": "div", 
+        "text": "No Auth"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "No Auth", 
+    "transformed": true, 
+    "width": 240, 
+    "x": 664, 
+    "y": 235
+}

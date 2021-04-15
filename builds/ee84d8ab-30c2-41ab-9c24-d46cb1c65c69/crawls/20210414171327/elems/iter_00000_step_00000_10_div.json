@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "etvz0H7ggNVySyGHhPbJ0A==\n", 
+    "height": 49, 
+    "hier_level": 0, 
+    "human_hash": "div_X1670_Y0_W250_H49", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "enterprise-sign-in-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "enterprise-sign-in-container", 
+            "domLevel": 3, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 49, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Sign in with Single Sign-On (SSO)", 
+            "type": "", 
+            "value": "", 
+            "width": 250, 
+            "x": 1670, 
+            "xPercent": 86.97021484375, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1670, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 49, 
+            "width": 250
+        }, 
+        "tag_name": "div", 
+        "text": "Sign in with Single Sign-On (SSO)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Sign in with Single Sign-On (SSO)", 
+    "transformed": true, 
+    "width": 250, 
+    "x": 1670, 
+    "y": 0
+}

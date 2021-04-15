@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KoPqgLQeWYP94+FlHKaBEA==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "div_X404_Y423_W888_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-feed-date-group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(128, 128, 128)", 
+            "cssClass": "workspace-activity-feed-date-group", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Today", 
+            "type": "", 
+            "value": "", 
+            "width": 888, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 423, 
+            "yPercent": 47.792042889390515
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 423
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 888
+        }, 
+        "tag_name": "div", 
+        "text": "Today"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Today", 
+    "transformed": true, 
+    "width": 888, 
+    "x": 404, 
+    "y": 423
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "x48/F8Zb7nS1dQj1N+6/aQ==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "input_X152_Y97_W181_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "input input-search", 
+                "spellcheck": "false", 
+                "title": "", 
+                "type": "search", 
+                "value": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "input input-search", 
+            "domLevel": 24, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "search", 
+            "value": "", 
+            "width": 181, 
+            "x": 152, 
+            "xPercent": 7.916666666666666, 
+            "y": 97, 
+            "yPercent": 10.948081264108351
+        }, 
+        "location": {
+            "x": 152, 
+            "y": 97
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 181
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 181, 
+    "x": 152, 
+    "y": 97
+}

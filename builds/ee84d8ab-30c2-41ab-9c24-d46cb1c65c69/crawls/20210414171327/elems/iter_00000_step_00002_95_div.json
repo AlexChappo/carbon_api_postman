@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "960mR2KT94+5DJ/MxtTARw==\n", 
+    "height": 102, 
+    "hier_level": 0, 
+    "human_hash": "div_X65_Y216_W256_H102", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "team-details-widget"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "team-details-widget", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 102, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "test.aitest-ai.postman.coInvite", 
+            "type": "", 
+            "value": "", 
+            "width": 256, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 216, 
+            "yPercent": 24.37923250564334
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 216
+        }, 
+        "size": {
+            "height": 102, 
+            "width": 256
+        }, 
+        "tag_name": "div", 
+        "text": "test.aitest-ai.postman.coInvite"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "test.aitest-ai.postman.coInvite", 
+    "transformed": true, 
+    "width": 256, 
+    "x": 65, 
+    "y": 216
+}

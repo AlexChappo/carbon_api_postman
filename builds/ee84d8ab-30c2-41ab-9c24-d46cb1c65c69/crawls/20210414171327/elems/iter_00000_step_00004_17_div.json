@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "tmr9Z6o8PYm9CF4nqor0Fg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X402_Y648_W906_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "recent-workspaces-list-header"
+            }, 
+            "background-color": "rgb(249, 249, 249)", 
+            "class": "div", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "recent-workspaces-list-header", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NAMELAST VIEWEDMEMBERS", 
+            "type": "", 
+            "value": "", 
+            "width": 906, 
+            "x": 402, 
+            "xPercent": 20.9375, 
+            "y": 648, 
+            "yPercent": 73.13769751693002
+        }, 
+        "location": {
+            "x": 402, 
+            "y": 648
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 906
+        }, 
+        "tag_name": "div", 
+        "text": "NAMELAST VIEWEDMEMBERS"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NAMELAST VIEWEDMEMBERS", 
+    "transformed": true, 
+    "width": 906, 
+    "x": 402, 
+    "y": 648
+}

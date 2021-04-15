@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "aPBx6sBgb24T+GCC+BTt1w==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X402_Y80_W906_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-greetings"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "homepage-greetings", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Good evening, Alex Chappo!Pick up from where you left off, catch-up with your team\u2019s work.", 
+            "type": "", 
+            "value": "", 
+            "width": 906, 
+            "x": 402, 
+            "xPercent": 20.9375, 
+            "y": 80, 
+            "yPercent": 9.029345372460497
+        }, 
+        "location": {
+            "x": 402, 
+            "y": 80
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 906
+        }, 
+        "tag_name": "div", 
+        "text": "Good evening, Alex Chappo!Pick up from where you left off, catch-up with your team\u2019s work."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Good evening, Alex Chappo!Pick up from where you left off, catch-up with your team\u2019s work.", 
+    "transformed": true, 
+    "width": 906, 
+    "x": 402, 
+    "y": 80
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vKqZeBCcVowGCoUMzNsd1w==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X1392_Y509_W198_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "text text-body-medium"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "text text-body-medium", 
+            "domLevel": 26, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "All teammates can view and join as", 
+            "type": "", 
+            "value": "", 
+            "width": 198, 
+            "x": 1392, 
+            "xPercent": 72.51057942708333, 
+            "y": 509, 
+            "yPercent": 57.43510158013544
+        }, 
+        "location": {
+            "x": 1392, 
+            "y": 509
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 198
+        }, 
+        "tag_name": "span", 
+        "text": "All teammates can view and join as"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "All teammates can view and join as", 
+    "transformed": true, 
+    "width": 198, 
+    "x": 1392, 
+    "y": 509
+}

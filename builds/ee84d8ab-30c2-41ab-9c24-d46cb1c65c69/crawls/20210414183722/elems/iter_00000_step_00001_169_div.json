@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "83IgqWzvRdD2GQIyMNhsiA==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y14_W84_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-switcher__name", 
+                "title": "Carbon API"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "workspace-switcher__name", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Workspaces", 
+            "type": "", 
+            "value": "", 
+            "width": 84, 
+            "x": 88, 
+            "xPercent": 4.57275390625, 
+            "y": 14, 
+            "yPercent": 1.580135440180587
+        }, 
+        "location": {
+            "x": 88, 
+            "y": 14
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 84
+        }, 
+        "tag_name": "div", 
+        "text": "Workspaces"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Workspaces", 
+    "transformed": true, 
+    "width": 84, 
+    "x": 88, 
+    "y": 14
+}

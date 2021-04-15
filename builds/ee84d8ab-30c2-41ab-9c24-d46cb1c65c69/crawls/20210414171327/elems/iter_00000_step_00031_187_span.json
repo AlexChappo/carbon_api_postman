@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "UCpS/c1QmsgQtK+VHurzwg==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X1758_Y866_W37_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "runner-label-text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "runner-label-text", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Runner", 
+            "type": "", 
+            "value": "", 
+            "width": 37, 
+            "x": 1758, 
+            "xPercent": 91.57389322916667, 
+            "y": 866, 
+            "yPercent": 97.74266365688487
+        }, 
+        "location": {
+            "x": 1758, 
+            "y": 866
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 37
+        }, 
+        "tag_name": "span", 
+        "text": "Runner"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Runner", 
+    "transformed": true, 
+    "width": 37, 
+    "x": 1758, 
+    "y": 866
+}

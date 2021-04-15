@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "0a3yTVt+eYpIFt43Xy57xw==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X723_Y713_W92_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://go.postman.co/build/workspace/088c8c8e-2596-446c-8c5b-a0f0bceed889/collection/15353117-179b5b9b-8095-4cec-8db0-497559e084f5?ctx=changelog"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(33, 33, 33)", 
+            "domLevel": 34, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "View Changelog", 
+            "type": "", 
+            "value": "", 
+            "width": 92, 
+            "x": 723, 
+            "xPercent": 37.64892578125, 
+            "y": 713, 
+            "yPercent": 80.52341986455983
+        }, 
+        "location": {
+            "x": 723, 
+            "y": 713
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 92
+        }, 
+        "tag_name": "a", 
+        "text": "View Changelog"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View Changelog", 
+    "transformed": true, 
+    "width": 92, 
+    "x": 723, 
+    "y": 713
+}

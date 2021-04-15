@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Gs36Uqt7O02lnEqNiCVt2Q==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "div_X81_Y240_W298_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collection-sidebar-list-item__entity collection-sidebar-list-item__request"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "collection-sidebar-list-item__entity collection-sidebar-list-item__request", 
+            "domLevel": 25, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GETTest Runs", 
+            "type": "", 
+            "value": "", 
+            "width": 298, 
+            "x": 81, 
+            "xPercent": 4.21875, 
+            "y": 240, 
+            "yPercent": 27.088036117381492
+        }, 
+        "location": {
+            "x": 81, 
+            "y": 240
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 298
+        }, 
+        "tag_name": "div", 
+        "text": "GETTest Runs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GETTest Runs", 
+    "transformed": true, 
+    "width": 298, 
+    "x": 81, 
+    "y": 240
+}

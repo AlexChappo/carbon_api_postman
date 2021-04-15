@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VCnAFEtio1h7M7tU1PMbdQ==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "img_X1066_Y634_W120_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "src": "https://go.pstmn.io/emptyResponse", 
+                "style": "height: 120px; width: 120px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 34, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 120, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 120, 
+            "x": 1066, 
+            "xPercent": 55.52001953125, 
+            "y": 634, 
+            "yPercent": 71.55756207674943
+        }, 
+        "location": {
+            "x": 1066, 
+            "y": 634
+        }, 
+        "size": {
+            "height": 120, 
+            "width": 120
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 1066, 
+    "y": 634
+}

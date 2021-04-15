@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HEElreXi215qR0yDlEWZRw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1706_Y8_W32_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "notification-container requester-header__section-right__action-button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "notification-container requester-header__section-right__action-button", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NotificationsPublic Bot deleted the New Collection collection.\n12 Apr, 2021No more notifications", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1706, 
+            "xPercent": 88.85416666666667, 
+            "y": 8, 
+            "yPercent": 0.9029345372460496
+        }, 
+        "location": {
+            "x": 1706, 
+            "y": 8
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 32
+        }, 
+        "tag_name": "div", 
+        "text": "NotificationsPublic Bot deleted the New Collection collection.\n12 Apr, 2021No more notifications"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NotificationsPublic Bot deleted the New Collection collection.\n12 Apr, 2021No more notifications", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1706, 
+    "y": 8
+}

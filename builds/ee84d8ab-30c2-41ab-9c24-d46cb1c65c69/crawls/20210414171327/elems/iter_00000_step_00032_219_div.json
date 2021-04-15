@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "BkqO5xYJVKshkSG4HMH/Bg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1800_Y257_W72_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-text goto-bulk-editor", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "btn btn-text goto-bulk-editor", 
+            "domLevel": 42, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Bulk Edit", 
+            "type": "", 
+            "value": "", 
+            "width": 72, 
+            "x": 1800, 
+            "xPercent": 93.76708984375, 
+            "y": 257, 
+            "yPercent": 29.006772009029348
+        }, 
+        "location": {
+            "x": 1800, 
+            "y": 257
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 72
+        }, 
+        "tag_name": "div", 
+        "text": "Bulk Edit"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Bulk Edit", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 1800, 
+    "y": 257
+}

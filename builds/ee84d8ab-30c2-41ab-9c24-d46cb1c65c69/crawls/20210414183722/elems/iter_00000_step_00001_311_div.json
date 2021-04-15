@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "PeWKXmkT6diW579lnDQXWA==\n", 
+    "height": 774, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y88_W1540_H774", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab-content", 
+                "data-tabid": "80cbef8f-99d9-4097-8336-375846b0fa01", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "requester-tab-content", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 774, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Carbon APIAdd summary to briefly explain what this workspace is all about...This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks.\nIn this workspace1Collection0APIs0Environments0Mock Servers0MonitorsActivityUser Entity Refresh Today Public Bot edited the Get Requests collection. View Changelog\n7 mins agoAlex Chappo edited the Get Requests collection. View Changelog\nan hr agoPublic Bot edited the Get Requests collection. View Changelog\nan hr ago April 12, 2021 Public Bot edited the Get Requests collection. View Changelog\n10:25 PMPublic Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PMPublic Bot deleted the New Collection collection\n9:25 PMPublic Bot added the New Collection collection\n9:25 PMPublic Bot edited the Get Requests collection. View Changelog\n9:32 PMPublic Bot renamed the workspace from Team Workspace to Carbon API Get Requests\n9:11 PMPublic Bot added the Get Requests collection\n9:07 PMPublic Bot joined the workspace\n6:47 PM April 9, 2021 Nick joined the workspace\n11:52 AM April 8, 2021 Alex Chappo joined the workspace\n4:24 PMAlex Chappo created this team workspace\n4:24 PMThe end! You've seen all the activity for this workspaceGet startedCreate a requestCreate a collectionCreate an APICreate an environmentView MoreSharingVisibilityTeamAll teammates can view and join asAdminThe visibility of your default workspaces can't be changed.MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave", 
+            "type": "", 
+            "value": "", 
+            "width": 1540, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 88, 
+            "yPercent": 9.932279909706546
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 774, 
+            "width": 1540
+        }, 
+        "tag_name": "div", 
+        "text": "Carbon APIAdd summary to briefly explain what this workspace is all about...This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks.\nIn this workspace1Collection0APIs0Environments0Mock Servers0MonitorsActivityUser Entity Refresh Today Public Bot edited the Get Requests collection. View Changelog\n7 mins agoAlex Chappo edited the Get Requests collection. View Changelog\nan hr agoPublic Bot edited the Get Requests collection. View Changelog\nan hr ago April 12, 2021 Public Bot edited the Get Requests collection. View Changelog\n10:25 PMPublic Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PMPublic Bot deleted the New Collection collection\n9:25 PMPublic Bot added the New Collection collection\n9:25 PMPublic Bot edited the Get Requests collection. View Changelog\n9:32 PMPublic Bot renamed the workspace from Team Workspace to Carbon API Get Requests\n9:11 PMPublic Bot added the Get Requests collection\n9:07 PMPublic Bot joined the workspace\n6:47 PM April 9, 2021 Nick joined the workspace\n11:52 AM April 8, 2021 Alex Chappo joined the workspace\n4:24 PMAlex Chappo created this team workspace\n4:24 PMThe end! You've seen all the activity for this workspaceGet startedCreate a requestCreate a collectionCreate an APICreate an environmentView MoreSharingVisibilityTeamAll teammates can view and join asAdminThe visibility of your default workspaces can't be changed.MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Carbon APIAdd summary to briefly explain what this workspace is all about...This is where the collaboration happens. Use this space to share and collaborate on APIs, collections, environments, monitors, and mocks.\nIn this workspace1Collection0APIs0Environments0Mock Servers0MonitorsActivityUser Entity Refresh Today Public Bot edited the Get Requests collection. View Changelog\n7 mins agoAlex Chappo edited the Get Requests collection. View Changelog\nan hr agoPublic Bot edited the Get Requests collection. View Changelog\nan hr ago April 12, 2021 Public Bot edited the Get Requests collection. View Changelog\n10:25 PMPublic Bot renamed the workspace from Carbon API Get Requests to Carbon API\n9:29 PMPublic Bot deleted the New Collection collection\n9:25 PMPublic Bot added the New Collection collection\n9:25 PMPublic Bot edited the Get Requests collection. View Changelog\n9:32 PMPublic Bot renamed the workspace from Team Workspace to Carbon API Get Requests\n9:11 PMPublic Bot added the Get Requests collection\n9:07 PMPublic Bot joined the workspace\n6:47 PM April 9, 2021 Nick joined the workspace\n11:52 AM April 8, 2021 Alex Chappo joined the workspace\n4:24 PMAlex Chappo created this team workspace\n4:24 PMThe end! You've seen all the activity for this workspaceGet startedCreate a requestCreate a collectionCreate an APICreate an environmentView MoreSharingVisibilityTeamAll teammates can view and join asAdminThe visibility of your default workspaces can't be changed.MembersInviteNickSelect RoleAlex ChappoAdminYouSelect RoleCancelSave", 
+    "transformed": true, 
+    "width": 1540, 
+    "x": 380, 
+    "y": 88
+}

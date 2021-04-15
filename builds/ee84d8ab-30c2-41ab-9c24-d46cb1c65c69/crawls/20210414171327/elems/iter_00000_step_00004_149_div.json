@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gYlDzkmWze7sYlAutvnnyA==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "div_X1396_Y732_W476_H19", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-item-heading"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "workspace-activity-item-heading", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Public Bot joined the workspace Carbon API", 
+            "type": "", 
+            "value": "", 
+            "width": 476, 
+            "x": 1396, 
+            "xPercent": 72.70833333333333, 
+            "y": 732, 
+            "yPercent": 82.61851015801355
+        }, 
+        "location": {
+            "x": 1396, 
+            "y": 732
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 476
+        }, 
+        "tag_name": "div", 
+        "text": "Public Bot joined the workspace Carbon API"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Public Bot joined the workspace Carbon API", 
+    "transformed": true, 
+    "width": 476, 
+    "x": 1396, 
+    "y": 732
+}

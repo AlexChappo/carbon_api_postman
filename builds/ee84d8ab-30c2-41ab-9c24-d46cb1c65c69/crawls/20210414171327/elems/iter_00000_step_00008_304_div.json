@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "EefJxl3t0zaJT0UiHVTwuA==\n", 
+    "height": 559, 
+    "hier_level": 0, 
+    "human_hash": "div_X396_Y287_W520_H559", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "auth-type-editor"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "auth-type-editor", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 559, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "This collection does not use any authorization. Learn more about authorization", 
+            "type": "", 
+            "value": "", 
+            "width": 520, 
+            "x": 396, 
+            "xPercent": 20.625, 
+            "y": 287, 
+            "yPercent": 32.39277652370203
+        }, 
+        "location": {
+            "x": 396, 
+            "y": 287
+        }, 
+        "size": {
+            "height": 559, 
+            "width": 520
+        }, 
+        "tag_name": "div", 
+        "text": "This collection does not use any authorization. Learn more about authorization"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "This collection does not use any authorization. Learn more about authorization", 
+    "transformed": true, 
+    "width": 520, 
+    "x": 396, 
+    "y": 287
+}

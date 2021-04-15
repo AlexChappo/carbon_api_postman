@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9TjRbxxnH4RkGb2dysXAmg==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "div_X460_Y551_W812_H25", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-item-meta"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(128, 128, 128)", 
+            "cssClass": "workspace-activity-item-meta", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "9:29 PM", 
+            "type": "", 
+            "value": "", 
+            "width": 812, 
+            "x": 460, 
+            "xPercent": 23.958333333333336, 
+            "y": 551, 
+            "yPercent": 62.23899548532731
+        }, 
+        "location": {
+            "x": 460, 
+            "y": 551
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 812
+        }, 
+        "tag_name": "div", 
+        "text": "9:29 PM"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "9:29 PM", 
+    "transformed": true, 
+    "width": 812, 
+    "x": 460, 
+    "y": 551
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "cpMNa3NbJlgm4TBJoUdspQ==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "input_X796_Y327_W328_H40", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocapitalize": "off", 
+                "class": "pm-form-control", 
+                "id": "password", 
+                "name": "password", 
+                "spellcheck": "true", 
+                "type": "password"
+            }, 
+            "background-color": "rgb(250, 250, 250)", 
+            "class": "input", 
+            "color": "rgb(40, 40, 40)", 
+            "cssClass": "pm-form-control", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "password", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "password", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "password", 
+            "value": "", 
+            "width": 328, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 327, 
+            "yPercent": 36.90744920993228
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 327
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 328
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 328, 
+    "x": 796, 
+    "y": 327
+}

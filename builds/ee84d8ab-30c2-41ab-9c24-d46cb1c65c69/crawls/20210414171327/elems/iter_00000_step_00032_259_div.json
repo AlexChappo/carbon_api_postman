@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Bj6FW8AfOwkoMQ+QIGT69Q==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X504_Y145_W1251_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "auto-suggest__collapsible"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "auto-suggest__collapsible", 
+            "domLevel": 29, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "http://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/crawls/20210331235227/labeler_objects", 
+            "type": "", 
+            "value": "", 
+            "width": 1251, 
+            "x": 504, 
+            "xPercent": 26.25, 
+            "y": 145, 
+            "yPercent": 16.365688487584652
+        }, 
+        "location": {
+            "x": 504, 
+            "y": 145
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1251
+        }, 
+        "tag_name": "div", 
+        "text": "http://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/crawls/20210331235227/labeler_objects"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "http://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/crawls/20210331235227/labeler_objects", 
+    "transformed": true, 
+    "width": 1251, 
+    "x": 504, 
+    "y": 145
+}

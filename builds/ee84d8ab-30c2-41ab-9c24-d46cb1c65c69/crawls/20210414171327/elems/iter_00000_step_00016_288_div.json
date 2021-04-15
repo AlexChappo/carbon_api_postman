@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9M97pjU4mcbYg//eHdQxng==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "div_X1038_Y770_W176_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-viewer-empty__onboarding__heading"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "response-viewer-empty__onboarding__heading", 
+            "domLevel": 34, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Hit Send to get a response", 
+            "type": "", 
+            "value": "", 
+            "width": 176, 
+            "x": 1038, 
+            "xPercent": 54.05029296875, 
+            "y": 770, 
+            "yPercent": 86.90744920993228
+        }, 
+        "location": {
+            "x": 1038, 
+            "y": 770
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 176
+        }, 
+        "tag_name": "div", 
+        "text": "Hit Send to get a response"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Hit Send to get a response", 
+    "transformed": true, 
+    "width": 176, 
+    "x": 1038, 
+    "y": 770
+}

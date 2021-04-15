@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6cbbG8WPL4NIwlR2TzZx7Q==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X889_Y192_W47_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab-text-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "tab-text-wrapper", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Settings", 
+            "type": "", 
+            "value": "", 
+            "width": 47, 
+            "x": 889, 
+            "xPercent": 46.32568359375, 
+            "y": 192, 
+            "yPercent": 21.670428893905193
+        }, 
+        "location": {
+            "x": 889, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 47
+        }, 
+        "tag_name": "div", 
+        "text": "Settings"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Settings", 
+    "transformed": true, 
+    "width": 47, 
+    "x": 889, 
+    "y": 192
+}

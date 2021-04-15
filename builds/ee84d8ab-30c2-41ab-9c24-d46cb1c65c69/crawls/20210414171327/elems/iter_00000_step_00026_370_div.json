@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "EeuO3s07Cuoe9j0AdY47KA==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "div_X1632_Y296_W208_H12", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "snippet-header__title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(128, 128, 128)", 
+            "cssClass": "snippet-header__title", 
+            "domLevel": 39, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SNIPPETS", 
+            "type": "", 
+            "value": "", 
+            "width": 208, 
+            "x": 1632, 
+            "xPercent": 85, 
+            "y": 296, 
+            "yPercent": 33.40857787810384
+        }, 
+        "location": {
+            "x": 1632, 
+            "y": 296
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 208
+        }, 
+        "tag_name": "div", 
+        "text": "SNIPPETS"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SNIPPETS", 
+    "transformed": true, 
+    "width": 208, 
+    "x": 1632, 
+    "y": 296
+}

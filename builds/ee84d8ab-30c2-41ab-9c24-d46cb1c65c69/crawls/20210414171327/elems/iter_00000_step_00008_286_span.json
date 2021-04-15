@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jPvNvb6BniRgGoUnipbp8A==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "span_X1536_Y100_W104_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "right-context-bar__title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "right-context-bar__title", 
+            "domLevel": 25, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Documentation", 
+            "type": "", 
+            "value": "", 
+            "width": 104, 
+            "x": 1536, 
+            "xPercent": 80, 
+            "y": 100, 
+            "yPercent": 11.286681715575622
+        }, 
+        "location": {
+            "x": 1536, 
+            "y": 100
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 104
+        }, 
+        "tag_name": "span", 
+        "text": "Documentation"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Documentation", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 1536, 
+    "y": 100
+}

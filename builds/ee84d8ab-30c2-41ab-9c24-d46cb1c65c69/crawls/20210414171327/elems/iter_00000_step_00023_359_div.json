@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xsvwo4XvOgHXKSKrBnpjDg==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X1811_Y862_W45_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sb__item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "sb__item", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Trash", 
+            "type": "", 
+            "value": "", 
+            "width": 45, 
+            "x": 1811, 
+            "xPercent": 94.32373046875, 
+            "y": 862, 
+            "yPercent": 97.29119638826185
+        }, 
+        "location": {
+            "x": 1811, 
+            "y": 862
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 45
+        }, 
+        "tag_name": "div", 
+        "text": "Trash"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Trash", 
+    "transformed": true, 
+    "width": 45, 
+    "x": 1811, 
+    "y": 862
+}

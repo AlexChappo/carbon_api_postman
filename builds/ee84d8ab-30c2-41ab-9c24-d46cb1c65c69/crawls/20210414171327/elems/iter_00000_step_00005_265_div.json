@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xkauvHoI9SR9ZnLoyu9Ghg==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X436_Y112_W814_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-header-name-edit-mode"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "ws-header-name-edit-mode", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 24, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Carbon API", 
+            "type": "", 
+            "value": "", 
+            "width": 814, 
+            "x": 436, 
+            "xPercent": 22.708333333333332, 
+            "y": 112, 
+            "yPercent": 12.641083521444695
+        }, 
+        "location": {
+            "x": 436, 
+            "y": 112
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 814
+        }, 
+        "tag_name": "div", 
+        "text": "Carbon API"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Carbon API", 
+    "transformed": true, 
+    "width": 814, 
+    "x": 436, 
+    "y": 112
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "p2AjPmQ1xwGy1IZ3vhp1Pg==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "input_X124_Y72_W146_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "input input-search", 
+                "placeholder": "Search for a workspace", 
+                "spellcheck": "false", 
+                "title": "", 
+                "type": "search", 
+                "value": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "input input-search", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "search", 
+            "value": "", 
+            "width": 146, 
+            "x": 124, 
+            "xPercent": 6.447753906250001, 
+            "y": 72, 
+            "yPercent": 8.126410835214447
+        }, 
+        "location": {
+            "x": 124, 
+            "y": 72
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 146
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 146, 
+    "x": 124, 
+    "y": 72
+}

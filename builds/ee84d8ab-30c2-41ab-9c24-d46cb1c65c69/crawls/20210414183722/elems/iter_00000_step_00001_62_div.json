@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "A9qU/OTzigIOzlzbyV3wfQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "div_X141_Y256_W244_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-switcher__list__group__list-item__name"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "workspace-switcher__list__group__list-item__name", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "My Workspace", 
+            "type": "", 
+            "value": "", 
+            "width": 244, 
+            "x": 141, 
+            "xPercent": 7.333170572916667, 
+            "y": 256, 
+            "yPercent": 28.837471783295708
+        }, 
+        "location": {
+            "x": 141, 
+            "y": 256
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 244
+        }, 
+        "tag_name": "div", 
+        "text": "My Workspace"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "My Workspace", 
+    "transformed": true, 
+    "width": 244, 
+    "x": 141, 
+    "y": 256
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AYaAMJVawrxf9UolHEVYaQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X753_Y61_W110_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab__name", 
+                "title": "Crawls"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "requester-tab__name", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Crawls", 
+            "type": "", 
+            "value": "", 
+            "width": 110, 
+            "x": 753, 
+            "xPercent": 39.231770833333336, 
+            "y": 61, 
+            "yPercent": 6.8284424379232505
+        }, 
+        "location": {
+            "x": 753, 
+            "y": 61
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 110
+        }, 
+        "tag_name": "div", 
+        "text": "Crawls"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Crawls", 
+    "transformed": true, 
+    "width": 110, 
+    "x": 753, 
+    "y": 61
+}

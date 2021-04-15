@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0VSPTWdQQ0VxVMjI81bseQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X14_Y120_W52_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "active requester-left-sidebar__header-tab-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "active requester-left-sidebar__header-tab-title", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Collections", 
+            "type": "", 
+            "value": "", 
+            "width": 52, 
+            "x": 14, 
+            "xPercent": 0.7169596354166666, 
+            "y": 120, 
+            "yPercent": 13.544018058690746
+        }, 
+        "location": {
+            "x": 14, 
+            "y": 120
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 52
+        }, 
+        "tag_name": "div", 
+        "text": "Collections"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Collections", 
+    "transformed": true, 
+    "width": 52, 
+    "x": 14, 
+    "y": 120
+}

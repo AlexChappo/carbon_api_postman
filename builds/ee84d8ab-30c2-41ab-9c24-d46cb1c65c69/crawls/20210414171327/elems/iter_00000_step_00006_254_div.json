@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jxdZfmHGMo7l6M7CRWcxxA==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "div_X404_Y456_W888_H64", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-item-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "workspace-activity-item-content", 
+            "domLevel": 28, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 64, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Public Bot edited the Get Requests collection. View Changelog\n10:25 PM", 
+            "type": "", 
+            "value": "", 
+            "width": 888, 
+            "x": 404, 
+            "xPercent": 21.041666666666668, 
+            "y": 456, 
+            "yPercent": 51.51664785553047
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 456
+        }, 
+        "size": {
+            "height": 64, 
+            "width": 888
+        }, 
+        "tag_name": "div", 
+        "text": "Public Bot edited the Get Requests collection. View Changelog\n10:25 PM"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Public Bot edited the Get Requests collection. View Changelog\n10:25 PM", 
+    "transformed": true, 
+    "width": 888, 
+    "x": 404, 
+    "y": 456
+}

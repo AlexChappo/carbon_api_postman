@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "E13NscBoltaLTiOEMP8IXw==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X65_Y342_W256_H112", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-sidebar-tabs-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "homepage-sidebar-tabs-container", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "WorkspacesPrivate API NetworkIntegrations", 
+            "type": "", 
+            "value": "", 
+            "width": 256, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 342, 
+            "yPercent": 38.60045146726862
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 342
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 256
+        }, 
+        "tag_name": "div", 
+        "text": "WorkspacesPrivate API NetworkIntegrations"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "WorkspacesPrivate API NetworkIntegrations", 
+    "transformed": true, 
+    "width": 256, 
+    "x": 65, 
+    "y": 342
+}

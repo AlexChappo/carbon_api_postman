@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "sylp0argFKN1oulVyjA6Rw==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "span_X388_Y534_W65_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(166, 166, 166)", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Response", 
+            "type": "", 
+            "value": "", 
+            "width": 65, 
+            "x": 388, 
+            "xPercent": 20.208333333333332, 
+            "y": 534, 
+            "yPercent": 60.270880361173816
+        }, 
+        "location": {
+            "x": 388, 
+            "y": 534
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 65
+        }, 
+        "tag_name": "span", 
+        "text": "Response"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Response", 
+    "transformed": true, 
+    "width": 65, 
+    "x": 388, 
+    "y": 534
+}

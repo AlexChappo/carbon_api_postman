@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Lc4pfYT5g4VEc/sa5HIIqg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X65_Y382_W256_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-sidebar-tab", 
+                "href": "https://test-ai.postman.co/network/private", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "homepage-sidebar-tab", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Private API Network", 
+            "type": "", 
+            "value": "", 
+            "width": 256, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 382, 
+            "yPercent": 43.115124153498876
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 382
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 256
+        }, 
+        "tag_name": "a", 
+        "text": "Private API Network"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Private API Network", 
+    "transformed": true, 
+    "width": 256, 
+    "x": 65, 
+    "y": 382
+}

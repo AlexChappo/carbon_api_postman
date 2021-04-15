@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Y7yc+w7ZSzFVj4U1513PlA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y749_W533_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ws-sharing-invite-footer"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "ws-sharing-invite-footer", 
+            "domLevel": 24, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "CancelSave", 
+            "type": "", 
+            "value": "", 
+            "width": 533, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 749, 
+            "yPercent": 84.52313769751693
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 749
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 533
+        }, 
+        "tag_name": "div", 
+        "text": "CancelSave"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "CancelSave", 
+    "transformed": true, 
+    "width": 533, 
+    "x": 1351, 
+    "y": 749
+}

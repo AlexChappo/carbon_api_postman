@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "tcPnXTyLuY3V8KR76+qd1Q==\n", 
+    "height": 554, 
+    "hier_level": 0, 
+    "human_hash": "div_X72_Y54_W362_H554", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-switcher__selector", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "workspace-switcher__selector", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 554, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "New WorkspaceRecently VisitedCarbon APITesting Download Client APIMore WorkspacesMy WorkspaceView all workspaces", 
+            "type": "", 
+            "value": "", 
+            "width": 362, 
+            "x": 72, 
+            "xPercent": 3.7394205729166665, 
+            "y": 54, 
+            "yPercent": 6.094808126410835
+        }, 
+        "location": {
+            "x": 72, 
+            "y": 54
+        }, 
+        "size": {
+            "height": 554, 
+            "width": 362
+        }, 
+        "tag_name": "div", 
+        "text": "New WorkspaceRecently VisitedCarbon APITesting Download Client APIMore WorkspacesMy WorkspaceView all workspaces"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "New WorkspaceRecently VisitedCarbon APITesting Download Client APIMore WorkspacesMy WorkspaceView all workspaces", 
+    "transformed": true, 
+    "width": 362, 
+    "x": 72, 
+    "y": 54
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "YgDoW+zJNb0T4w6K0w46Mg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1764_Y749_W60_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-small is-disabled", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "btn btn-small is-disabled", 
+            "domLevel": 26, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Cancel", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 1764, 
+            "xPercent": 91.875, 
+            "y": 749, 
+            "yPercent": 84.52313769751693
+        }, 
+        "location": {
+            "x": 1764, 
+            "y": 749
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 60
+        }, 
+        "tag_name": "div", 
+        "text": "Cancel"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Cancel", 
+    "transformed": true, 
+    "width": 60, 
+    "x": 1764, 
+    "y": 749
+}

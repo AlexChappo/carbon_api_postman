@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BVCKIwmhjYn8+2Zo2IF9Xw==\n", 
+    "height": 39, 
+    "hier_level": 0, 
+    "human_hash": "div_X975_Y48_W118_H39", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab", 
+                "data-tab-id": "6d78c76f-3dbe-43cc-98c9-171f30d8c9ee", 
+                "draggable": "true"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-tab", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 39, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GETTest Results Case ID", 
+            "type": "", 
+            "value": "", 
+            "width": 118, 
+            "x": 975, 
+            "xPercent": 50.7568359375, 
+            "y": 48, 
+            "yPercent": 5.417607223476298
+        }, 
+        "location": {
+            "x": 975, 
+            "y": 48
+        }, 
+        "size": {
+            "height": 39, 
+            "width": 118
+        }, 
+        "tag_name": "div", 
+        "text": "GETTest Results Case ID"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GETTest Results Case ID", 
+    "transformed": true, 
+    "width": 118, 
+    "x": 975, 
+    "y": 48
+}

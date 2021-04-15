@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8Rd78gB0YN32anz+jum7dg==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "div_X1632_Y336_W228_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "snippet-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(2, 101, 210)", 
+            "cssClass": "snippet-item", 
+            "domLevel": 38, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get a global variable", 
+            "type": "", 
+            "value": "", 
+            "width": 228, 
+            "x": 1632, 
+            "xPercent": 85, 
+            "y": 336, 
+            "yPercent": 37.92325056433409
+        }, 
+        "location": {
+            "x": 1632, 
+            "y": 336
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 228
+        }, 
+        "tag_name": "div", 
+        "text": "Get a global variable"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get a global variable", 
+    "transformed": true, 
+    "width": 228, 
+    "x": 1632, 
+    "y": 336
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BwTxtApJhDAZfZWWkY4i6w==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "img_X88_Y144_W56_H17", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "test.ai", 
+                "class": "team-details-widget-team-logo", 
+                "src": "https://res.cloudinary.com/postman/image/upload/t_team_logo/v1618435132/team/9108173ae3a61a5d28c860c71bca2732a99422d904d26b66a082b44dc1e54d32"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "team-details-widget-team-logo", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 56, 
+            "x": 88, 
+            "xPercent": 4.583333333333333, 
+            "y": 144, 
+            "yPercent": 16.196388261851016
+        }, 
+        "location": {
+            "x": 88, 
+            "y": 144
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 56
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 56, 
+    "x": 88, 
+    "y": 144
+}

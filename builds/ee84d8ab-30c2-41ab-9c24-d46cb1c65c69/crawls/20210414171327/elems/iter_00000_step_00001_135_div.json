@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "oZjyJ7C4oC2k6gdBowUjug==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1340_Y80_W552_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-team-activity-feed-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "homepage-team-activity-feed-title", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 18, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Activity Feed", 
+            "type": "", 
+            "value": "", 
+            "width": 552, 
+            "x": 1340, 
+            "xPercent": 69.79166666666666, 
+            "y": 80, 
+            "yPercent": 9.029345372460497
+        }, 
+        "location": {
+            "x": 1340, 
+            "y": 80
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 552
+        }, 
+        "tag_name": "div", 
+        "text": "Activity Feed"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Activity Feed", 
+    "transformed": true, 
+    "width": 552, 
+    "x": 1340, 
+    "y": 80
+}

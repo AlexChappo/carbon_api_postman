@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "EONd2XyQT19aADECqcuyzg==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X797_Y511_W38_H38", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "google-logo"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "google-logo", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 38, 
+            "x": 797, 
+            "xPercent": 41.510416666666664, 
+            "y": 511, 
+            "yPercent": 57.6502539503386
+        }, 
+        "location": {
+            "x": 797, 
+            "y": 511
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 38
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 38, 
+    "x": 797, 
+    "y": 511
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "c2B6WzytMmmakhaZqcqPmA==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X1748_Y704_W104_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "dropdown", 
+            "domLevel": 35, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Select Role", 
+            "type": "", 
+            "value": "", 
+            "width": 104, 
+            "x": 1748, 
+            "xPercent": 91.0302734375, 
+            "y": 704, 
+            "yPercent": 79.4441309255079
+        }, 
+        "location": {
+            "x": 1748, 
+            "y": 704
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 104
+        }, 
+        "tag_name": "div", 
+        "text": "Select Role"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Select Role", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 1748, 
+    "y": 704
+}

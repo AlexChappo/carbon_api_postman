@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Rc7FY4vGdxDHT0IwM7pUfg==\n", 
+    "height": 287, 
+    "hier_level": 0, 
+    "human_hash": "div_X388_Y232_W1484_H287", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "request-tests-editor-group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "request-tests-editor-group", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 287, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON data", 
+            "type": "", 
+            "value": "", 
+            "width": 1484, 
+            "x": 388, 
+            "xPercent": 20.208333333333332, 
+            "y": 232, 
+            "yPercent": 26.185101580135438
+        }, 
+        "location": {
+            "x": 388, 
+            "y": 232
+        }, 
+        "size": {
+            "height": 287, 
+            "width": 1484
+        }, 
+        "tag_name": "div", 
+        "text": "1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON data"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "1\u00a0Test scripts are written in JavaScript, and are run after the response is received.Learn more about tests scriptsSNIPPETSGet an environment variableGet a global variableGet a variableGet a collection variableSet an environment variableSet a global variableSet a collection variableClear an environment variableClear a global variableClear a collection variableSend a requestStatus code: Code is 200Response body: Contains stringResponse body: JSON value checkResponse body: Is equal to a stringResponse headers: Content-Type header checkResponse time is less than 200msStatus code: Successful POST requestStatus code: Code name has stringResponse body: Convert XML body to a JSON ObjectUse Tiny Validator for JSON data", 
+    "transformed": true, 
+    "width": 1484, 
+    "x": 388, 
+    "y": 232
+}

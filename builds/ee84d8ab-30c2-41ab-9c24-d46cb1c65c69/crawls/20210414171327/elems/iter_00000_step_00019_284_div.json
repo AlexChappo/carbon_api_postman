@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pwnmMX45J+U0+i6xlA1mOA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1491_Y8_W421_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-header__section-right"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "requester-header__section-right", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "UpgradeNotificationsYou\u2019re all caught upTime to grab a coffee, or stretch a little.\u00a0\u00a0Invite", 
+            "type": "", 
+            "value": "", 
+            "width": 421, 
+            "x": 1491, 
+            "xPercent": 77.666015625, 
+            "y": 8, 
+            "yPercent": 0.9029345372460496
+        }, 
+        "location": {
+            "x": 1491, 
+            "y": 8
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 421
+        }, 
+        "tag_name": "div", 
+        "text": "UpgradeNotificationsYou\u2019re all caught upTime to grab a coffee, or stretch a little.\u00a0\u00a0Invite"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "UpgradeNotificationsYou\u2019re all caught upTime to grab a coffee, or stretch a little.\u00a0\u00a0Invite", 
+    "transformed": true, 
+    "width": 421, 
+    "x": 1491, 
+    "y": 8
+}

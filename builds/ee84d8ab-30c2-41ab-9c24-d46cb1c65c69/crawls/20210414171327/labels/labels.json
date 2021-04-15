@@ -1,0 +1,57 @@
+{
+    "elems": {
+        "iter_00000_step_00000_17_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00000_19_button.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00000_4_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00004_96_a.png": [
+            "mi_carbon_api"
+        ], 
+        "iter_00000_step_00032_108_div.png": [
+            "div_tests"
+        ], 
+        "iter_00000_step_00032_113_div.png": [
+            "btn_send"
+        ], 
+        "iter_00000_step_00032_130_div.png": [
+            "div_app_id"
+        ], 
+        "iter_00000_step_00032_143_div.png": [
+            "div_get_requests"
+        ], 
+        "iter_00000_step_00032_154_div.png": [
+            "div_test_runs"
+        ], 
+        "iter_00000_step_00032_168_div.png": [
+            "div_workspaces"
+        ], 
+        "iter_00000_step_00032_196_div.png": [
+            "div_tests"
+        ], 
+        "iter_00000_step_00032_220_div.png": [
+            "div_test_run_id"
+        ], 
+        "iter_00000_step_00032_246_div.png": [
+            "div_test_results_case_id"
+        ], 
+        "iter_00000_step_00032_248_div.png": [
+            "div_labels"
+        ], 
+        "iter_00000_step_00032_301_div.png": [], 
+        "iter_00000_step_00032_383_div.png": [
+            "div_labeler_objects"
+        ], 
+        "iter_00000_step_00032_393_div.png": [
+            "div_crawls"
+        ], 
+        "iter_00000_step_00032_43_div.png": [
+            "div_builds"
+        ]
+    }, 
+    "screens": {}
+}

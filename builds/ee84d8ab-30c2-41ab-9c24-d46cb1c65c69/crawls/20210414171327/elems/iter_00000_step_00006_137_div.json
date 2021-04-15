@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ALisc9CaEqZwT68MwVI+6g==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1227_Y381_W65_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-activity-feed-refresh"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "workspace-activity-feed-refresh", 
+            "domLevel": 24, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Refresh", 
+            "type": "", 
+            "value": "", 
+            "width": 65, 
+            "x": 1227, 
+            "xPercent": 63.91113281250001, 
+            "y": 381, 
+            "yPercent": 43.051636568848764
+        }, 
+        "location": {
+            "x": 1227, 
+            "y": 381
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 65
+        }, 
+        "tag_name": "div", 
+        "text": "Refresh"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Refresh", 
+    "transformed": true, 
+    "width": 65, 
+    "x": 1227, 
+    "y": 381
+}

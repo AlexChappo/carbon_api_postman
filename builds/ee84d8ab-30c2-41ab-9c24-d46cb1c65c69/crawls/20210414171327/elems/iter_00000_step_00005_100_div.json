@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ATgdut/5Ws8xCeNlkQOAiQ==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X1351_Y241_W146_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "create-new-entity"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "create-new-entity", 
+            "domLevel": 24, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Create a collection", 
+            "type": "", 
+            "value": "", 
+            "width": 146, 
+            "x": 1351, 
+            "xPercent": 70.37516276041667, 
+            "y": 241, 
+            "yPercent": 27.25028216704289
+        }, 
+        "location": {
+            "x": 1351, 
+            "y": 241
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 146
+        }, 
+        "tag_name": "div", 
+        "text": "Create a collection"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Create a collection", 
+    "transformed": true, 
+    "width": 146, 
+    "x": 1351, 
+    "y": 241
+}

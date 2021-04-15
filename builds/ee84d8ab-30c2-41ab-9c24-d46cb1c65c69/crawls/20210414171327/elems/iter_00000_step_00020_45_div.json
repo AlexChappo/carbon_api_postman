@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "eouiqhyBajmVAMazhXFEng==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X157_Y384_W34_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collection-sidebar-list-item__entity__name collection-sidebar-list-item__request__name"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "collection-sidebar-list-item__entity__name collection-sidebar-list-item__request__name", 
+            "domLevel": 28, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Builds", 
+            "type": "", 
+            "value": "", 
+            "width": 34, 
+            "x": 157, 
+            "xPercent": 8.177083333333334, 
+            "y": 384, 
+            "yPercent": 43.340857787810386
+        }, 
+        "location": {
+            "x": 157, 
+            "y": 384
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 34
+        }, 
+        "tag_name": "div", 
+        "text": "Builds"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Builds", 
+    "transformed": true, 
+    "width": 34, 
+    "x": 157, 
+    "y": 384
+}

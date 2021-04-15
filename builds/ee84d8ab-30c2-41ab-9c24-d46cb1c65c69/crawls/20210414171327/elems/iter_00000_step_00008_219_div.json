@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yUpzgLKYz3Eys4v6uL7DuQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X663_Y136_W76_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab tab-primary request-editor-tab-body request-editor-tab--variables tab--variables"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "tab tab-primary request-editor-tab-body request-editor-tab--variables tab--variables", 
+            "domLevel": 30, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Variables", 
+            "type": "", 
+            "value": "", 
+            "width": 76, 
+            "x": 663, 
+            "xPercent": 34.51171875, 
+            "y": 136, 
+            "yPercent": 15.349887133182843
+        }, 
+        "location": {
+            "x": 663, 
+            "y": 136
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 76
+        }, 
+        "tag_name": "div", 
+        "text": "Variables"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Variables", 
+    "transformed": true, 
+    "width": 76, 
+    "x": 663, 
+    "y": 136
+}

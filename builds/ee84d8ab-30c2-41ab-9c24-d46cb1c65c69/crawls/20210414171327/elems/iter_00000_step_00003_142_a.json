@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "SF+s0KoLUgqf0C1U4m1npQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X65_Y422_W256_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-sidebar-tab", 
+                "href": "https://test-ai.postman.co/integrations", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "homepage-sidebar-tab", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Integrations", 
+            "type": "", 
+            "value": "", 
+            "width": 256, 
+            "x": 65, 
+            "xPercent": 3.3854166666666665, 
+            "y": 422, 
+            "yPercent": 47.629796839729124
+        }, 
+        "location": {
+            "x": 65, 
+            "y": 422
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 256
+        }, 
+        "tag_name": "a", 
+        "text": "Integrations"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Integrations", 
+    "transformed": true, 
+    "width": 256, 
+    "x": 65, 
+    "y": 422
+}

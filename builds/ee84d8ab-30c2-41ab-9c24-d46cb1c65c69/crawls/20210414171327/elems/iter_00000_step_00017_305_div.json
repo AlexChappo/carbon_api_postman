@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "DugcX0iV2d3OCCqhqUltiA==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "div_X912_Y297_W465_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "key-value-cell__placeholder reference__0-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(169, 169, 169)", 
+            "cssClass": "key-value-cell__placeholder reference__0-1", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Value", 
+            "type": "", 
+            "value": "", 
+            "width": 465, 
+            "x": 912, 
+            "xPercent": 47.473958333333336, 
+            "y": 297, 
+            "yPercent": 33.521444695259596
+        }, 
+        "location": {
+            "x": 912, 
+            "y": 297
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 465
+        }, 
+        "tag_name": "div", 
+        "text": "Value"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Value", 
+    "transformed": true, 
+    "width": 465, 
+    "x": 912, 
+    "y": 297
+}

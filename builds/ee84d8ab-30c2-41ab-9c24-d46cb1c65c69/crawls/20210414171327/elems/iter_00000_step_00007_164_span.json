@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TmAEX9iCTz9K2Ew2S9NwEA==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X692_Y342_W194_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "auth-target-description__link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "auth-target-description__link", 
+            "domLevel": 34, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Learn more about authorization", 
+            "type": "", 
+            "value": "", 
+            "width": 194, 
+            "x": 692, 
+            "xPercent": 36.0595703125, 
+            "y": 342, 
+            "yPercent": 38.60045146726862
+        }, 
+        "location": {
+            "x": 692, 
+            "y": 342
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 194
+        }, 
+        "tag_name": "span", 
+        "text": "Learn more about authorization"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Learn more about authorization", 
+    "transformed": true, 
+    "width": 194, 
+    "x": 692, 
+    "y": 342
+}

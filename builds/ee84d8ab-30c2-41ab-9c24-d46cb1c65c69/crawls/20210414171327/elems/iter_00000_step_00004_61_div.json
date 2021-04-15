@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "iDHiaaFQjVnH6yJw6PhRNw==\n", 
+    "height": 384, 
+    "hier_level": 0, 
+    "human_hash": "div_X402_Y184_W906_H384", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homepage-get-started"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "homepage-get-started", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 384, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get started with PostmanStart with something newCreate a new request, collection or API, in a WorkspaceCreate New \u2192Import an existing fileImport any API schema file from your local drive or GithubImport file \u2192Explore our public networkBrowse featured APIs, collections, and workspaces published by the Postman community.Explore \u2192Work smarter with PostmanLearn how Postman can help you at every stage of the API development.Learn \u2192", 
+            "type": "", 
+            "value": "", 
+            "width": 906, 
+            "x": 402, 
+            "xPercent": 20.9375, 
+            "y": 184, 
+            "yPercent": 20.767494356659142
+        }, 
+        "location": {
+            "x": 402, 
+            "y": 184
+        }, 
+        "size": {
+            "height": 384, 
+            "width": 906
+        }, 
+        "tag_name": "div", 
+        "text": "Get started with PostmanStart with something newCreate a new request, collection or API, in a WorkspaceCreate New \u2192Import an existing fileImport any API schema file from your local drive or GithubImport file \u2192Explore our public networkBrowse featured APIs, collections, and workspaces published by the Postman community.Explore \u2192Work smarter with PostmanLearn how Postman can help you at every stage of the API development.Learn \u2192"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get started with PostmanStart with something newCreate a new request, collection or API, in a WorkspaceCreate New \u2192Import an existing fileImport any API schema file from your local drive or GithubImport file \u2192Explore our public networkBrowse featured APIs, collections, and workspaces published by the Postman community.Explore \u2192Work smarter with PostmanLearn how Postman can help you at every stage of the API development.Learn \u2192", 
+    "transformed": true, 
+    "width": 906, 
+    "x": 402, 
+    "y": 184
+}

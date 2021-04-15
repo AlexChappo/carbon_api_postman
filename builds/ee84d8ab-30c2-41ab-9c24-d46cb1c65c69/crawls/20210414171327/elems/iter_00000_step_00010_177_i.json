@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZSRaaIskik9o/XY2YbYyDQ==\n", 
+    "height": 8, 
+    "hier_level": 0, 
+    "human_hash": "i_X1425_Y65_W8_H8", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Icon__IconContainer-sc-577psq-0 kmcxQX requester-tab__close-icon", 
+                "color": "content-color-secondary", 
+                "title": ""
+            }, 
+            "background-color": "rgb(244, 112, 35)", 
+            "class": "i", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "Icon__IconContainer-sc-577psq-0 kmcxQX requester-tab__close-icon", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 8, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 8, 
+            "x": 1425, 
+            "xPercent": 74.22688802083334, 
+            "y": 65, 
+            "yPercent": 7.279909706546276
+        }, 
+        "location": {
+            "x": 1425, 
+            "y": 65
+        }, 
+        "size": {
+            "height": 8, 
+            "width": 8
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 8, 
+    "x": 1425, 
+    "y": 65
+}

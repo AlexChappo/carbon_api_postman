@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Pwb0vr1Lz4IV0KuRYTfWHA==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X1758_Y630_W58_H12", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "permissions-list-item--role"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "permissions-list-item--role", 
+            "domLevel": 38, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Select Role", 
+            "type": "", 
+            "value": "", 
+            "width": 58, 
+            "x": 1758, 
+            "xPercent": 91.55110677083333, 
+            "y": 630, 
+            "yPercent": 71.09198645598194
+        }, 
+        "location": {
+            "x": 1758, 
+            "y": 630
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 58
+        }, 
+        "tag_name": "span", 
+        "text": "Select Role"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Select Role", 
+    "transformed": true, 
+    "width": 58, 
+    "x": 1758, 
+    "y": 630
+}

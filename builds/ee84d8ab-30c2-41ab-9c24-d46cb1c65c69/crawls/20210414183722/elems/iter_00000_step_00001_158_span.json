@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "nOP79nruGky5nuMuwulsAA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "span_X89_Y125_W95_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "workspace-switcher__list__group__title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "workspace-switcher__list__group__title", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Recently Visited", 
+            "type": "", 
+            "value": "", 
+            "width": 95, 
+            "x": 89, 
+            "xPercent": 4.624837239583333, 
+            "y": 125, 
+            "yPercent": 14.108352144469528
+        }, 
+        "location": {
+            "x": 89, 
+            "y": 125
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 95
+        }, 
+        "tag_name": "span", 
+        "text": "Recently Visited"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Recently Visited", 
+    "transformed": true, 
+    "width": 95, 
+    "x": 89, 
+    "y": 125
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5W3epKW80BYJ8V4Y18RalA==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X1396_Y163_W476_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(80, 80, 80)", 
+            "cssClass": "", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Public Bot edited the Get Requests collection in Carbon API workspace. View Changelog", 
+            "type": "", 
+            "value": "", 
+            "width": 476, 
+            "x": 1396, 
+            "xPercent": 72.70833333333333, 
+            "y": 163, 
+            "yPercent": 18.397291196388263
+        }, 
+        "location": {
+            "x": 1396, 
+            "y": 163
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 476
+        }, 
+        "tag_name": "div", 
+        "text": "Public Bot edited the Get Requests collection in Carbon API workspace. View Changelog"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Public Bot edited the Get Requests collection in Carbon API workspace. View Changelog", 
+    "transformed": true, 
+    "width": 476, 
+    "x": 1396, 
+    "y": 163
+}

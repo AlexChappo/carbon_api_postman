@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QFBRV04R6hF3q4x9fWCztg==\n", 
+    "height": 245, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y609_W1420_H245", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "true", 
+                "class": "view-lines", 
+                "data-mprt": "7", 
+                "role": "presentation", 
+                "style": "position: absolute; font-family: IBMPlexMono, \"Courier New\", monospace; font-weight: normal; font-size: 12px; font-feature-settings: \"liga\" 0, \"calt\" 0; line-height: 18px; letter-spacing: 0px; width: 1420px; height: 245px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-lines", 
+            "domLevel": 43, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 245, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "{\"data\":\u00a0{\"current_company\":\u00a0{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"},\u00a0\"apps\":[{\"platform\":\u00a0\"WEB\",\u00a0\"default_package\":\u00a0null,\u00a0\"id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\",\u00a0\"name\":\u00a0\"TestAI\u00a0Sandbox-\u00a0Web\u00a0-\u00a0Blogen\",\u00a0\"app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\"}],\u00a0\"user\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\"Bot\",\u00a0\"preferred_company\":\u00a0{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"},\u00a0\"companies\":[{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"}],\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"is_admin\":\u00a0true,\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true}},\u00a0\"success\":\u00a0true}", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 609, 
+            "yPercent": 68.73589164785552
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 609
+        }, 
+        "size": {
+            "height": 245, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "{\"data\":\u00a0{\"current_company\":\u00a0{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"},\u00a0\"apps\":[{\"platform\":\u00a0\"WEB\",\u00a0\"default_package\":\u00a0null,\u00a0\"id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\",\u00a0\"name\":\u00a0\"TestAI\u00a0Sandbox-\u00a0Web\u00a0-\u00a0Blogen\",\u00a0\"app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\"}],\u00a0\"user\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\"Bot\",\u00a0\"preferred_company\":\u00a0{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"},\u00a0\"companies\":[{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"}],\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"is_admin\":\u00a0true,\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true}},\u00a0\"success\":\u00a0true}"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "{\"data\":\u00a0{\"current_company\":\u00a0{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"},\u00a0\"apps\":[{\"platform\":\u00a0\"WEB\",\u00a0\"default_package\":\u00a0null,\u00a0\"id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\",\u00a0\"name\":\u00a0\"TestAI\u00a0Sandbox-\u00a0Web\u00a0-\u00a0Blogen\",\u00a0\"app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\"}],\u00a0\"user\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\"Bot\",\u00a0\"preferred_company\":\u00a0{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"},\u00a0\"companies\":[{\"disabled\":\u00a0false,\u00a0\"slug\":\u00a0\"testai\",\u00a0\"name\":\u00a0\"test.ai\",\u00a0\"id\":\u00a0\"c0000001\"}],\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"is_admin\":\u00a0true,\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true}},\u00a0\"success\":\u00a0true}", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 609
+}
