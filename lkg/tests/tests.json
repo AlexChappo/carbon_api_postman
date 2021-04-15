@@ -964,7 +964,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify the first ID number that appears on screen.", 
                 "grep": "60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web", 
                 "grep_count": null, 
@@ -1001,7 +1001,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify first png object", 
                 "grep": "iter_00000_step_00019_screenshot.png", 
                 "grep_count": null, 
@@ -1038,7 +1038,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify first label on screen for crawl  20210331235227", 
                 "grep": "iter_00000_step_00045_43_a.png", 
                 "grep_count": null, 
@@ -1075,7 +1075,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify real app id that appears onscreen.", 
                 "grep": "60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33", 
                 "grep_count": null, 
@@ -1112,8 +1112,8 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
-                "description": "Verify run id for \"Wait\" test ", 
+                "continue_on_failure": true, 
+                "description": "Verify \"Wait\" template label name ", 
                 "grep": "btn_wait_for_tmp", 
                 "grep_count": null, 
                 "input": "", 
@@ -1149,7 +1149,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify the label for Basic Gestures", 
                 "grep": "lnk_basic_gestures", 
                 "grep_count": null, 
@@ -1186,8 +1186,8 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
-                "description": "Verify Basic Gestures Test name", 
+                "continue_on_failure": true, 
+                "description": "Verify basic gestures label name", 
                 "grep": "lnk_basic_gestures", 
                 "grep_count": null, 
                 "input": "", 
@@ -1223,7 +1223,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify  20210414171327 crawl", 
                 "grep": "20210414171327", 
                 "grep_count": null, 
@@ -1731,7 +1731,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify run id for \"Wait\" test ", 
+                "description": "Verify wait for template label name", 
                 "grep": "btn_wait_for_tmp", 
                 "grep_count": null, 
                 "input": "", 
@@ -1790,7 +1790,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify Basic Gestures Test name", 
+                "description": "Verify basic gestures label name", 
                 "grep": "lnk_basic_gestures", 
                 "grep_count": null, 
                 "input": "", 
