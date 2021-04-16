@@ -975,7 +975,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1025,7 +1025,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1075,7 +1075,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1116,7 +1116,7 @@
             {
                 "continue_on_failure": true, 
                 "description": "Verify test run id.", 
-                "grep": "20210415213337", 
+                "grep": "20210416115045", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1125,7 +1125,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1165,8 +1165,8 @@
             }, 
             {
                 "continue_on_failure": true, 
-                "description": "Verify Wait title.", 
-                "grep": "Wait", 
+                "description": "Verify Wait Id that appears on screen.", 
+                "grep": "20210412214521", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1175,7 +1175,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1225,7 +1225,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1275,7 +1275,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1325,7 +1325,7 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
+                "continue_on_failure": true, 
                 "description": "Verify \"status ok 200\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1436,7 +1436,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "Verify test run number that appears on screen.", 
-                "grep": "20210415213337", 
+                "grep": "20210416115045", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1939,8 +1939,8 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify title of test run.", 
-                "grep": "Wait", 
+                "description": "Verify wait test id", 
+                "grep": "20210412214521", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
