@@ -1040,7 +1040,7 @@
             {
                 "continue_on_failure": true, 
                 "description": "Verify first label on screen for crawl  20210331235227", 
-                "grep": "iter_00000_step_00045_43_a.png", 
+                "grep": "lnk_logout", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1076,8 +1076,8 @@
             }, 
             {
                 "continue_on_failure": true, 
-                "description": "Verify real app id that appears onscreen.", 
-                "grep": "60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33", 
+                "description": "Verify test run id.", 
+                "grep": "20210415213337", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1113,8 +1113,8 @@
             }, 
             {
                 "continue_on_failure": true, 
-                "description": "Verify \"Wait\" template label name ", 
-                "grep": "btn_wait_for_tmp", 
+                "description": "Verify Wait title.", 
+                "grep": "Wait", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1187,8 +1187,8 @@
             }, 
             {
                 "continue_on_failure": true, 
-                "description": "Verify basic gestures label name", 
-                "grep": "lnk_basic_gestures", 
+                "description": "Verify \"Individual\" from Basic Gestures title.", 
+                "grep": "Individual", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1318,8 +1318,8 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify real app id that appears onscreen.", 
-                "grep": "60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33", 
+                "description": "Verify test run number that appears on screen.", 
+                "grep": "20210415171344", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1614,7 +1614,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "Verify first label on screen for crawl  20210331235227", 
-                "grep": "iter_00000_step_00045_43_a.png", 
+                "grep": "lnk_logout", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1731,8 +1731,8 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify wait for template label name", 
-                "grep": "btn_wait_for_tmp", 
+                "description": "Verify title of test run.", 
+                "grep": "Wait", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1791,7 +1791,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "Verify basic gestures label name", 
-                "grep": "lnk_basic_gestures", 
+                "grep": "Individual", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
