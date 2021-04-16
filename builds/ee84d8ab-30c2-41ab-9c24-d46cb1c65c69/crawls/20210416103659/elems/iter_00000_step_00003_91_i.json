@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "j7iBhkFtvPZzTx8+iKf2vw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "i_X1076_Y56_W24_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Icon__IconContainer-sc-577psq-0 gTSa-DA requester-tab-create-icon pm-icon pm-icon-normal", 
+                "color": "content-color-primary", 
+                "title": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "Icon__IconContainer-sc-577psq-0 gTSa-DA requester-tab-create-icon pm-icon pm-icon-normal", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 24, 
+            "x": 1076, 
+            "xPercent": 56.041666666666664, 
+            "y": 56, 
+            "yPercent": 6.264108352144469
+        }, 
+        "location": {
+            "x": 1076, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 24
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 24, 
+    "x": 1076, 
+    "y": 56
+}

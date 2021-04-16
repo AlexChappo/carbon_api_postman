@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "erKr/N8hX5wbarBAw2LhBQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X384_Y57_W144_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab-title-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-tab-title-wrapper", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Overview", 
+            "type": "", 
+            "value": "", 
+            "width": 144, 
+            "x": 384, 
+            "xPercent": 20, 
+            "y": 57, 
+            "yPercent": 6.376975169300225
+        }, 
+        "location": {
+            "x": 384, 
+            "y": 57
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 144
+        }, 
+        "tag_name": "div", 
+        "text": "Overview"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Overview", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 384, 
+    "y": 57
+}

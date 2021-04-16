@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "YOQB3DklvbQZz4bMDHVtHw==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y646_W684_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "\"verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\",\u00a0\"\\u00d7\",\u00a0\"accept\",", 
+            "type": "", 
+            "value": "", 
+            "width": 684, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 646, 
+            "yPercent": 72.91196388261851
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 646
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 684
+        }, 
+        "tag_name": "span", 
+        "text": "\"verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\",\u00a0\"\\u00d7\",\u00a0\"accept\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "\"verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\",\u00a0\"\\u00d7\",\u00a0\"accept\",", 
+    "transformed": true, 
+    "width": 684, 
+    "x": 444, 
+    "y": 646
+}

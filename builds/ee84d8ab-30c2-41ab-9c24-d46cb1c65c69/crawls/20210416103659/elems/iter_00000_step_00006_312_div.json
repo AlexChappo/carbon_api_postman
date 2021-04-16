@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Xi6PsEkU9P3ThTabXWiCXg==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X1809_Y198_W55_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-text request-editor-actions__item entity-editor-tabs-action--cookies", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(2, 101, 210)", 
+            "cssClass": "btn btn-text request-editor-actions__item entity-editor-tabs-action--cookies", 
+            "domLevel": 30, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Cookies", 
+            "type": "", 
+            "value": "", 
+            "width": 55, 
+            "x": 1809, 
+            "xPercent": 94.20979817708334, 
+            "y": 198, 
+            "yPercent": 22.34762979683973
+        }, 
+        "location": {
+            "x": 1809, 
+            "y": 198
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 55
+        }, 
+        "tag_name": "div", 
+        "text": "Cookies"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Cookies", 
+    "transformed": true, 
+    "width": 55, 
+    "x": 1809, 
+    "y": 198
+}

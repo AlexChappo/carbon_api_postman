@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "U32JHroQmG9mupq9moSBPA==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y843_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:234px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "{\"btn_verify_one_label\":\u00a01.0},\u00a0\"iter_00000_step_00045_8_a.png\":\u00a0{\"lnk_wait\":\u00a01.0}}},\u00a0\"labels_in_use\":\u00a0[],\u00a0\"elems\":\u00a0{}},", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 843, 
+            "yPercent": 95.14672686230247
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 843
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "{\"btn_verify_one_label\":\u00a01.0},\u00a0\"iter_00000_step_00045_8_a.png\":\u00a0{\"lnk_wait\":\u00a01.0}}},\u00a0\"labels_in_use\":\u00a0[],\u00a0\"elems\":\u00a0{}},"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "{\"btn_verify_one_label\":\u00a01.0},\u00a0\"iter_00000_step_00045_8_a.png\":\u00a0{\"lnk_wait\":\u00a01.0}}},\u00a0\"labels_in_use\":\u00a0[],\u00a0\"elems\":\u00a0{}},", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 843
+}

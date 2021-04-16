@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "XvlOq4m4ptQPpOj9lLjRDQ==\n", 
+    "height": 303, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y559_W1492_H303", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-viewer__tab-contents"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "response-viewer__tab-contents", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 303, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "PrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"screens\":\u00a0{},\u00a0\"suggested_labels\":\u00a0{\"screens\":\u00a0{},\u00a0\"elems\":\u00a0{\"iter_00000_step_00045_43_a.png\":\u00a0{\"lnk_logout\":1.0},\u00a0\"iter_00000_step_00029_7_button.png\":\u00a0{\"btn_ok\":\u00a01.0},\u00a0\"iter_00000_step_00045_13_a.png\":\u00a0{\"lnk_basic_gestures\":1.0},\u00a0\"iter_00000_step_00045_11_button.png\":\u00a0{\"btn_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00025_3_button.png\":{\"btn_accept\":\u00a01.0,\u00a0\"btn_modal_button\":\u00a01.0},\u00a0\"iter_00000_step_00045_42_a.png\":\u00a0{\"lnk_verify\":\u00a01.0},\"iter_00000_step_00002_2_button.png\":\u00a0{\"btn_verified\":\u00a01.0},\u00a0\"iter_00000_step_00045_34_li.png\":\u00a0{\"lnk_logout\":\u00a01.0},\"iter_00000_step_00027_11_button.png\":\u00a0{\"btn_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00045_44_a.png\":{\"lnk_input_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_0_button.png\":\u00a0{\"btn_verify_two_strings\":\u00a01.0},\"iter_00000_step_00045_29_button.png\":\u00a0{\"btn_verify_one_string\":\u00a01.0},\u00a0\"iter_00000_step_00045_28_button.png\":{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},\"iter_00000_step_00045_14_a.png\":\u00a0{\"lnk_home\":\u00a01.0},\u00a0\"iter_00000_step_00045_19_a.png\":\u00a0{\"lnk_find_element\":\u00a01.0},\"iter_00000_step_00045_16_button.png\":\u00a0{\"btn_verify_two_labeled_elements\":\u00a01.0},\u00a0\"iter_00000_step_00045_20_a.png\":{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},\"iter_00000_step_00045_31_button.png\":\u00a0{\"btn_verify_label_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00045_38_button.png\":{\"btn_verify_one_label\":\u00a01.0},\u00a0\"iter_00000_step_00045_8_a.png\":\u00a0{\"lnk_wait\":\u00a01.0}}},\u00a0\"labels_in_use\":\u00a0[],\u00a0\"elems\":\u00a0{}},", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 559, 
+            "yPercent": 63.092550790067726
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 559
+        }, 
+        "size": {
+            "height": 303, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "PrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"screens\":\u00a0{},\u00a0\"suggested_labels\":\u00a0{\"screens\":\u00a0{},\u00a0\"elems\":\u00a0{\"iter_00000_step_00045_43_a.png\":\u00a0{\"lnk_logout\":1.0},\u00a0\"iter_00000_step_00029_7_button.png\":\u00a0{\"btn_ok\":\u00a01.0},\u00a0\"iter_00000_step_00045_13_a.png\":\u00a0{\"lnk_basic_gestures\":1.0},\u00a0\"iter_00000_step_00045_11_button.png\":\u00a0{\"btn_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00025_3_button.png\":{\"btn_accept\":\u00a01.0,\u00a0\"btn_modal_button\":\u00a01.0},\u00a0\"iter_00000_step_00045_42_a.png\":\u00a0{\"lnk_verify\":\u00a01.0},\"iter_00000_step_00002_2_button.png\":\u00a0{\"btn_verified\":\u00a01.0},\u00a0\"iter_00000_step_00045_34_li.png\":\u00a0{\"lnk_logout\":\u00a01.0},\"iter_00000_step_00027_11_button.png\":\u00a0{\"btn_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00045_44_a.png\":{\"lnk_input_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_0_button.png\":\u00a0{\"btn_verify_two_strings\":\u00a01.0},\"iter_00000_step_00045_29_button.png\":\u00a0{\"btn_verify_one_string\":\u00a01.0},\u00a0\"iter_00000_step_00045_28_button.png\":{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},\"iter_00000_step_00045_14_a.png\":\u00a0{\"lnk_home\":\u00a01.0},\u00a0\"iter_00000_step_00045_19_a.png\":\u00a0{\"lnk_find_element\":\u00a01.0},\"iter_00000_step_00045_16_button.png\":\u00a0{\"btn_verify_two_labeled_elements\":\u00a01.0},\u00a0\"iter_00000_step_00045_20_a.png\":{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},\"iter_00000_step_00045_31_button.png\":\u00a0{\"btn_verify_label_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00045_38_button.png\":{\"btn_verify_one_label\":\u00a01.0},\u00a0\"iter_00000_step_00045_8_a.png\":\u00a0{\"lnk_wait\":\u00a01.0}}},\u00a0\"labels_in_use\":\u00a0[],\u00a0\"elems\":\u00a0{}},"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "PrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"screens\":\u00a0{},\u00a0\"suggested_labels\":\u00a0{\"screens\":\u00a0{},\u00a0\"elems\":\u00a0{\"iter_00000_step_00045_43_a.png\":\u00a0{\"lnk_logout\":1.0},\u00a0\"iter_00000_step_00029_7_button.png\":\u00a0{\"btn_ok\":\u00a01.0},\u00a0\"iter_00000_step_00045_13_a.png\":\u00a0{\"lnk_basic_gestures\":1.0},\u00a0\"iter_00000_step_00045_11_button.png\":\u00a0{\"btn_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00025_3_button.png\":{\"btn_accept\":\u00a01.0,\u00a0\"btn_modal_button\":\u00a01.0},\u00a0\"iter_00000_step_00045_42_a.png\":\u00a0{\"lnk_verify\":\u00a01.0},\"iter_00000_step_00002_2_button.png\":\u00a0{\"btn_verified\":\u00a01.0},\u00a0\"iter_00000_step_00045_34_li.png\":\u00a0{\"lnk_logout\":\u00a01.0},\"iter_00000_step_00027_11_button.png\":\u00a0{\"btn_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00045_44_a.png\":{\"lnk_input_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_0_button.png\":\u00a0{\"btn_verify_two_strings\":\u00a01.0},\"iter_00000_step_00045_29_button.png\":\u00a0{\"btn_verify_one_string\":\u00a01.0},\u00a0\"iter_00000_step_00045_28_button.png\":{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},\"iter_00000_step_00045_14_a.png\":\u00a0{\"lnk_home\":\u00a01.0},\u00a0\"iter_00000_step_00045_19_a.png\":\u00a0{\"lnk_find_element\":\u00a01.0},\"iter_00000_step_00045_16_button.png\":\u00a0{\"btn_verify_two_labeled_elements\":\u00a01.0},\u00a0\"iter_00000_step_00045_20_a.png\":{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},\"iter_00000_step_00045_31_button.png\":\u00a0{\"btn_verify_label_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00045_38_button.png\":{\"btn_verify_one_label\":\u00a01.0},\u00a0\"iter_00000_step_00045_8_a.png\":\u00a0{\"lnk_wait\":\u00a01.0}}},\u00a0\"labels_in_use\":\u00a0[],\u00a0\"elems\":\u00a0{}},", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 559
+}

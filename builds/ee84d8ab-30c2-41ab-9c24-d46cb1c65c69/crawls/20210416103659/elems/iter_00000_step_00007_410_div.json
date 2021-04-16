@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "rg8TYn9TkFN0FveQJgi2QQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1063_Y527_W809_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-viewer__meta"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "response-viewer__meta", 
+            "domLevel": 30, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Status:200OKTime:13 msSize:9.67 KBSave Response", 
+            "type": "", 
+            "value": "", 
+            "width": 809, 
+            "x": 1063, 
+            "xPercent": 55.361328125, 
+            "y": 527, 
+            "yPercent": 59.480812641083524
+        }, 
+        "location": {
+            "x": 1063, 
+            "y": 527
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 809
+        }, 
+        "tag_name": "div", 
+        "text": "Status:200OKTime:13 msSize:9.67 KBSave Response"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Status:200OKTime:13 msSize:9.67 KBSave Response", 
+    "transformed": true, 
+    "width": 809, 
+    "x": 1063, 
+    "y": 527
+}

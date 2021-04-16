@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HazbI0Q5/tIlF/n0SiARlw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1763_Y257_W109_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "bulk-editor-preset__controls"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(210, 63, 14)", 
+            "cssClass": "bulk-editor-preset__controls", 
+            "domLevel": 41, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Bulk Edit", 
+            "type": "", 
+            "value": "", 
+            "width": 109, 
+            "x": 1763, 
+            "xPercent": 91.84000651041667, 
+            "y": 257, 
+            "yPercent": 29.006772009029348
+        }, 
+        "location": {
+            "x": 1763, 
+            "y": 257
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 109
+        }, 
+        "tag_name": "div", 
+        "text": "Bulk Edit"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Bulk Edit", 
+    "transformed": true, 
+    "width": 109, 
+    "x": 1763, 
+    "y": 257
+}

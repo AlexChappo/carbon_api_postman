@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5itaSVml40gDfp/IV1TcIA==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y789_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:180px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "\"DESKTOP_CHROME\",\u00a0\"created_at\":\u00a0\"2021-04-13\u00a002:49:13.010906\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\",", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 789, 
+            "yPercent": 89.05191873589165
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 789
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "\"DESKTOP_CHROME\",\u00a0\"created_at\":\u00a0\"2021-04-13\u00a002:49:13.010906\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "\"DESKTOP_CHROME\",\u00a0\"created_at\":\u00a0\"2021-04-13\u00a002:49:13.010906\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\",", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 789
+}

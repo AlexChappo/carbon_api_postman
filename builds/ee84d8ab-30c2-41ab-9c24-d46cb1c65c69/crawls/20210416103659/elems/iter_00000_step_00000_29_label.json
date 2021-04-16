@@ -1,0 +1,71 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "OrN+omD2K7y9m6By0+4W6w==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "label_X796_Y385_W126_H17", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "for": "remember-me-checkbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Keep me signed in", 
+            "type": "", 
+            "value": "", 
+            "width": 126, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 385, 
+            "yPercent": 43.45372460496614
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 385
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 126
+        }, 
+        "tag_name": "label", 
+        "text": "Keep me signed in"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Keep me signed in", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 796, 
+    "y": 385
+}

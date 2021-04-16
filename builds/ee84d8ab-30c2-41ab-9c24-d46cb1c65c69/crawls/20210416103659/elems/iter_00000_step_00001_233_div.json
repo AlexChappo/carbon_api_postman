@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "reacnBkIR2cnP5YOVpTtVQ==\n", 
+    "height": 33, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y257_W1492_H33", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "key-value-form-row header-row"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "key-value-form-row header-row", 
+            "domLevel": 39, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 33, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "KEYVALUEDESCRIPTION Bulk Edit", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 257, 
+            "yPercent": 29.006772009029348
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 257
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "KEYVALUEDESCRIPTION Bulk Edit"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "KEYVALUEDESCRIPTION Bulk Edit", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 257
+}

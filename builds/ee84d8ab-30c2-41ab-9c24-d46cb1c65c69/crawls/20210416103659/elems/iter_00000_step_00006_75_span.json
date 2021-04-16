@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "w0pcJUrKUkN65oGLJmH2MA==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y808_W864_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts", 
+            "type": "", 
+            "value": "", 
+            "width": 864, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 808, 
+            "yPercent": 91.19638826185101
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 808
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 864
+        }, 
+        "tag_name": "span", 
+        "text": "\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts", 
+    "transformed": true, 
+    "width": 864, 
+    "x": 444, 
+    "y": 808
+}

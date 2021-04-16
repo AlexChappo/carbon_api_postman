@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "myNIGKNOMINtERBRs1GsBw==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "span_X399_Y102_W95_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "breadcrumb breadcrumb__text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "breadcrumb breadcrumb__text", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Get Requests", 
+            "type": "", 
+            "value": "", 
+            "width": 95, 
+            "x": 399, 
+            "xPercent": 20.78125, 
+            "y": 102, 
+            "yPercent": 11.455981941309256
+        }, 
+        "location": {
+            "x": 399, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 95
+        }, 
+        "tag_name": "span", 
+        "text": "Get Requests"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Get Requests", 
+    "transformed": true, 
+    "width": 95, 
+    "x": 399, 
+    "y": 102
+}

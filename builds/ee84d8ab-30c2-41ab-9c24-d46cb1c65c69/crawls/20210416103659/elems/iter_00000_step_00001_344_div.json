@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "G8F9GBML3QMlDqGqCOGNHQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X277_Y56_W95_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "actions-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "actions-container", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NewImport", 
+            "type": "", 
+            "value": "", 
+            "width": 95, 
+            "x": 277, 
+            "xPercent": 14.417317708333332, 
+            "y": 56, 
+            "yPercent": 6.264108352144469
+        }, 
+        "location": {
+            "x": 277, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 95
+        }, 
+        "tag_name": "div", 
+        "text": "NewImport"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NewImport", 
+    "transformed": true, 
+    "width": 95, 
+    "x": 277, 
+    "y": 56
+}

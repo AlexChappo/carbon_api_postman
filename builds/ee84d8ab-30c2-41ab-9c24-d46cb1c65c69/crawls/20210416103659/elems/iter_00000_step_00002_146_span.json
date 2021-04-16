@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/XKGv6eelrrrczMdgsJILg==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X1524_Y754_W230_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mtk1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "mtk1", 
+            "domLevel": 46, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "_____\\n______\\n________accept\"],", 
+            "type": "", 
+            "value": "", 
+            "width": 230, 
+            "x": 1524, 
+            "xPercent": 79.37744140625, 
+            "y": 754, 
+            "yPercent": 85.10158013544017
+        }, 
+        "location": {
+            "x": 1524, 
+            "y": 754
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 230
+        }, 
+        "tag_name": "span", 
+        "text": "_____\\n______\\n________accept\"],"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "_____\\n______\\n________accept\"],", 
+    "transformed": true, 
+    "width": 230, 
+    "x": 1524, 
+    "y": 754
+}

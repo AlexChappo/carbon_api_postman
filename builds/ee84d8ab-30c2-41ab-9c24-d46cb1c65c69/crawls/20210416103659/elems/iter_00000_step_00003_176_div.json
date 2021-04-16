@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gp8gZuItvLJw2V3Hdmrmog==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "div_X587_Y567_W82_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab tab-secondary text-editor-tab text-editor-tab--visualize tab--Visualize"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "tab tab-secondary text-editor-tab text-editor-tab--visualize tab--Visualize", 
+            "domLevel": 41, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Visualize", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 587, 
+            "xPercent": 30.594075520833336, 
+            "y": 567, 
+            "yPercent": 63.99548532731377
+        }, 
+        "location": {
+            "x": 587, 
+            "y": 567
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 82
+        }, 
+        "tag_name": "div", 
+        "text": "Visualize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Visualize", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 587, 
+    "y": 567
+}

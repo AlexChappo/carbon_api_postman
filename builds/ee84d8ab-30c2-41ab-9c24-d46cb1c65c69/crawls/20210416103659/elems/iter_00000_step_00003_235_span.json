@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "wqm2eOUWuNcCwWpfiZS4/w==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X1827_Y866_W29_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "trash-label-text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(128, 128, 128)", 
+            "cssClass": "trash-label-text", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Trash", 
+            "type": "", 
+            "value": "", 
+            "width": 29, 
+            "x": 1827, 
+            "xPercent": 95.15706380208333, 
+            "y": 866, 
+            "yPercent": 97.74266365688487
+        }, 
+        "location": {
+            "x": 1827, 
+            "y": 866
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 29
+        }, 
+        "tag_name": "span", 
+        "text": "Trash"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Trash", 
+    "transformed": true, 
+    "width": 29, 
+    "x": 1827, 
+    "y": 866
+}

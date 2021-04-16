@@ -976,6 +976,19 @@
             }, 
             {
                 "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
                 "description": "Tap \"Get Labeler Objects\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1008,6 +1021,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }, 
@@ -1050,6 +1076,19 @@
             }, 
             {
                 "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
                 "description": "Tap Get Test Runs", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1082,6 +1121,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }, 
@@ -1124,6 +1176,19 @@
             }, 
             {
                 "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
                 "description": "Tap \"Get Test Results Case ID\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1156,6 +1221,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }, 
@@ -1198,6 +1276,19 @@
             }, 
             {
                 "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
                 "description": "Tap \"Get Crawls\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1235,6 +1326,19 @@
             }, 
             {
                 "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
                 "description": "Tap on \"Get Builds\"", 
                 "grep": "", 
                 "grep_count": null, 
@@ -1267,6 +1371,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }
@@ -1319,11 +1436,24 @@
             {
                 "continue_on_failure": false, 
                 "description": "Verify test run number that appears on screen.", 
-                "grep": "20210415171344", 
+                "grep": "20210415213337", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }
@@ -1385,6 +1515,19 @@
                 "labels": [], 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
             }
         ], 
         "tags": [
@@ -1442,6 +1585,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }
@@ -1503,6 +1659,19 @@
                 "labels": [], 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
             }
         ], 
         "tags": [
@@ -1560,6 +1729,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }
@@ -1621,6 +1803,19 @@
                 "labels": [], 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
             }
         ], 
         "tags": [
@@ -1678,6 +1873,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }
@@ -1739,6 +1947,19 @@
                 "labels": [], 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
+                "type": "verification", 
+                "widget": "default"
             }
         ], 
         "tags": [
@@ -1796,6 +2017,19 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify \"status ok 200\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_status_two_hundred"
+                ], 
                 "type": "verification", 
                 "widget": "default"
             }

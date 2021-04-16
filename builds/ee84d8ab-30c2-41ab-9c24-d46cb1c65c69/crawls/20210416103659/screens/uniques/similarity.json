@@ -1,0 +1,42 @@
+[
+    {
+        "file_name": "iter_00000_step_00007_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00007_screenshot.png", 
+        "score": 566
+    }, 
+    {
+        "file_name": "iter_00000_step_00006_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00006_screenshot.png", 
+        "score": 557
+    }, 
+    {
+        "file_name": "iter_00000_step_00005_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00005_screenshot.png", 
+        "score": 549
+    }, 
+    {
+        "file_name": "iter_00000_step_00004_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00004_screenshot.png", 
+        "score": 547
+    }, 
+    {
+        "file_name": "iter_00000_step_00003_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00003_screenshot.png", 
+        "score": 540
+    }, 
+    {
+        "file_name": "iter_00000_step_00002_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00002_screenshot.png", 
+        "score": 535
+    }, 
+    {
+        "file_name": "iter_00000_step_00001_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00001_screenshot.png", 
+        "score": 476
+    }, 
+    {
+        "file_name": "iter_00000_step_00000_screenshot.png", 
+        "path": "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/screens/iter_00000_step_00000_screenshot.png", 
+        "score": 31
+    }
+]

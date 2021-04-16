@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jdk+PhhIIjZIGLMdnUakZQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1057_Y527_W816_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-viewer__meta"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "response-viewer__meta", 
+            "domLevel": 30, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Status:200OKTime:82 msSize:176.02 KBSave Response", 
+            "type": "", 
+            "value": "", 
+            "width": 816, 
+            "x": 1057, 
+            "xPercent": 55.02685546875, 
+            "y": 527, 
+            "yPercent": 59.480812641083524
+        }, 
+        "location": {
+            "x": 1057, 
+            "y": 527
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 816
+        }, 
+        "tag_name": "div", 
+        "text": "Status:200OKTime:82 msSize:176.02 KBSave Response"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Status:200OKTime:82 msSize:176.02 KBSave Response", 
+    "transformed": true, 
+    "width": 816, 
+    "x": 1057, 
+    "y": 527
+}

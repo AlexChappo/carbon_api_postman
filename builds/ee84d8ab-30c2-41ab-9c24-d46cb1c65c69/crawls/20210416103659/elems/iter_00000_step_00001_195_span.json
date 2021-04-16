@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "YqRDHbbXkoVvY9Of5xQmfg==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X687_Y577_W32_H12", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "HTML", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 687, 
+            "xPercent": 35.80078125, 
+            "y": 577, 
+            "yPercent": 65.12415349887132
+        }, 
+        "location": {
+            "x": 687, 
+            "y": 577
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 32
+        }, 
+        "tag_name": "span", 
+        "text": "HTML"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "HTML", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 687, 
+    "y": 577
+}

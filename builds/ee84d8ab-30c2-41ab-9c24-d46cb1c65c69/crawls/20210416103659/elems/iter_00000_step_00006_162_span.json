@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pTNb3Usgh3xKYBMV7cnDYw==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y772_W857_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "\"iter_00000_step_00000_screenshot.png\",\u00a0\"failed\":\u00a0false,\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_basic_gestures\"],\u00a0\"elem\":\u00a0{\"y\":\u00a08,", 
+            "type": "", 
+            "value": "", 
+            "width": 857, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 772, 
+            "yPercent": 87.13318284424379
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 772
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 857
+        }, 
+        "tag_name": "span", 
+        "text": "\"iter_00000_step_00000_screenshot.png\",\u00a0\"failed\":\u00a0false,\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_basic_gestures\"],\u00a0\"elem\":\u00a0{\"y\":\u00a08,"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "\"iter_00000_step_00000_screenshot.png\",\u00a0\"failed\":\u00a0false,\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_basic_gestures\"],\u00a0\"elem\":\u00a0{\"y\":\u00a08,", 
+    "transformed": true, 
+    "width": 857, 
+    "x": 444, 
+    "y": 772
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "d69Voh8L/68sda4H4eU5KA==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y627_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:18px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "[\"verify_two_labels\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\\n______\\n______\\n________accept\",", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 627, 
+            "yPercent": 70.76749435665914
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 627
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "[\"verify_two_labels\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\\n______\\n______\\n________accept\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "[\"verify_two_labels\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\\n______\\n______\\n________accept\",", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 627
+}

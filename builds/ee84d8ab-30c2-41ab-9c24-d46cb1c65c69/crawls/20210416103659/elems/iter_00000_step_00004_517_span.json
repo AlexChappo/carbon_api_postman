@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZRUngQ3EYJj16sAyrnPk8w==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y664_W835_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "\"DESKTOP_CHROME\",\u00a0\"created_at\":\u00a0\"2021-04-13\u00a002:49:13.010906\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\",", 
+            "type": "", 
+            "value": "", 
+            "width": 835, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 664, 
+            "yPercent": 74.94356659142211
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 664
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 835
+        }, 
+        "tag_name": "span", 
+        "text": "\"DESKTOP_CHROME\",\u00a0\"created_at\":\u00a0\"2021-04-13\u00a002:49:13.010906\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "\"DESKTOP_CHROME\",\u00a0\"created_at\":\u00a0\"2021-04-13\u00a002:49:13.010906\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\",", 
+    "transformed": true, 
+    "width": 835, 
+    "x": 444, 
+    "y": 664
+}

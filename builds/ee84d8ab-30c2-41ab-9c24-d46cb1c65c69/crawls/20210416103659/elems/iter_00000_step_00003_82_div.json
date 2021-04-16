@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PeyRJH4y/OZewPe3Qk6sxA==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y753_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:144px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 753, 
+            "yPercent": 84.98871331828443
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 753
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 753
+}

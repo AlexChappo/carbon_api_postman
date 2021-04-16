@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "aORkHTyQOR/vJmmTTDTG0w==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y645_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:36px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"build\":\u00a0{\"md5_sum\":\u00a0\"d1f3e73dc0cf4227e022dbdbf3748523\",\u00a0\"created_at\":", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 645, 
+            "yPercent": 72.79909706546276
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 645
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"build\":\u00a0{\"md5_sum\":\u00a0\"d1f3e73dc0cf4227e022dbdbf3748523\",\u00a0\"created_at\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"build\":\u00a0{\"md5_sum\":\u00a0\"d1f3e73dc0cf4227e022dbdbf3748523\",\u00a0\"created_at\":", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 645
+}

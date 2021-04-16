@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "huav6J8TuBOsN0cEiWhzgQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X804_Y646_W360_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mtk1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "mtk1", 
+            "domLevel": 46, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00025_", 
+            "type": "", 
+            "value": "", 
+            "width": 360, 
+            "x": 804, 
+            "xPercent": 41.875813802083336, 
+            "y": 646, 
+            "yPercent": 72.91196388261851
+        }, 
+        "location": {
+            "x": 804, 
+            "y": 646
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 360
+        }, 
+        "tag_name": "span", 
+        "text": "_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00025_"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "_verify_two_labels\":\u00a01.0},\u00a0\"iter_00000_step_00025_", 
+    "transformed": true, 
+    "width": 360, 
+    "x": 804, 
+    "y": 646
+}

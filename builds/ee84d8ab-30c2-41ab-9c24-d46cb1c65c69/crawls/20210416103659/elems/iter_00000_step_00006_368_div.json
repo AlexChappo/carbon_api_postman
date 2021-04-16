@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QPNJZsMfq+CZ5pQ0LCSxiw==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X919_Y61_W108_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab__name", 
+                "title": "Labels"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-tab__name", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Labels", 
+            "type": "", 
+            "value": "", 
+            "width": 108, 
+            "x": 919, 
+            "xPercent": 47.85563151041667, 
+            "y": 61, 
+            "yPercent": 6.8284424379232505
+        }, 
+        "location": {
+            "x": 919, 
+            "y": 61
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 108
+        }, 
+        "tag_name": "div", 
+        "text": "Labels"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Labels", 
+    "transformed": true, 
+    "width": 108, 
+    "x": 919, 
+    "y": 61
+}

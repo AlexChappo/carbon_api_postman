@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/unLSi3IXQQF8Y1oelfavw==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y771_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:162px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "\"dupe_count\":\u00a0[2],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00015_screenshot.png\",\u00a0\"iter_00000_step_00014_screenshot.png\"],\u00a0\"tags\":", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 771, 
+            "yPercent": 87.02031602708804
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 771
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "\"dupe_count\":\u00a0[2],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00015_screenshot.png\",\u00a0\"iter_00000_step_00014_screenshot.png\"],\u00a0\"tags\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "\"dupe_count\":\u00a0[2],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00015_screenshot.png\",\u00a0\"iter_00000_step_00014_screenshot.png\"],\u00a0\"tags\":", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 771
+}

@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CMX3pnhSlQc/8HtHfF7VsQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y754_W698_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},", 
+            "type": "", 
+            "value": "", 
+            "width": 698, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 754, 
+            "yPercent": 85.10158013544017
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 754
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 698
+        }, 
+        "tag_name": "span", 
+        "text": "{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "{\"btn_verify_string_not_present\":\u00a01.0},\u00a0\"iter_00000_step_00044_1_button.png\":\u00a0{\"icn_close\":\u00a01.0},", 
+    "transformed": true, 
+    "width": 698, 
+    "x": 444, 
+    "y": 754
+}

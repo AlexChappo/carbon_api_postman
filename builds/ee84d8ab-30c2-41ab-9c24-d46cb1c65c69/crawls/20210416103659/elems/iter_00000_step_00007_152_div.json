@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5s77CDX47Nzicl3SBmoNiA==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X125_Y386_W28_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collection-sidebar-list-item__request__label-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "collection-sidebar-list-item__request__label-wrapper", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GET", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 125, 
+            "xPercent": 6.510416666666667, 
+            "y": 386, 
+            "yPercent": 43.566591422121896
+        }, 
+        "location": {
+            "x": 125, 
+            "y": 386
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 28
+        }, 
+        "tag_name": "div", 
+        "text": "GET"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GET", 
+    "transformed": true, 
+    "width": 28, 
+    "x": 125, 
+    "y": 386
+}

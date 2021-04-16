@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "JNNKNGM4itMJjopHaGgOxg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X816_Y8_W288_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pm-search-box-container", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pm-search-box-container", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Search Postman", 
+            "type": "", 
+            "value": "", 
+            "width": 288, 
+            "x": 816, 
+            "xPercent": 42.5, 
+            "y": 8, 
+            "yPercent": 0.9029345372460496
+        }, 
+        "location": {
+            "x": 816, 
+            "y": 8
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 288
+        }, 
+        "tag_name": "div", 
+        "text": "Search Postman"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Search Postman", 
+    "transformed": true, 
+    "width": 288, 
+    "x": 816, 
+    "y": 8
+}

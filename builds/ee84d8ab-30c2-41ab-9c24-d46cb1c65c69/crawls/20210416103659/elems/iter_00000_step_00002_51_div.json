@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VF5lIf5Jn4saXEa50sYqlA==\n", 
+    "height": 99, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y224_W1492_H99", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "request-urlparams-editor__group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "request-urlparams-editor__group", 
+            "domLevel": 34, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 99, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Query ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescription", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 224, 
+            "yPercent": 25.28216704288939
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 224
+        }, 
+        "size": {
+            "height": 99, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "Query ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescription"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Query ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescription", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 224
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6B/vnWwuqE1Qm3AWGXlMsA==\n", 
+    "height": 67, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y256_W1492_H67", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "key-value-editor", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "key-value-editor", 
+            "domLevel": 36, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 67, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "KEYVALUEDESCRIPTION Bulk EditKeyValueDescription", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 256, 
+            "yPercent": 28.893905191873586
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 256
+        }, 
+        "size": {
+            "height": 67, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "KEYVALUEDESCRIPTION Bulk EditKeyValueDescription"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "KEYVALUEDESCRIPTION Bulk EditKeyValueDescription", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 256
+}

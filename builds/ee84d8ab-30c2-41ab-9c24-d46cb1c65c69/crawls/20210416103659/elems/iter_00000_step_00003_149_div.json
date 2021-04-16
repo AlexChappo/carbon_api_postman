@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "fO7uG9xiwMDpl64YjReM1A==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X1764_Y144_W68_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(9, 123, 237)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "btn", 
+            "domLevel": 31, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Send", 
+            "type": "", 
+            "value": "", 
+            "width": 68, 
+            "x": 1764, 
+            "xPercent": 91.875, 
+            "y": 144, 
+            "yPercent": 16.252821670428894
+        }, 
+        "location": {
+            "x": 1764, 
+            "y": 144
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 68
+        }, 
+        "tag_name": "div", 
+        "text": "Send"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Send", 
+    "transformed": true, 
+    "width": 68, 
+    "x": 1764, 
+    "y": 144
+}

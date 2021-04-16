@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ro6kYw3+yBJn+J6fMkWe5g==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y754_W662_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "\"created_at\":\u00a0\"2021-04-12T21:46:44\",\u00a0\"note\":\u00a0\"\",\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":", 
+            "type": "", 
+            "value": "", 
+            "width": 662, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 754, 
+            "yPercent": 85.10158013544017
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 754
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 662
+        }, 
+        "tag_name": "span", 
+        "text": "\"created_at\":\u00a0\"2021-04-12T21:46:44\",\u00a0\"note\":\u00a0\"\",\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "\"created_at\":\u00a0\"2021-04-12T21:46:44\",\u00a0\"note\":\u00a0\"\",\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":", 
+    "transformed": true, 
+    "width": 662, 
+    "x": 444, 
+    "y": 754
+}

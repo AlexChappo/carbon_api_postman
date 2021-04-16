@@ -187,7 +187,7 @@
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210329092700/elems/iter_00000_step_00001_2_div.png"
     ], 
     "div_app_id": [
-        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/elems/iter_00000_step_00006_204_div.png"
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00007_204_div.png"
     ], 
     "div_btn_clicked": [
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210331155341/elems/iter_00000_step_00003_56_div.png"
@@ -205,13 +205,22 @@
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00007_375_div.png"
     ], 
     "div_get_requests": [
-        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/elems/iter_00000_step_00004_130_div.png"
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00005_131_div.png"
     ], 
     "div_labeler_objects": [
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00007_368_div.png"
     ], 
     "div_labels": [
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00007_232_div.png"
+    ], 
+    "div_status_two_hundred": [
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/elems/iter_00000_step_00007_423_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/elems/iter_00000_step_00003_40_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/elems/iter_00000_step_00001_447_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/elems/iter_00000_step_00005_518_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/elems/iter_00000_step_00004_323_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/elems/iter_00000_step_00002_21_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210416103659/elems/iter_00000_step_00006_353_div.png"
     ], 
     "div_test_results_case_id": [
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00007_228_div.png"
@@ -275,14 +284,14 @@
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210329185904/elems/iter_00000_step_00011_39_input.png", 
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210329092700/elems/iter_00000_step_00001_4_input.png", 
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210326005538/elems/iter_00000_step_00005_11_input.png", 
-        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/elems/iter_00000_step_00000_4_input.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00000_4_input.png", 
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210325235334/elems/iter_00000_step_00002_3_input.png"
     ], 
     "inp_name": [
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210325235334/elems/iter_00000_step_00001_26_input.png"
     ], 
     "inp_password": [
-        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210412224928/elems/iter_00000_step_00000_17_input.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00000_17_input.png", 
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210331083208/elems/iter_00000_step_00016_6_input.png", 
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210401201921/elems/iter_00000_step_00001_6_input.png", 
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210325235334/elems/iter_00000_step_00002_5_input.png", 

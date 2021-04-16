@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "OqMdSYqOuip7xr52zaoQAA==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X526_Y574_W45_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab-text-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "tab-text-wrapper", 
+            "domLevel": 42, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Preview", 
+            "type": "", 
+            "value": "", 
+            "width": 45, 
+            "x": 526, 
+            "xPercent": 27.420247395833336, 
+            "y": 574, 
+            "yPercent": 64.78555304740406
+        }, 
+        "location": {
+            "x": 526, 
+            "y": 574
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 45
+        }, 
+        "tag_name": "div", 
+        "text": "Preview"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Preview", 
+    "transformed": true, 
+    "width": 45, 
+    "x": 526, 
+    "y": 574
+}

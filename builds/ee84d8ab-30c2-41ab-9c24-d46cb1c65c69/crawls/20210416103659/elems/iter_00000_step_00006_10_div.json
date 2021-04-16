@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "R+q9qd1pCYDhWP1Fe3jqtQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X1658_Y533_W73_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-meta-item is-tooltip-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "response-meta-item is-tooltip-container", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Size:11.39 KB", 
+            "type": "", 
+            "value": "", 
+            "width": 73, 
+            "x": 1658, 
+            "xPercent": 86.35172526041667, 
+            "y": 533, 
+            "yPercent": 60.15801354401806
+        }, 
+        "location": {
+            "x": 1658, 
+            "y": 533
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 73
+        }, 
+        "tag_name": "div", 
+        "text": "Size:11.39 KB"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Size:11.39 KB", 
+    "transformed": true, 
+    "width": 73, 
+    "x": 1658, 
+    "y": 533
+}

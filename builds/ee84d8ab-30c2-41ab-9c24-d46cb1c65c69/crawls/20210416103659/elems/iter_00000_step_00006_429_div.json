@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LGlwkSCZ3rwtmtLKfcdocw==\n", 
+    "height": 774, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y88_W1492_H774", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pane-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pane-content", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 774, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get RequestsTest Results Case IDSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_results/20210412214521:Basic Gestures - Individual Scripts - f4b35a1d-ea41-4d09-bfb3-c17e897e55bfSendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescriptionBodyCookiesHeaders(5)Test ResultsStatus:200OKTime:161 msSize:11.39 KBSave ResponsePrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"test_run\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\"Bot\",\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"is_admin\":\u00a0true,\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"build\":\u00a0{\"md5_sum\":\u00a0\"d1f3e73dc0cf4227e022dbdbf3748523\",\u00a0\"created_at\":\"2021-03-26\u00a005:53:24.694881\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\",\u00a0\"platform\":\u00a0\"DESKTOP_CHROME\",\"original_file_name\":\u00a0\"missing!!\",\u00a0\"uploaded_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\u00a0\"Bot\",\u00a0\"email\":\"publicbot@appdiff.com\",\u00a0\"is_admin\":\u00a0true,\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"verified_email\":\u00a0true},\u00a0\"id\":\"34aaaeb4-52c5-4fe3-b687-5a99e729419d\"},\u00a0\"num_tests_pass\":\u00a015,\u00a0\"is_public\":\u00a0false,\u00a0\"id\":\u00a0\"20210412214521\",\u00a0\"num_tests\":16},\u00a0\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts\u00a0-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf\",\"created_at\":\u00a0\"2021-04-12T21:46:44\",\u00a0\"note\":\u00a0\"\",\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":\"iter_00000_step_00000_screenshot.png\",\u00a0\"failed\":\u00a0false,\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_basic_gestures\"],\u00a0\"elem\":\u00a0{\"y\":\u00a08,\"x\":\u00a0481,\u00a0\"width\":\u00a0125,\u00a0\"bounds\":\u00a0\"[481,8][606,48]\",\u00a0\"height\":\u00a040},\u00a0\"url\":\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf/iter_00000_step_00000_screenshot.png\",\u00a0\"timing\":\u00a02.222790002822876,\u00a0\"net\":\u00a00.0,\"cpu\":\u00a00.0,\u00a0\"gesture\":\u00a0\"tap\"},\u00a0{\"description\":\u00a0\"Tap\u00a0and\u00a0Verify\",\u00a0\"screenshot\":\u00a0\"iter_00000_step_00001_screenshot.png\",", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 88, 
+            "yPercent": 9.932279909706546
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 774, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "Get RequestsTest Results Case IDSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_results/20210412214521:Basic Gestures - Individual Scripts - f4b35a1d-ea41-4d09-bfb3-c17e897e55bfSendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescriptionBodyCookiesHeaders(5)Test ResultsStatus:200OKTime:161 msSize:11.39 KBSave ResponsePrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"test_run\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\"Bot\",\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"is_admin\":\u00a0true,\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"build\":\u00a0{\"md5_sum\":\u00a0\"d1f3e73dc0cf4227e022dbdbf3748523\",\u00a0\"created_at\":\"2021-03-26\u00a005:53:24.694881\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\",\u00a0\"platform\":\u00a0\"DESKTOP_CHROME\",\"original_file_name\":\u00a0\"missing!!\",\u00a0\"uploaded_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\u00a0\"Bot\",\u00a0\"email\":\"publicbot@appdiff.com\",\u00a0\"is_admin\":\u00a0true,\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"verified_email\":\u00a0true},\u00a0\"id\":\"34aaaeb4-52c5-4fe3-b687-5a99e729419d\"},\u00a0\"num_tests_pass\":\u00a015,\u00a0\"is_public\":\u00a0false,\u00a0\"id\":\u00a0\"20210412214521\",\u00a0\"num_tests\":16},\u00a0\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts\u00a0-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf\",\"created_at\":\u00a0\"2021-04-12T21:46:44\",\u00a0\"note\":\u00a0\"\",\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":\"iter_00000_step_00000_screenshot.png\",\u00a0\"failed\":\u00a0false,\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_basic_gestures\"],\u00a0\"elem\":\u00a0{\"y\":\u00a08,\"x\":\u00a0481,\u00a0\"width\":\u00a0125,\u00a0\"bounds\":\u00a0\"[481,8][606,48]\",\u00a0\"height\":\u00a040},\u00a0\"url\":\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf/iter_00000_step_00000_screenshot.png\",\u00a0\"timing\":\u00a02.222790002822876,\u00a0\"net\":\u00a00.0,\"cpu\":\u00a00.0,\u00a0\"gesture\":\u00a0\"tap\"},\u00a0{\"description\":\u00a0\"Tap\u00a0and\u00a0Verify\",\u00a0\"screenshot\":\u00a0\"iter_00000_step_00001_screenshot.png\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get RequestsTest Results Case IDSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_results/20210412214521:Basic Gestures - Individual Scripts - f4b35a1d-ea41-4d09-bfb3-c17e897e55bfSendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescriptionBodyCookiesHeaders(5)Test ResultsStatus:200OKTime:161 msSize:11.39 KBSave ResponsePrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"test_run\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\"Bot\",\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"is_admin\":\u00a0true,\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"build\":\u00a0{\"md5_sum\":\u00a0\"d1f3e73dc0cf4227e022dbdbf3748523\",\u00a0\"created_at\":\"2021-03-26\u00a005:53:24.694881\",\u00a0\"real_app_id\":\u00a0\"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\",\u00a0\"platform\":\u00a0\"DESKTOP_CHROME\",\"original_file_name\":\u00a0\"missing!!\",\u00a0\"uploaded_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\u00a0\"Bot\",\u00a0\"email\":\"publicbot@appdiff.com\",\u00a0\"is_admin\":\u00a0true,\u00a0\"id\":\u00a0\"u0000001\",\u00a0\"verified_email\":\u00a0true},\u00a0\"id\":\"34aaaeb4-52c5-4fe3-b687-5a99e729419d\"},\u00a0\"num_tests_pass\":\u00a015,\u00a0\"is_public\":\u00a0false,\u00a0\"id\":\u00a0\"20210412214521\",\u00a0\"num_tests\":16},\u00a0\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts\u00a0-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf\",\"created_at\":\u00a0\"2021-04-12T21:46:44\",\u00a0\"note\":\u00a0\"\",\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":\"iter_00000_step_00000_screenshot.png\",\u00a0\"failed\":\u00a0false,\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_basic_gestures\"],\u00a0\"elem\":\u00a0{\"y\":\u00a08,\"x\":\u00a0481,\u00a0\"width\":\u00a0125,\u00a0\"bounds\":\u00a0\"[481,8][606,48]\",\u00a0\"height\":\u00a040},\u00a0\"url\":\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf/iter_00000_step_00000_screenshot.png\",\u00a0\"timing\":\u00a02.222790002822876,\u00a0\"net\":\u00a00.0,\"cpu\":\u00a00.0,\u00a0\"gesture\":\u00a0\"tap\"},\u00a0{\"description\":\u00a0\"Tap\u00a0and\u00a0Verify\",\u00a0\"screenshot\":\u00a0\"iter_00000_step_00001_screenshot.png\",", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 88
+}

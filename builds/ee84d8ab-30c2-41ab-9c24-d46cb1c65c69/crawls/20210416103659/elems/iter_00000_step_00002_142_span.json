@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7+mcOMiptHh/ZlA+Budvsw==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y790_W792_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00028_screenshot.png\":\u00a0{\"text\":\u00a0[\"verified\",\u00a0\"ok\",", 
+            "type": "", 
+            "value": "", 
+            "width": 792, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 790, 
+            "yPercent": 89.1647855530474
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 790
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 792
+        }, 
+        "tag_name": "span", 
+        "text": "[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00028_screenshot.png\":\u00a0{\"text\":\u00a0[\"verified\",\u00a0\"ok\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00028_screenshot.png\":\u00a0{\"text\":\u00a0[\"verified\",\u00a0\"ok\",", 
+    "transformed": true, 
+    "width": 792, 
+    "x": 444, 
+    "y": 790
+}

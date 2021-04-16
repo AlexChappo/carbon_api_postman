@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "FwVV2i602jCCMYbMc06UEQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y718_W360_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mtk1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "mtk1", 
+            "domLevel": 46, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "\"label_count\":\u00a0null,\u00a0\"grep_count\":\u00a0null,\u00a0\"script_n", 
+            "type": "", 
+            "value": "", 
+            "width": 360, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 718, 
+            "yPercent": 81.03837471783297
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 718
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 360
+        }, 
+        "tag_name": "span", 
+        "text": "\"label_count\":\u00a0null,\u00a0\"grep_count\":\u00a0null,\u00a0\"script_n"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "\"label_count\":\u00a0null,\u00a0\"grep_count\":\u00a0null,\u00a0\"script_n", 
+    "transformed": true, 
+    "width": 360, 
+    "x": 444, 
+    "y": 718
+}

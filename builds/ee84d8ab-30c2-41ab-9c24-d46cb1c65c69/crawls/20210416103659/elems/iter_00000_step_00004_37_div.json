@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "p64S6vR8wtnm/x4oEh8XQQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X23_Y420_W34_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-left-sidebar__header-tab-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-left-sidebar__header-tab-title", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "History", 
+            "type": "", 
+            "value": "", 
+            "width": 34, 
+            "x": 23, 
+            "xPercent": 1.1971028645833333, 
+            "y": 420, 
+            "yPercent": 47.40406320541761
+        }, 
+        "location": {
+            "x": 23, 
+            "y": 420
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 34
+        }, 
+        "tag_name": "div", 
+        "text": "History"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "History", 
+    "transformed": true, 
+    "width": 34, 
+    "x": 23, 
+    "y": 420
+}

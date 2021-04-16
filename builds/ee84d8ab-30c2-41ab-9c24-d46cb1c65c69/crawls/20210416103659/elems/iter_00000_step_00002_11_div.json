@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2JycHoNXNEGfz7JWYJBy4w==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "div_X388_Y567_W281_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tabs tabs-secondary"
+            }, 
+            "background-color": "rgb(242, 242, 242)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "tabs tabs-secondary", 
+            "domLevel": 40, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "PrettyRawPreviewVisualize", 
+            "type": "", 
+            "value": "", 
+            "width": 281, 
+            "x": 388, 
+            "xPercent": 20.208333333333332, 
+            "y": 567, 
+            "yPercent": 63.99548532731377
+        }, 
+        "location": {
+            "x": 388, 
+            "y": 567
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 281
+        }, 
+        "tag_name": "div", 
+        "text": "PrettyRawPreviewVisualize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "PrettyRawPreviewVisualize", 
+    "transformed": true, 
+    "width": 281, 
+    "x": 388, 
+    "y": 567
+}

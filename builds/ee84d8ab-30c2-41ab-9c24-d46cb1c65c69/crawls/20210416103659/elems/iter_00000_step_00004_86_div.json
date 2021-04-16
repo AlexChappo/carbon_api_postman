@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mKNOYeSI6744gIeXjwK0iw==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y753_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:144px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "\"u0000001\",\u00a0\"is_admin\":\u00a0true,\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 753, 
+            "yPercent": 84.98871331828443
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 753
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "\"u0000001\",\u00a0\"is_admin\":\u00a0true,\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "\"u0000001\",\u00a0\"is_admin\":\u00a0true,\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 753
+}

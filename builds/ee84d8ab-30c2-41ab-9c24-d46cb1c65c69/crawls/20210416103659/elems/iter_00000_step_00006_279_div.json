@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6ucLW1Wp+tK91hAL+2Ju6Q==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y609_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:0px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "{\"data\":\u00a0{\"test_run\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 609, 
+            "yPercent": 68.73589164785552
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 609
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "{\"data\":\u00a0{\"test_run\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "{\"data\":\u00a0{\"test_run\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 609
+}

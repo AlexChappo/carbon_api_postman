@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jj9A1Qxt/DBgJQDrSK9eCg==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y808_W713_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},", 
+            "type": "", 
+            "value": "", 
+            "width": 713, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 808, 
+            "yPercent": 91.19638826185101
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 808
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 713
+        }, 
+        "tag_name": "span", 
+        "text": "{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},", 
+    "transformed": true, 
+    "width": 713, 
+    "x": 444, 
+    "y": 808
+}

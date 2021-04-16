@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "m0crM1CT/UKyEY1Qy7X6zg==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y807_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:198px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 807, 
+            "yPercent": 91.08352144469526
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 807
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "{\"lnk_tap_param\":\u00a01.0},\u00a0\"iter_00000_step_00045_18_a.png\":\u00a0{\"mnu_profile\":\u00a01.0,\u00a0\"lnk_profile\":\u00a01.0},", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 807
+}

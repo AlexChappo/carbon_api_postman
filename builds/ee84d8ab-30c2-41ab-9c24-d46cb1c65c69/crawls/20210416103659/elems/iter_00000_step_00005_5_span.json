@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Sjir+w40ak5F2r8bAR7eXw==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y790_W835_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "e6387a88-fbb1-4a03-b93a-8ff097f15daa/iter_00015_step_00000_screenshot.png\",\u00a0\"elem\":\u00a0{\"y\":\u00a08,\u00a0\"x\":\u00a0822,\u00a0\"height\":\u00a040,", 
+            "type": "", 
+            "value": "", 
+            "width": 835, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 790, 
+            "yPercent": 89.1647855530474
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 790
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 835
+        }, 
+        "tag_name": "span", 
+        "text": "e6387a88-fbb1-4a03-b93a-8ff097f15daa/iter_00015_step_00000_screenshot.png\",\u00a0\"elem\":\u00a0{\"y\":\u00a08,\u00a0\"x\":\u00a0822,\u00a0\"height\":\u00a040,"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "e6387a88-fbb1-4a03-b93a-8ff097f15daa/iter_00015_step_00000_screenshot.png\",\u00a0\"elem\":\u00a0{\"y\":\u00a08,\u00a0\"x\":\u00a0822,\u00a0\"height\":\u00a040,", 
+    "transformed": true, 
+    "width": 835, 
+    "x": 444, 
+    "y": 790
+}

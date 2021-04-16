@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Cr/CWeiUWwAKgh5eihF9aw==\n", 
+    "height": 774, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y88_W1492_H774", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pane-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pane-content", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 774, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get RequestsLabeler ObjectsSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/crawls/20210331235227/labeler_objectsSendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescriptionBodyCookiesHeaders(5)Test ResultsStatus:200OKTime:82 msSize:176.02 KBSave ResponsePrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"screens\":\u00a0{\"screens_to_infos\":\u00a0{\"iter_00000_step_00019_screenshot.png\":\u00a0{\"text\":[\"verify_two_labels\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\\n______\\n______\\n________accept\",\"verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\",\u00a0\"\\u00d7\",\u00a0\"accept\",\"verify_two_labels\\n________\\n__________\\u00d7\"],\u00a0\"dupe_count\":\u00a0[4],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00019_screenshot.png\",\"iter_00000_step_00018_screenshot.png\",\u00a0\"iter_00000_step_00024_screenshot.png\",\u00a0\"iter_00000_step_00025_screenshot.png\"],\"tags\":\u00a0[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00015_screenshot.png\":\u00a0{\"text\":[\"verify_a_label\\n________\\n__________\\u00d7\",\u00a0\"\\u00d7\",\u00a0\"accept\",\"please_accept_that_the_accept_button_is_labeled_by_selecting_accept.\",\"verify_a_label\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________please_accept_that_the_accept_button_is_labeled_by_selecting_accept.\\n______\\n______\\n________accept\"],\"dupe_count\":\u00a0[2],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00015_screenshot.png\",\u00a0\"iter_00000_step_00014_screenshot.png\"],\u00a0\"tags\":[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00028_screenshot.png\":\u00a0{\"text\":\u00a0[\"verified\",\u00a0\"ok\",\"verify_that_the_accept_button_and_the_ok_button_appear_on_the_screen\",\u00a0\"accept\",\"verify_two_labeled_elements\\n________\\n__________\\u00d7\",\"verify_two_labeled_elements\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_the_accept_button_and_the_ok_button_appear_on_the_screen\\n______\\n______\\n________verified", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 88, 
+            "yPercent": 9.932279909706546
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 774, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "Get RequestsLabeler ObjectsSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/crawls/20210331235227/labeler_objectsSendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescriptionBodyCookiesHeaders(5)Test ResultsStatus:200OKTime:82 msSize:176.02 KBSave ResponsePrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"screens\":\u00a0{\"screens_to_infos\":\u00a0{\"iter_00000_step_00019_screenshot.png\":\u00a0{\"text\":[\"verify_two_labels\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\\n______\\n______\\n________accept\",\"verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\",\u00a0\"\\u00d7\",\u00a0\"accept\",\"verify_two_labels\\n________\\n__________\\u00d7\"],\u00a0\"dupe_count\":\u00a0[4],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00019_screenshot.png\",\"iter_00000_step_00018_screenshot.png\",\u00a0\"iter_00000_step_00024_screenshot.png\",\u00a0\"iter_00000_step_00025_screenshot.png\"],\"tags\":\u00a0[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00015_screenshot.png\":\u00a0{\"text\":[\"verify_a_label\\n________\\n__________\\u00d7\",\u00a0\"\\u00d7\",\u00a0\"accept\",\"please_accept_that_the_accept_button_is_labeled_by_selecting_accept.\",\"verify_a_label\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________please_accept_that_the_accept_button_is_labeled_by_selecting_accept.\\n______\\n______\\n________accept\"],\"dupe_count\":\u00a0[2],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00015_screenshot.png\",\u00a0\"iter_00000_step_00014_screenshot.png\"],\u00a0\"tags\":[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00028_screenshot.png\":\u00a0{\"text\":\u00a0[\"verified\",\u00a0\"ok\",\"verify_that_the_accept_button_and_the_ok_button_appear_on_the_screen\",\u00a0\"accept\",\"verify_two_labeled_elements\\n________\\n__________\\u00d7\",\"verify_two_labeled_elements\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_the_accept_button_and_the_ok_button_appear_on_the_screen\\n______\\n______\\n________verified"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get RequestsLabeler ObjectsSavehttp://localhost:5000/api/v1/c/testai/apps/web/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/crawls/20210331235227/labeler_objectsSendParamsAuthorizationHeaders(7)BodyPre-request ScriptTestsSettingsCookiesQuery ParamsKEYVALUEDESCRIPTION Bulk EditKeyValueDescriptionBodyCookiesHeaders(5)Test ResultsStatus:200OKTime:82 msSize:176.02 KBSave ResponsePrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"screens\":\u00a0{\"screens_to_infos\":\u00a0{\"iter_00000_step_00019_screenshot.png\":\u00a0{\"text\":[\"verify_two_labels\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\\n______\\n______\\n________accept\",\"verify_that_accept_button_is_labeled_as:_[btn_accept_&_btn_modal_button]\",\u00a0\"\\u00d7\",\u00a0\"accept\",\"verify_two_labels\\n________\\n__________\\u00d7\"],\u00a0\"dupe_count\":\u00a0[4],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00019_screenshot.png\",\"iter_00000_step_00018_screenshot.png\",\u00a0\"iter_00000_step_00024_screenshot.png\",\u00a0\"iter_00000_step_00025_screenshot.png\"],\"tags\":\u00a0[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00015_screenshot.png\":\u00a0{\"text\":[\"verify_a_label\\n________\\n__________\\u00d7\",\u00a0\"\\u00d7\",\u00a0\"accept\",\"please_accept_that_the_accept_button_is_labeled_by_selecting_accept.\",\"verify_a_label\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________please_accept_that_the_accept_button_is_labeled_by_selecting_accept.\\n______\\n______\\n________accept\"],\"dupe_count\":\u00a0[2],\u00a0\"dupes\":\u00a0[\"iter_00000_step_00015_screenshot.png\",\u00a0\"iter_00000_step_00014_screenshot.png\"],\u00a0\"tags\":[\"all_screens\",\u00a0\"div\",\u00a0\"span\",\u00a0\"button\"]},\u00a0\"iter_00000_step_00028_screenshot.png\":\u00a0{\"text\":\u00a0[\"verified\",\u00a0\"ok\",\"verify_that_the_accept_button_and_the_ok_button_appear_on_the_screen\",\u00a0\"accept\",\"verify_two_labeled_elements\\n________\\n__________\\u00d7\",\"verify_two_labeled_elements\\n________\\n__________\\u00d7\\n________\\n______\\n______\\n________verify_that_the_accept_button_and_the_ok_button_appear_on_the_screen\\n______\\n______\\n________verified", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 88
+}

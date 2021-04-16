@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "hQIQ4dnnjRyukcmzKYl5xA==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X1482_Y533_W80_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-meta-item is-tooltip-container response-meta-item__status"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "response-meta-item is-tooltip-container response-meta-item__status", 
+            "domLevel": 32, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Status:200OK", 
+            "type": "", 
+            "value": "", 
+            "width": 80, 
+            "x": 1482, 
+            "xPercent": 77.18994140625, 
+            "y": 533, 
+            "yPercent": 60.15801354401806
+        }, 
+        "location": {
+            "x": 1482, 
+            "y": 533
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 80
+        }, 
+        "tag_name": "div", 
+        "text": "Status:200OK"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Status:200OK", 
+    "transformed": true, 
+    "width": 80, 
+    "x": 1482, 
+    "y": 533
+}

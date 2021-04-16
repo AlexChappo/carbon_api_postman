@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "OkRioY8zku8uqKFm/leabw==\n", 
+    "height": 303, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y559_W1492_H303", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "response-viewer__tab-contents"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "response-viewer__tab-contents", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 303, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "PrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\u00a0\"Bot\",\u00a0\"id\":\"u0000001\",\u00a0\"is_admin\":\u00a0true,\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"results\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Wait\u00a0-e6387a88-fbb1-4a03-b93a-8ff097f15daa\",\u00a0\"created_at\":\u00a0\"2021-04-12T21:59:58\",\u00a0\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",\"failures\":\u00a0{\"5\":\u00a0{\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",\u00a0\"step\":\u00a0{\"widget\":\u00a0\"default\",\u00a0\"grep\":\u00a0null,\"description\":\u00a0\"Script\u00a0Step\",\u00a0\"continue_on_failure\":\u00a0false,\u00a0\"labels\":\u00a0[\"btn_wait_for_tmp\"],\u00a0\"is_imported\":\u00a0false,\"label_count\":\u00a0null,\u00a0\"grep_count\":\u00a0null,\u00a0\"script_name\":\u00a0\"wait_for_template_match.py\",\u00a0\"input\":\u00a0\"tap\",\u00a0\"type\":\u00a0\"action\"},\"label\":\u00a0\"btn_wait_for_tmp\"}},\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00000_screenshot.png\",\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_wait\"],\u00a0\"timing\":\u00a01.980132818222046,\u00a0\"url\":\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Wait\u00a0-e6387a88-fbb1-4a03-b93a-8ff097f15daa/iter_00015_step_00000_screenshot.png\",\u00a0\"elem\":\u00a0{\"y\":\u00a08,\u00a0\"x\":\u00a0822,\u00a0\"height\":\u00a040,\"bounds\":\u00a0\"[822,8][870,48]\",\u00a0\"width\":\u00a048},\u00a0\"failed\":\u00a0false,\u00a0\"net\":\u00a00.0,\u00a0\"cpu\":\u00a00.0,\u00a0\"gesture\":\u00a0\"tap\"},\u00a0{\"description\":\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00001_screenshot.png\",\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[],\u00a0\"script_name\":\u00a0\"wait_for_label.py\",\"timing\":\u00a01.4863688945770264,\u00a0\"url\":", 
+            "type": "", 
+            "value": "", 
+            "width": 1492, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 559, 
+            "yPercent": 63.092550790067726
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 559
+        }, 
+        "size": {
+            "height": 303, 
+            "width": 1492
+        }, 
+        "tag_name": "div", 
+        "text": "PrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\u00a0\"Bot\",\u00a0\"id\":\"u0000001\",\u00a0\"is_admin\":\u00a0true,\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"results\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Wait\u00a0-e6387a88-fbb1-4a03-b93a-8ff097f15daa\",\u00a0\"created_at\":\u00a0\"2021-04-12T21:59:58\",\u00a0\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",\"failures\":\u00a0{\"5\":\u00a0{\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",\u00a0\"step\":\u00a0{\"widget\":\u00a0\"default\",\u00a0\"grep\":\u00a0null,\"description\":\u00a0\"Script\u00a0Step\",\u00a0\"continue_on_failure\":\u00a0false,\u00a0\"labels\":\u00a0[\"btn_wait_for_tmp\"],\u00a0\"is_imported\":\u00a0false,\"label_count\":\u00a0null,\u00a0\"grep_count\":\u00a0null,\u00a0\"script_name\":\u00a0\"wait_for_template_match.py\",\u00a0\"input\":\u00a0\"tap\",\u00a0\"type\":\u00a0\"action\"},\"label\":\u00a0\"btn_wait_for_tmp\"}},\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00000_screenshot.png\",\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_wait\"],\u00a0\"timing\":\u00a01.980132818222046,\u00a0\"url\":\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Wait\u00a0-e6387a88-fbb1-4a03-b93a-8ff097f15daa/iter_00015_step_00000_screenshot.png\",\u00a0\"elem\":\u00a0{\"y\":\u00a08,\u00a0\"x\":\u00a0822,\u00a0\"height\":\u00a040,\"bounds\":\u00a0\"[822,8][870,48]\",\u00a0\"width\":\u00a048},\u00a0\"failed\":\u00a0false,\u00a0\"net\":\u00a00.0,\u00a0\"cpu\":\u00a00.0,\u00a0\"gesture\":\u00a0\"tap\"},\u00a0{\"description\":\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00001_screenshot.png\",\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[],\u00a0\"script_name\":\u00a0\"wait_for_label.py\",\"timing\":\u00a01.4863688945770264,\u00a0\"url\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "PrettyRawPreviewVisualizeHTML1234567891011121314{\"data\":\u00a0{\"status\":\u00a0\"completed\",\u00a0\"num_tests_fail\":\u00a01,\u00a0\"initiated_by\":\u00a0{\"first_name\":\u00a0\"Public\",\u00a0\"last_name\":\u00a0\"Bot\",\u00a0\"id\":\"u0000001\",\u00a0\"is_admin\":\u00a0true,\u00a0\"email\":\u00a0\"publicbot@appdiff.com\",\u00a0\"verified_email\":\u00a0true},\u00a0\"created_at\":\"2021-04-12T21:45:21\",\u00a0\"num_tests_warn\":\u00a00,\u00a0\"results\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Wait\u00a0-e6387a88-fbb1-4a03-b93a-8ff097f15daa\",\u00a0\"created_at\":\u00a0\"2021-04-12T21:59:58\",\u00a0\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",\"failures\":\u00a0{\"5\":\u00a0{\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",\u00a0\"step\":\u00a0{\"widget\":\u00a0\"default\",\u00a0\"grep\":\u00a0null,\"description\":\u00a0\"Script\u00a0Step\",\u00a0\"continue_on_failure\":\u00a0false,\u00a0\"labels\":\u00a0[\"btn_wait_for_tmp\"],\u00a0\"is_imported\":\u00a0false,\"label_count\":\u00a0null,\u00a0\"grep_count\":\u00a0null,\u00a0\"script_name\":\u00a0\"wait_for_template_match.py\",\u00a0\"input\":\u00a0\"tap\",\u00a0\"type\":\u00a0\"action\"},\"label\":\u00a0\"btn_wait_for_tmp\"}},\u00a0\"steps\":\u00a0[{\"description\":\u00a0\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00000_screenshot.png\",\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[\"lnk_wait\"],\u00a0\"timing\":\u00a01.980132818222046,\u00a0\"url\":\"/api/v1/c/testai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/test_runs/20210412214521/Wait\u00a0-e6387a88-fbb1-4a03-b93a-8ff097f15daa/iter_00015_step_00000_screenshot.png\",\u00a0\"elem\":\u00a0{\"y\":\u00a08,\u00a0\"x\":\u00a0822,\u00a0\"height\":\u00a040,\"bounds\":\u00a0\"[822,8][870,48]\",\u00a0\"width\":\u00a048},\u00a0\"failed\":\u00a0false,\u00a0\"net\":\u00a00.0,\u00a0\"cpu\":\u00a00.0,\u00a0\"gesture\":\u00a0\"tap\"},\u00a0{\"description\":\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00001_screenshot.png\",\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[],\u00a0\"script_name\":\u00a0\"wait_for_label.py\",\"timing\":\u00a01.4863688945770264,\u00a0\"url\":", 
+    "transformed": true, 
+    "width": 1492, 
+    "x": 380, 
+    "y": 559
+}

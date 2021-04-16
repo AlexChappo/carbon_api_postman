@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "m0ZPvXapKrIffSY9xtaGTg==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X1164_Y808_W130_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mtk1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "mtk1", 
+            "domLevel": 46, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "},\u00a0{\"description\":", 
+            "type": "", 
+            "value": "", 
+            "width": 130, 
+            "x": 1164, 
+            "xPercent": 60.62662760416667, 
+            "y": 808, 
+            "yPercent": 91.19638826185101
+        }, 
+        "location": {
+            "x": 1164, 
+            "y": 808
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 130
+        }, 
+        "tag_name": "span", 
+        "text": "},\u00a0{\"description\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "},\u00a0{\"description\":", 
+    "transformed": true, 
+    "width": 130, 
+    "x": 1164, 
+    "y": 808
+}

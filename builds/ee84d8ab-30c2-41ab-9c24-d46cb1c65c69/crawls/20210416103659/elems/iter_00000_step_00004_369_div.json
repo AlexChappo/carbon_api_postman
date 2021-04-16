@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "JXc1zXermq12j0PqE1e53g==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X1072_Y61_W25_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab__icon"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "requester-tab__icon", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GET", 
+            "type": "", 
+            "value": "", 
+            "width": 25, 
+            "x": 1072, 
+            "xPercent": 55.833333333333336, 
+            "y": 61, 
+            "yPercent": 6.8284424379232505
+        }, 
+        "location": {
+            "x": 1072, 
+            "y": 61
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 25
+        }, 
+        "tag_name": "div", 
+        "text": "GET"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GET", 
+    "transformed": true, 
+    "width": 25, 
+    "x": 1072, 
+    "y": 61
+}

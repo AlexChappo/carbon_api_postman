@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SZE/ps7MrYqyLDP+V9kzcQ==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y825_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:216px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00001_screenshot.png\",\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[],\u00a0\"script_name\":\u00a0\"wait_for_label.py\",", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 825, 
+            "yPercent": 93.11512415349887
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 825
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00001_screenshot.png\",\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[],\u00a0\"script_name\":\u00a0\"wait_for_label.py\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "\"\",\u00a0\"screenshot\":\u00a0\"iter_00015_step_00001_screenshot.png\",\u00a0\"mem\":\u00a00.0,\u00a0\"labels\":\u00a0[],\u00a0\"script_name\":\u00a0\"wait_for_label.py\",", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 825
+}

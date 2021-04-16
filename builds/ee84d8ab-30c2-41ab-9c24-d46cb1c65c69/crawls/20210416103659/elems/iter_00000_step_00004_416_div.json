@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Bon3hZ9GFe4Wy82k1Y5Jdg==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X117_Y96_W227_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "input-search-group", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgb(249, 249, 249)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "input-search-group", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 227, 
+            "x": 117, 
+            "xPercent": 6.09375, 
+            "y": 96, 
+            "yPercent": 10.835214446952596
+        }, 
+        "location": {
+            "x": 117, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 227
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 227, 
+    "x": 117, 
+    "y": 96
+}

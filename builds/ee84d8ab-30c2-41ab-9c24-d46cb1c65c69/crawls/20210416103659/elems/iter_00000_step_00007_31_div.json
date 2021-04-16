@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bvvfiJBVJw/0qw+RBnthWQ==\n", 
+    "height": 39, 
+    "hier_level": 0, 
+    "human_hash": "div_X825_Y48_W149_H39", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab", 
+                "data-tab-id": "42bc9fa0-618b-4297-aba2-2407dbf39603", 
+                "draggable": "true"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-tab", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 39, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GETLabels", 
+            "type": "", 
+            "value": "", 
+            "width": 149, 
+            "x": 825, 
+            "xPercent": 42.962239583333336, 
+            "y": 48, 
+            "yPercent": 5.417607223476298
+        }, 
+        "location": {
+            "x": 825, 
+            "y": 48
+        }, 
+        "size": {
+            "height": 39, 
+            "width": 149
+        }, 
+        "tag_name": "div", 
+        "text": "GETLabels"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GETLabels", 
+    "transformed": true, 
+    "width": 149, 
+    "x": 825, 
+    "y": 48
+}

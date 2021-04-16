@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PvPL+X+MsI82TQzkErZ7VQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y790_W533_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "\"x\":\u00a0481,\u00a0\"width\":\u00a0125,\u00a0\"bounds\":\u00a0\"[481,8][606,48]\",\u00a0\"height\":\u00a040},\u00a0\"url\":", 
+            "type": "", 
+            "value": "", 
+            "width": 533, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 790, 
+            "yPercent": 89.1647855530474
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 790
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 533
+        }, 
+        "tag_name": "span", 
+        "text": "\"x\":\u00a0481,\u00a0\"width\":\u00a0125,\u00a0\"bounds\":\u00a0\"[481,8][606,48]\",\u00a0\"height\":\u00a040},\u00a0\"url\":"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "\"x\":\u00a0481,\u00a0\"width\":\u00a0125,\u00a0\"bounds\":\u00a0\"[481,8][606,48]\",\u00a0\"height\":\u00a040},\u00a0\"url\":", 
+    "transformed": true, 
+    "width": 533, 
+    "x": 444, 
+    "y": 790
+}

@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "FZJMMx3kR1Wy8NHuTuKiWQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X444_Y664_W864_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 45, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "e6387a88-fbb1-4a03-b93a-8ff097f15daa\",\u00a0\"created_at\":\u00a0\"2021-04-12T21:59:58\",\u00a0\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",", 
+            "type": "", 
+            "value": "", 
+            "width": 864, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 664, 
+            "yPercent": 74.94356659142211
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 664
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 864
+        }, 
+        "tag_name": "span", 
+        "text": "e6387a88-fbb1-4a03-b93a-8ff097f15daa\",\u00a0\"created_at\":\u00a0\"2021-04-12T21:59:58\",\u00a0\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "e6387a88-fbb1-4a03-b93a-8ff097f15daa\",\u00a0\"created_at\":\u00a0\"2021-04-12T21:59:58\",\u00a0\"note\":\u00a0\"Could\u00a0not\u00a0find:\u00a0btn_wait_for_tmp.\",", 
+    "transformed": true, 
+    "width": 864, 
+    "x": 444, 
+    "y": 664
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yZZ8VMWBpYL02dH4F/IHuw==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "div_X444_Y735_W1420_H18", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-line", 
+                "style": "top:126px;height:18px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "view-line", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "IBMPlexMono, \"Courier New\", monospace", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "16},\u00a0\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts\u00a0-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf\",", 
+            "type": "", 
+            "value": "", 
+            "width": 1420, 
+            "x": 444, 
+            "xPercent": 23.125, 
+            "y": 735, 
+            "yPercent": 82.95711060948081
+        }, 
+        "location": {
+            "x": 444, 
+            "y": 735
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 1420
+        }, 
+        "tag_name": "div", 
+        "text": "16},\u00a0\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts\u00a0-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf\","
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "16},\u00a0\"description\":\u00a0\"\",\u00a0\"title\":\u00a0\"Basic\u00a0Gestures\u00a0-\u00a0Individual\u00a0Scripts\u00a0-\u00a0f4b35a1d-ea41-4d09-bfb3-c17e897e55bf\",", 
+    "transformed": true, 
+    "width": 1420, 
+    "x": 444, 
+    "y": 735
+}

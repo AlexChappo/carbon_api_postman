@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "o3DEcTQmxVMqtAWP6AzpbQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X889_Y200_W47_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "domLevel": 33, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Settings", 
+            "type": "", 
+            "value": "", 
+            "width": 47, 
+            "x": 889, 
+            "xPercent": 46.32568359375, 
+            "y": 200, 
+            "yPercent": 22.573363431151243
+        }, 
+        "location": {
+            "x": 889, 
+            "y": 200
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 47
+        }, 
+        "tag_name": "span", 
+        "text": "Settings"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Settings", 
+    "transformed": true, 
+    "width": 47, 
+    "x": 889, 
+    "y": 200
+}

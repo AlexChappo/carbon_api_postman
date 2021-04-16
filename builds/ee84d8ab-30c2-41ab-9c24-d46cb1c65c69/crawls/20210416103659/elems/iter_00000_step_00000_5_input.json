@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": true, 
+    "checked": true, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "cWekNaiUTBKEzFn+dr6ltA==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "input_X796_Y385_W16_H16", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "checked": "", 
+                "id": "remember-me-checkbox", 
+                "type": "checkbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": true, 
+                "checked": true, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "remember-me-checkbox", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "checkbox", 
+            "value": "on", 
+            "width": 16, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 385, 
+            "yPercent": 43.45372460496614
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 385
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 16
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 16, 
+    "x": 796, 
+    "y": 385
+}
