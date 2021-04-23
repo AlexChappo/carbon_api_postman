@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "zfIPz35QmL0RtORJoQN0vw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X321_Y56_W51_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-secondary btn-small import-collection-button", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(237, 237, 237)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "btn btn-secondary btn-small import-collection-button", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Import", 
+            "type": "", 
+            "value": "", 
+            "width": 51, 
+            "x": 321, 
+            "xPercent": 16.70166015625, 
+            "y": 56, 
+            "yPercent": 6.264108352144469
+        }, 
+        "location": {
+            "x": 321, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 51
+        }, 
+        "tag_name": "div", 
+        "text": "Import"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Import", 
+    "transformed": true, 
+    "width": 51, 
+    "x": 321, 
+    "y": 56
+}

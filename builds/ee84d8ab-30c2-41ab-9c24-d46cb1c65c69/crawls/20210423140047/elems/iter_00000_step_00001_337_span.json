@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dFHlYD/7Dd0msj7sy6jOCg==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "span_X692_Y342_W194_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "TextLink__StyledTextLink-sc-1cim3od-0 fAkkel", 
+                "type": "link-primary"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(2, 101, 210)", 
+            "cssClass": "TextLink__StyledTextLink-sc-1cim3od-0 fAkkel", 
+            "domLevel": 35, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Learn more about authorization", 
+            "type": "link-primary", 
+            "value": "", 
+            "width": 194, 
+            "x": 692, 
+            "xPercent": 36.0595703125, 
+            "y": 342, 
+            "yPercent": 38.544018058690746
+        }, 
+        "location": {
+            "x": 692, 
+            "y": 342
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 194
+        }, 
+        "tag_name": "span", 
+        "text": "Learn more about authorization"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Learn more about authorization", 
+    "transformed": true, 
+    "width": 194, 
+    "x": 692, 
+    "y": 342
+}

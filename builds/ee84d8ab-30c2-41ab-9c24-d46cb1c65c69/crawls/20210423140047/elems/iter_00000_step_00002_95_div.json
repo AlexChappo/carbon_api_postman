@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "cD+suq5+esReD3LZsBoqfQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X1071_Y96_W34_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn watcher-count-btn", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(242, 242, 242)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "btn watcher-count-btn", 
+            "domLevel": 29, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "0", 
+            "type": "", 
+            "value": "", 
+            "width": 34, 
+            "x": 1071, 
+            "xPercent": 55.79264322916667, 
+            "y": 96, 
+            "yPercent": 10.778781038374719
+        }, 
+        "location": {
+            "x": 1071, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 34
+        }, 
+        "tag_name": "div", 
+        "text": "0"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "0", 
+    "transformed": true, 
+    "width": 34, 
+    "x": 1071, 
+    "y": 96
+}

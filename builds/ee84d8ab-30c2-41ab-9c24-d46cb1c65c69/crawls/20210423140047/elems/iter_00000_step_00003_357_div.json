@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/vy20SIpO299EmzbsZxWpQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "div_X556_Y61_W135_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-tab-title__text-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "requester-tab-title__text-wrapper", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GETTests", 
+            "type": "", 
+            "value": "", 
+            "width": 135, 
+            "x": 556, 
+            "xPercent": 28.958333333333336, 
+            "y": 61, 
+            "yPercent": 6.8284424379232505
+        }, 
+        "location": {
+            "x": 556, 
+            "y": 61
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 135
+        }, 
+        "tag_name": "div", 
+        "text": "GETTests"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GETTests", 
+    "transformed": true, 
+    "width": 135, 
+    "x": 556, 
+    "y": 61
+}

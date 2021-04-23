@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Ik+wQ1CwiAAO8DBSzLyjRg==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X1075_Y100_W28_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "dropdown", 
+            "domLevel": 30, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "0", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 1075, 
+            "xPercent": 55.97493489583333, 
+            "y": 100, 
+            "yPercent": 11.230248306997742
+        }, 
+        "location": {
+            "x": 1075, 
+            "y": 100
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 28
+        }, 
+        "tag_name": "div", 
+        "text": "0"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "0", 
+    "transformed": true, 
+    "width": 28, 
+    "x": 1075, 
+    "y": 100
+}

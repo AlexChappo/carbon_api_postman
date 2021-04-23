@@ -232,8 +232,10 @@
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00007_145_div.png"
     ], 
     "div_tests": [
-        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00007_191_div.png", 
-        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00009_109_div.png"
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210414171327/elems/iter_00000_step_00009_109_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210423140047/elems/iter_00000_step_00001_102_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210423140047/elems/iter_00000_step_00001_246_div.png", 
+        "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/ee84d8ab-30c2-41ab-9c24-d46cb1c65c69/crawls/20210423140047/elems/iter_00000_step_00001_190_div.png"
     ], 
     "div_verify_john_email": [
         "/Users/bot/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/builds/34aaaeb4-52c5-4fe3-b687-5a99e729419d/crawls/20210401172905/elems/iter_00000_step_00004_36_div.png"

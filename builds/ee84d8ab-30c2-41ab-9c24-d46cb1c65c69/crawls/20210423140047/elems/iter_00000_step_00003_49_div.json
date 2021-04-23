@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Y0qYfUq+wqPQsAN3sqO/hQ==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X388_Y144_W115_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "request-method-editor"
+            }, 
+            "background-color": "rgb(242, 242, 242)", 
+            "class": "div", 
+            "color": "rgb(33, 33, 33)", 
+            "cssClass": "request-method-editor", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 115, 
+            "x": 388, 
+            "xPercent": 20.208333333333332, 
+            "y": 144, 
+            "yPercent": 16.252821670428894
+        }, 
+        "location": {
+            "x": 388, 
+            "y": 144
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 115
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 115, 
+    "x": 388, 
+    "y": 144
+}

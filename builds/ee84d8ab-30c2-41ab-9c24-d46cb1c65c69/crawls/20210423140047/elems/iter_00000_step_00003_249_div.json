@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZrRDGCd/ulXnz3UuOncEYQ==\n", 
+    "height": 60, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y268_W80_H60", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "requester-left-sidebar__header-uncollapsed-tab"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "requester-left-sidebar__header-uncollapsed-tab", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Mock Servers", 
+            "type": "", 
+            "value": "", 
+            "width": 80, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 268, 
+            "yPercent": 30.248306997742663
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 80
+        }, 
+        "tag_name": "div", 
+        "text": "Mock Servers"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Mock Servers", 
+    "transformed": true, 
+    "width": 80, 
+    "x": 0, 
+    "y": 268
+}

@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xJ6U0yrxZxf/RU+K65BHGg==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X674_Y245_W43_H12", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "domLevel": 38, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "No Auth", 
+            "type": "", 
+            "value": "", 
+            "width": 43, 
+            "x": 674, 
+            "xPercent": 35.104166666666664, 
+            "y": 245, 
+            "yPercent": 27.65237020316027
+        }, 
+        "location": {
+            "x": 674, 
+            "y": 245
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 43
+        }, 
+        "tag_name": "span", 
+        "text": "No Auth"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "No Auth", 
+    "transformed": true, 
+    "width": 43, 
+    "x": 674, 
+    "y": 245
+}

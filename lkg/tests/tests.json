@@ -1116,7 +1116,7 @@
             {
                 "continue_on_failure": true, 
                 "description": "Verify test run id.", 
-                "grep": "20210416115045", 
+                "grep": "completed", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -1436,7 +1436,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "Verify test run number that appears on screen.", 
-                "grep": "20210416115045", 
+                "grep": "completed", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 

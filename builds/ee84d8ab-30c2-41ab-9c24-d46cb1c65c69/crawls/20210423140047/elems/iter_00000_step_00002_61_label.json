@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yI+Pz6W0PKu12DDsIKwGgw==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "label_X408_Y239_W240_H16", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Label__LabelElement-sc-1kphgse-1 dWbxPO", 
+                "for": "", 
+                "type": "primary"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "Label__LabelElement-sc-1kphgse-1 dWbxPO", 
+            "domLevel": 35, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, system-ui, -apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Type", 
+            "type": "primary", 
+            "value": "", 
+            "width": 240, 
+            "x": 408, 
+            "xPercent": 21.25, 
+            "y": 239, 
+            "yPercent": 26.975169300225733
+        }, 
+        "location": {
+            "x": 408, 
+            "y": 239
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 240
+        }, 
+        "tag_name": "label", 
+        "text": "Type"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Type", 
+    "transformed": true, 
+    "width": 240, 
+    "x": 408, 
+    "y": 239
+}

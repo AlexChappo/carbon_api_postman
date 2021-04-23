@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "d5ksuaw9blLTKNueX4bYUQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X380_Y136_W1100_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "request-editor__tabs-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "request-editor__tabs-wrapper", 
+            "domLevel": 27, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "AuthorizationPre-request ScriptTestsVariables", 
+            "type": "", 
+            "value": "", 
+            "width": 1100, 
+            "x": 380, 
+            "xPercent": 19.791666666666664, 
+            "y": 136, 
+            "yPercent": 15.349887133182843
+        }, 
+        "location": {
+            "x": 380, 
+            "y": 136
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 1100
+        }, 
+        "tag_name": "div", 
+        "text": "AuthorizationPre-request ScriptTestsVariables"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "AuthorizationPre-request ScriptTestsVariables", 
+    "transformed": true, 
+    "width": 1100, 
+    "x": 380, 
+    "y": 136
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "+YF8IQzPbtx10wLXg6+p4Q==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "span_X426_Y342_W267_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Text__TextContainer-sc-1ddv9v9-0 fYgfT", 
+                "color": "content-color-secondary", 
+                "type": "body-medium"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(107, 107, 107)", 
+            "cssClass": "Text__TextContainer-sc-1ddv9v9-0 fYgfT", 
+            "domLevel": 34, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, system-ui, -apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "This collection does not use any authorization.", 
+            "type": "body-medium", 
+            "value": "", 
+            "width": 267, 
+            "x": 426, 
+            "xPercent": 22.1630859375, 
+            "y": 342, 
+            "yPercent": 38.60045146726862
+        }, 
+        "location": {
+            "x": 426, 
+            "y": 342
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 267
+        }, 
+        "tag_name": "span", 
+        "text": "This collection does not use any authorization."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "This collection does not use any authorization.", 
+    "transformed": true, 
+    "width": 267, 
+    "x": 426, 
+    "y": 342
+}

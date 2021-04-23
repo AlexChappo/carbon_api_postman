@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "rGWZqnE5B++QHs0ganTmpg==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "a_X968_Y608_W79_H17", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.postman.com/legal/privacy-policy", 
+                "target": "_blank", 
+                "title": "Privacy Policy"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(102, 102, 102)", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Privacy Policy", 
+            "type": "", 
+            "value": "", 
+            "width": 79, 
+            "x": 968, 
+            "xPercent": 50.4052734375, 
+            "y": 608, 
+            "yPercent": 68.59833521444695
+        }, 
+        "location": {
+            "x": 968, 
+            "y": 608
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 79
+        }, 
+        "tag_name": "a", 
+        "text": "Privacy Policy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Privacy Policy", 
+    "transformed": true, 
+    "width": 79, 
+    "x": 968, 
+    "y": 608
+}

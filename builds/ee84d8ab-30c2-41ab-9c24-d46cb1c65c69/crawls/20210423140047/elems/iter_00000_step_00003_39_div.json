@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7YBdaiHlzW58cv48M4YIfw==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "div_X1389_Y297_W480_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "key-value-cell__placeholder reference__0-2"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(166, 166, 166)", 
+            "cssClass": "key-value-cell__placeholder reference__0-2", 
+            "domLevel": 44, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter, OpenSans, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Description", 
+            "type": "", 
+            "value": "", 
+            "width": 480, 
+            "x": 1389, 
+            "xPercent": 72.34375, 
+            "y": 297, 
+            "yPercent": 33.521444695259596
+        }, 
+        "location": {
+            "x": 1389, 
+            "y": 297
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 480
+        }, 
+        "tag_name": "div", 
+        "text": "Description"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Description", 
+    "transformed": true, 
+    "width": 480, 
+    "x": 1389, 
+    "y": 297
+}
